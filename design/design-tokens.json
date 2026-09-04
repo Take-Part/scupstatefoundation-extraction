@@ -1,0 +1,4034 @@
+{
+  "colors": {
+    "brand": [
+      {
+        "color": "#fff",
+        "occurrences": 1023,
+        "screenshot_match": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#85b559",
+        "occurrences": 757,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#85b55a",
+        "closest_distance": 0.3,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#000",
+        "occurrences": 515,
+        "screenshot_match": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#87b55e",
+        "occurrences": 359,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#87b55e",
+        "closest_distance": 0.0,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#999",
+        "occurrences": 228,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#9d9c9c",
+        "closest_distance": 3.3,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#666",
+        "occurrences": 184,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#63665f",
+        "closest_distance": 2.9,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#475569",
+        "occurrences": 180,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#3f5a69",
+        "closest_distance": 5.8,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#046bd2",
+        "occurrences": 180,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#3f5a69",
+        "closest_distance": 49.7,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#001e53",
+        "occurrences": 148,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#001e53",
+        "closest_distance": 0.0,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#ff6900",
+        "occurrences": 135,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#af7159",
+        "closest_distance": 53.4,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#0693e3",
+        "occurrences": 91,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#67878c",
+        "closest_distance": 61.3,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#045cb4",
+        "occurrences": 90,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#105844",
+        "closest_distance": 38.5,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#334155",
+        "occurrences": 90,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#374151",
+        "closest_distance": 2.6,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#cf2e2e",
+        "occurrences": 90,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#9f6947",
+        "closest_distance": 52.9,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#fcb900",
+        "occurrences": 90,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#dcc3a7",
+        "closest_distance": 59.5,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#9b51e0",
+        "occurrences": 90,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#85776f",
+        "closest_distance": 49.5,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#0000",
+        "occurrences": 90,
+        "screenshot_match": null,
+        "possible_artifact": false
+      },
+      {
+        "color": "#79a354",
+        "occurrences": 90,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#6e9a59",
+        "closest_distance": 9.3,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#8e0e12",
+        "occurrences": 90,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#770b17",
+        "closest_distance": 12.9,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#435c3d",
+        "occurrences": 90,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#476346",
+        "closest_distance": 6.5,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#95ca8791",
+        "occurrences": 90,
+        "screenshot_match": null,
+        "possible_artifact": false
+      },
+      {
+        "color": "#ccc",
+        "occurrences": 69,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#cbcccb",
+        "closest_distance": 0.6,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#eee",
+        "occurrences": 49,
+        "screenshot_match": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#00d084",
+        "occurrences": 46,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#6fba68",
+        "closest_distance": 63.7,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#020381",
+        "occurrences": 46,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#00184f",
+        "closest_distance": 23.3,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#2874fc",
+        "occurrences": 46,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#506a72",
+        "closest_distance": 52.0,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#dc2626",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#770b17",
+        "closest_distance": 59.2,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#f78da7",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#c5a693",
+        "closest_distance": 34.1,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#7bdcb5",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#9ebfa2",
+        "closest_distance": 30.0,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#8ed1fc",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#9ebfa2",
+        "closest_distance": 34.5,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#7adcb4",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#9ebfa2",
+        "closest_distance": 30.3,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#00d082",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#6fba68",
+        "closest_distance": 63.6,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#4aeadc",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#6fba68",
+        "closest_distance": 57.4,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#9778d1",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#838385",
+        "closest_distance": 29.1,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#cf2aba",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#af7159",
+        "closest_distance": 65.9,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#ee2c82",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#af7159",
+        "closest_distance": 64.6,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#fb6962",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#af7159",
+        "closest_distance": 42.1,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#fef84c",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#ffefc8",
+        "closest_distance": 42.4,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#ffceec",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#e0dfdf",
+        "closest_distance": 21.8,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#9896f0",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#a0a09f",
+        "closest_distance": 28.7,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#fecda5",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#dcc3a7",
+        "closest_distance": 20.1,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#fe2d2d",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#af7159",
+        "closest_distance": 69.3,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#6b003e",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#74000e",
+        "closest_distance": 16.9,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#ffcb70",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#dcc3a7",
+        "closest_distance": 27.4,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#c751c0",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#af7159",
+        "closest_distance": 44.5,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#4158d0",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#52616f",
+        "closest_distance": 34.7,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#fff5cb",
+        "occurrences": 45,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#ffefc8",
+        "closest_distance": 4.7,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#b6e3d4",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#cdd3c9",
+        "closest_distance": 18.0,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#33a7b5",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#67878c",
+        "closest_distance": 40.0,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#caf880",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#dce5d5",
+        "closest_distance": 33.7,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#71ce7e",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#6fba68",
+        "closest_distance": 17.1,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#ffc0cb00",
+        "occurrences": 45,
+        "screenshot_match": null,
+        "possible_artifact": false
+      },
+      {
+        "color": "#c2373b",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#9f6947",
+        "closest_distance": 43.0,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#456723",
+        "occurrences": 45,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#476346",
+        "closest_distance": 12.3,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#001740",
+        "occurrences": 21,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#001740",
+        "closest_distance": 0.0,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#253f8e",
+        "occurrences": 13,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#1c375f",
+        "closest_distance": 17.7,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#425770",
+        "occurrences": 12,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#3f5a69",
+        "closest_distance": 3.7,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#0c5adb",
+        "occurrences": 12,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#3f5a69",
+        "closest_distance": 47.5,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#0274be",
+        "occurrences": 9,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#105844",
+        "closest_distance": 47.1,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#ddd",
+        "occurrences": 9,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#dddddd",
+        "closest_distance": 0.0,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#61ce7000",
+        "occurrences": 9,
+        "screenshot_match": null,
+        "possible_artifact": false
+      },
+      {
+        "color": "#777",
+        "occurrences": 9,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#7a7876",
+        "closest_distance": 1.8,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#2575fc",
+        "occurrences": 7,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#506a72",
+        "closest_distance": 52.9,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#d9534f",
+        "occurrences": 5,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#af7159",
+        "closest_distance": 32.7,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#5eead4",
+        "occurrences": 5,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#9ebfa2",
+        "closest_distance": 50.9,
+        "review_recommended": true,
+        "possible_artifact": false
+      },
+      {
+        "color": "#333",
+        "occurrences": 5,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#333331",
+        "closest_distance": 0.7,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#4b3fe1",
+        "occurrences": 4,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#3f5a69",
+        "closest_distance": 46.0,
+        "review_recommended": false,
+        "possible_artifact": true
+      },
+      {
+        "color": "#07b787",
+        "occurrences": 4,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#6fba68",
+        "closest_distance": 57.9,
+        "review_recommended": false,
+        "possible_artifact": true
+      },
+      {
+        "color": "#7ed500",
+        "occurrences": 4,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#87b759",
+        "closest_distance": 38.2,
+        "review_recommended": false,
+        "possible_artifact": true
+      },
+      {
+        "color": "#21759b",
+        "occurrences": 3,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#506a72",
+        "closest_distance": 30.4,
+        "review_recommended": false,
+        "possible_artifact": true
+      },
+      {
+        "color": "#5cb85c",
+        "occurrences": 3,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#6fba68",
+        "closest_distance": 11.3,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#0d3a4f",
+        "occurrences": 3,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#133645",
+        "closest_distance": 5.6,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#123075",
+        "occurrences": 3,
+        "screenshot_match": true,
+        "closest_screenshot_color": "#112c59",
+        "closest_distance": 10.0,
+        "review_recommended": false,
+        "possible_artifact": false
+      },
+      {
+        "color": "#4d68ff",
+        "occurrences": 3,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#506a72",
+        "closest_distance": 47.7,
+        "review_recommended": false,
+        "possible_artifact": true
+      },
+      {
+        "color": "#dc3232",
+        "occurrences": 3,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#9f6947",
+        "closest_distance": 54.2,
+        "review_recommended": false,
+        "possible_artifact": true
+      },
+      {
+        "color": "#ff4500",
+        "occurrences": 3,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#af7159",
+        "closest_distance": 62.9,
+        "review_recommended": false,
+        "possible_artifact": true
+      },
+      {
+        "color": "#1da1f2",
+        "occurrences": 3,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#67878c",
+        "closest_distance": 56.7,
+        "review_recommended": false,
+        "possible_artifact": true
+      },
+      {
+        "color": "#25d366",
+        "occurrences": 3,
+        "screenshot_match": false,
+        "closest_screenshot_color": "#6fba68",
+        "closest_distance": 44.8,
+        "review_recommended": false,
+        "possible_artifact": true
+      }
+    ],
+    "neutrals": [
+      {
+        "color": "#ffffff",
+        "occurrences": 1495
+      },
+      {
+        "color": "#000000",
+        "occurrences": 988
+      },
+      {
+        "color": "#848484",
+        "occurrences": 312
+      },
+      {
+        "color": "#111111",
+        "occurrences": 180
+      },
+      {
+        "color": "#0000001f",
+        "occurrences": 180
+      },
+      {
+        "color": "#ababab",
+        "occurrences": 103
+      },
+      {
+        "color": "#ffffff00",
+        "occurrences": 92
+      },
+      {
+        "color": "#fbfbfb",
+        "occurrences": 90
+      },
+      {
+        "color": "#eeeeee",
+        "occurrences": 90
+      },
+      {
+        "color": "#9ca3af",
+        "occurrences": 90
+      },
+      {
+        "color": "#1e293b",
+        "occurrences": 90
+      },
+      {
+        "color": "#f0f5fa",
+        "occurrences": 90
+      },
+      {
+        "color": "#d1d5db",
+        "occurrences": 90
+      },
+      {
+        "color": "#02010100",
+        "occurrences": 62
+      },
+      {
+        "color": "#e7e7e7",
+        "occurrences": 49
+      },
+      {
+        "color": "#3a3a3a",
+        "occurrences": 47
+      },
+      {
+        "color": "#f5f5f5",
+        "occurrences": 47
+      },
+      {
+        "color": "#fafafa",
+        "occurrences": 46
+      },
+      {
+        "color": "#e6e6e6",
+        "occurrences": 46
+      },
+      {
+        "color": "#eceff3",
+        "occurrences": 45
+      },
+      {
+        "color": "#f9fafb",
+        "occurrences": 45
+      },
+      {
+        "color": "#00000057",
+        "occurrences": 45
+      },
+      {
+        "color": "#111827",
+        "occurrences": 45
+      },
+      {
+        "color": "#abb8c3",
+        "occurrences": 45
+      },
+      {
+        "color": "#32373c",
+        "occurrences": 45
+      },
+      {
+        "color": "#a9b8c3",
+        "occurrences": 45
+      },
+      {
+        "color": "#00000026",
+        "occurrences": 45
+      },
+      {
+        "color": "#353845",
+        "occurrences": 33
+      },
+      {
+        "color": "#e1e8ed",
+        "occurrences": 18
+      },
+      {
+        "color": "#f7f7f7",
+        "occurrences": 18
+      },
+      {
+        "color": "#c7c7c7",
+        "occurrences": 12
+      },
+      {
+        "color": "#707070",
+        "occurrences": 10
+      },
+      {
+        "color": "#69727d",
+        "occurrences": 9
+      },
+      {
+        "color": "#808285",
+        "occurrences": 8
+      },
+      {
+        "color": "#101010",
+        "occurrences": 8
+      },
+      {
+        "color": "#edf2f9",
+        "occurrences": 7
+      },
+      {
+        "color": "#595b61",
+        "occurrences": 7
+      },
+      {
+        "color": "#2d2d2d",
+        "occurrences": 6
+      },
+      {
+        "color": "#101828",
+        "occurrences": 5
+      },
+      {
+        "color": "#dadada",
+        "occurrences": 4
+      },
+      {
+        "color": "#949494",
+        "occurrences": 4
+      },
+      {
+        "color": "#f0f0f0",
+        "occurrences": 4
+      },
+      {
+        "color": "#1f2124",
+        "occurrences": 3
+      },
+      {
+        "color": "#333333",
+        "occurrences": 3
+      },
+      {
+        "color": "#495057",
+        "occurrences": 3
+      },
+      {
+        "color": "#5a5a5a",
+        "occurrences": 3
+      },
+      {
+        "color": "#f1f1f1",
+        "occurrences": 2
+      },
+      {
+        "color": "#f9f9f9",
+        "occurrences": 2
+      },
+      {
+        "color": "#d9d9d9",
+        "occurrences": 2
+      },
+      {
+        "color": "#8d8d8d",
+        "occurrences": 2
+      },
+      {
+        "color": "#e5e5e5",
+        "occurrences": 2
+      },
+      {
+        "color": "#54595fa6",
+        "occurrences": 2
+      },
+      {
+        "color": "#0000009e",
+        "occurrences": 2
+      },
+      {
+        "color": "#ffffffa1",
+        "occurrences": 2
+      },
+      {
+        "color": "#313636",
+        "occurrences": 2
+      },
+      {
+        "color": "#222222",
+        "occurrences": 2
+      },
+      {
+        "color": "#ededed",
+        "occurrences": 2
+      },
+      {
+        "color": "#ffffff8f",
+        "occurrences": 2
+      },
+      {
+        "color": "#1e1f26",
+        "occurrences": 2
+      },
+      {
+        "color": "#24292d",
+        "occurrences": 2
+      },
+      {
+        "color": "#f3f4f5",
+        "occurrences": 2
+      },
+      {
+        "color": "#e7f5fe",
+        "occurrences": 2
+      },
+      {
+        "color": "#fcf0ef",
+        "occurrences": 2
+      },
+      {
+        "color": "#313131",
+        "occurrences": 2
+      },
+      {
+        "color": "#e5f0ff",
+        "occurrences": 1
+      },
+      {
+        "color": "#02010126",
+        "occurrences": 1
+      },
+      {
+        "color": "#f4f4f4",
+        "occurrences": 1
+      },
+      {
+        "color": "#e9eef2",
+        "occurrences": 1
+      },
+      {
+        "color": "#a6aabb",
+        "occurrences": 1
+      },
+      {
+        "color": "#a3a3a3",
+        "occurrences": 1
+      },
+      {
+        "color": "#656565",
+        "occurrences": 1
+      },
+      {
+        "color": "#000000b3",
+        "occurrences": 1
+      },
+      {
+        "color": "#d6dee8",
+        "occurrences": 1
+      },
+      {
+        "color": "#7f8595",
+        "occurrences": 1
+      },
+      {
+        "color": "#c4c4c4",
+        "occurrences": 1
+      },
+      {
+        "color": "#acacac",
+        "occurrences": 1
+      },
+      {
+        "color": "#23282d",
+        "occurrences": 1
+      },
+      {
+        "color": "#fbfbfc",
+        "occurrences": 1
+      },
+      {
+        "color": "#40464d",
+        "occurrences": 1
+      },
+      {
+        "color": "#71717a",
+        "occurrences": 1
+      },
+      {
+        "color": "#eceadd",
+        "occurrences": 1
+      },
+      {
+        "color": "#262626",
+        "occurrences": 1
+      },
+      {
+        "color": "#818a91",
+        "occurrences": 1
+      },
+      {
+        "color": "#273a4b",
+        "occurrences": 1
+      },
+      {
+        "color": "#54595f",
+        "occurrences": 1
+      },
+      {
+        "color": "#7a7a7a",
+        "occurrences": 1
+      },
+      {
+        "color": "#0c0d0e",
+        "occurrences": 1
+      }
+    ],
+    "all": [
+      {
+        "color": "#ffffff",
+        "occurrences": 1495
+      },
+      {
+        "color": "#fff",
+        "occurrences": 1023
+      },
+      {
+        "color": "#000000",
+        "occurrences": 988
+      },
+      {
+        "color": "#85b559",
+        "occurrences": 757
+      },
+      {
+        "color": "#000",
+        "occurrences": 515
+      },
+      {
+        "color": "#87b55e",
+        "occurrences": 359
+      },
+      {
+        "color": "#848484",
+        "occurrences": 312
+      },
+      {
+        "color": "#999",
+        "occurrences": 228
+      },
+      {
+        "color": "#666",
+        "occurrences": 184
+      },
+      {
+        "color": "#475569",
+        "occurrences": 180
+      },
+      {
+        "color": "#046bd2",
+        "occurrences": 180
+      },
+      {
+        "color": "#111111",
+        "occurrences": 180
+      },
+      {
+        "color": "#0000001f",
+        "occurrences": 180
+      },
+      {
+        "color": "#001e53",
+        "occurrences": 148
+      },
+      {
+        "color": "#ff6900",
+        "occurrences": 135
+      },
+      {
+        "color": "#ababab",
+        "occurrences": 103
+      },
+      {
+        "color": "#ffffff00",
+        "occurrences": 92
+      },
+      {
+        "color": "#0693e3",
+        "occurrences": 91
+      },
+      {
+        "color": "#fbfbfb",
+        "occurrences": 90
+      },
+      {
+        "color": "#eeeeee",
+        "occurrences": 90
+      },
+      {
+        "color": "#9ca3af",
+        "occurrences": 90
+      },
+      {
+        "color": "#045cb4",
+        "occurrences": 90
+      },
+      {
+        "color": "#1e293b",
+        "occurrences": 90
+      },
+      {
+        "color": "#334155",
+        "occurrences": 90
+      },
+      {
+        "color": "#f0f5fa",
+        "occurrences": 90
+      },
+      {
+        "color": "#d1d5db",
+        "occurrences": 90
+      },
+      {
+        "color": "#cf2e2e",
+        "occurrences": 90
+      },
+      {
+        "color": "#fcb900",
+        "occurrences": 90
+      },
+      {
+        "color": "#9b51e0",
+        "occurrences": 90
+      },
+      {
+        "color": "#0000",
+        "occurrences": 90
+      },
+      {
+        "color": "#79a354",
+        "occurrences": 90
+      },
+      {
+        "color": "#8e0e12",
+        "occurrences": 90
+      },
+      {
+        "color": "#435c3d",
+        "occurrences": 90
+      },
+      {
+        "color": "#95ca8791",
+        "occurrences": 90
+      },
+      {
+        "color": "#ccc",
+        "occurrences": 69
+      },
+      {
+        "color": "#02010100",
+        "occurrences": 62
+      },
+      {
+        "color": "#e7e7e7",
+        "occurrences": 49
+      },
+      {
+        "color": "#eee",
+        "occurrences": 49
+      },
+      {
+        "color": "#3a3a3a",
+        "occurrences": 47
+      },
+      {
+        "color": "#f5f5f5",
+        "occurrences": 47
+      },
+      {
+        "color": "#fafafa",
+        "occurrences": 46
+      },
+      {
+        "color": "#e6e6e6",
+        "occurrences": 46
+      },
+      {
+        "color": "#00d084",
+        "occurrences": 46
+      },
+      {
+        "color": "#020381",
+        "occurrences": 46
+      },
+      {
+        "color": "#2874fc",
+        "occurrences": 46
+      },
+      {
+        "color": "#eceff3",
+        "occurrences": 45
+      },
+      {
+        "color": "#f9fafb",
+        "occurrences": 45
+      },
+      {
+        "color": "#00000057",
+        "occurrences": 45
+      },
+      {
+        "color": "#111827",
+        "occurrences": 45
+      },
+      {
+        "color": "#dc2626",
+        "occurrences": 45
+      },
+      {
+        "color": "#abb8c3",
+        "occurrences": 45
+      },
+      {
+        "color": "#f78da7",
+        "occurrences": 45
+      },
+      {
+        "color": "#7bdcb5",
+        "occurrences": 45
+      },
+      {
+        "color": "#8ed1fc",
+        "occurrences": 45
+      },
+      {
+        "color": "#32373c",
+        "occurrences": 45
+      },
+      {
+        "color": "#7adcb4",
+        "occurrences": 45
+      },
+      {
+        "color": "#00d082",
+        "occurrences": 45
+      },
+      {
+        "color": "#a9b8c3",
+        "occurrences": 45
+      },
+      {
+        "color": "#4aeadc",
+        "occurrences": 45
+      },
+      {
+        "color": "#9778d1",
+        "occurrences": 45
+      },
+      {
+        "color": "#cf2aba",
+        "occurrences": 45
+      },
+      {
+        "color": "#ee2c82",
+        "occurrences": 45
+      },
+      {
+        "color": "#fb6962",
+        "occurrences": 45
+      },
+      {
+        "color": "#fef84c",
+        "occurrences": 45
+      },
+      {
+        "color": "#ffceec",
+        "occurrences": 45
+      },
+      {
+        "color": "#9896f0",
+        "occurrences": 45
+      },
+      {
+        "color": "#fecda5",
+        "occurrences": 45
+      },
+      {
+        "color": "#fe2d2d",
+        "occurrences": 45
+      },
+      {
+        "color": "#6b003e",
+        "occurrences": 45
+      },
+      {
+        "color": "#ffcb70",
+        "occurrences": 45
+      },
+      {
+        "color": "#c751c0",
+        "occurrences": 45
+      },
+      {
+        "color": "#4158d0",
+        "occurrences": 45
+      },
+      {
+        "color": "#fff5cb",
+        "occurrences": 45
+      },
+      {
+        "color": "#b6e3d4",
+        "occurrences": 45
+      },
+      {
+        "color": "#33a7b5",
+        "occurrences": 45
+      },
+      {
+        "color": "#caf880",
+        "occurrences": 45
+      },
+      {
+        "color": "#71ce7e",
+        "occurrences": 45
+      },
+      {
+        "color": "#ffc0cb00",
+        "occurrences": 45
+      },
+      {
+        "color": "#c2373b",
+        "occurrences": 45
+      },
+      {
+        "color": "#00000026",
+        "occurrences": 45
+      },
+      {
+        "color": "#456723",
+        "occurrences": 45
+      },
+      {
+        "color": "#353845",
+        "occurrences": 33
+      },
+      {
+        "color": "#001740",
+        "occurrences": 21
+      },
+      {
+        "color": "#e1e8ed",
+        "occurrences": 18
+      },
+      {
+        "color": "#f7f7f7",
+        "occurrences": 18
+      },
+      {
+        "color": "#253f8e",
+        "occurrences": 13
+      },
+      {
+        "color": "#c7c7c7",
+        "occurrences": 12
+      },
+      {
+        "color": "#425770",
+        "occurrences": 12
+      },
+      {
+        "color": "#0c5adb",
+        "occurrences": 12
+      },
+      {
+        "color": "#707070",
+        "occurrences": 10
+      },
+      {
+        "color": "#0274be",
+        "occurrences": 9
+      },
+      {
+        "color": "#69727d",
+        "occurrences": 9
+      },
+      {
+        "color": "#ddd",
+        "occurrences": 9
+      },
+      {
+        "color": "#61ce7000",
+        "occurrences": 9
+      },
+      {
+        "color": "#777",
+        "occurrences": 9
+      },
+      {
+        "color": "#808285",
+        "occurrences": 8
+      },
+      {
+        "color": "#101010",
+        "occurrences": 8
+      },
+      {
+        "color": "#edf2f9",
+        "occurrences": 7
+      },
+      {
+        "color": "#2575fc",
+        "occurrences": 7
+      },
+      {
+        "color": "#595b61",
+        "occurrences": 7
+      },
+      {
+        "color": "#2d2d2d",
+        "occurrences": 6
+      },
+      {
+        "color": "#101828",
+        "occurrences": 5
+      },
+      {
+        "color": "#d9534f",
+        "occurrences": 5
+      },
+      {
+        "color": "#5eead4",
+        "occurrences": 5
+      },
+      {
+        "color": "#333",
+        "occurrences": 5
+      },
+      {
+        "color": "#4b3fe1",
+        "occurrences": 4
+      },
+      {
+        "color": "#07b787",
+        "occurrences": 4
+      },
+      {
+        "color": "#7ed500",
+        "occurrences": 4
+      },
+      {
+        "color": "#dadada",
+        "occurrences": 4
+      },
+      {
+        "color": "#949494",
+        "occurrences": 4
+      },
+      {
+        "color": "#f0f0f0",
+        "occurrences": 4
+      },
+      {
+        "color": "#21759b",
+        "occurrences": 3
+      },
+      {
+        "color": "#1f2124",
+        "occurrences": 3
+      },
+      {
+        "color": "#5cb85c",
+        "occurrences": 3
+      },
+      {
+        "color": "#0d3a4f",
+        "occurrences": 3
+      },
+      {
+        "color": "#333333",
+        "occurrences": 3
+      },
+      {
+        "color": "#123075",
+        "occurrences": 3
+      },
+      {
+        "color": "#495057",
+        "occurrences": 3
+      },
+      {
+        "color": "#4d68ff",
+        "occurrences": 3
+      },
+      {
+        "color": "#dc3232",
+        "occurrences": 3
+      },
+      {
+        "color": "#ff4500",
+        "occurrences": 3
+      },
+      {
+        "color": "#1da1f2",
+        "occurrences": 3
+      },
+      {
+        "color": "#25d366",
+        "occurrences": 3
+      },
+      {
+        "color": "#5a5a5a",
+        "occurrences": 3
+      },
+      {
+        "color": "#f1f1f1",
+        "occurrences": 2
+      },
+      {
+        "color": "#f9f9f9",
+        "occurrences": 2
+      },
+      {
+        "color": "#d9d9d9",
+        "occurrences": 2
+      },
+      {
+        "color": "#ffdd00",
+        "occurrences": 2
+      },
+      {
+        "color": "#ffe01a",
+        "occurrences": 2
+      },
+      {
+        "color": "#f2295b",
+        "occurrences": 2
+      },
+      {
+        "color": "#5bc0de",
+        "occurrences": 2
+      },
+      {
+        "color": "#f0ad4e",
+        "occurrences": 2
+      },
+      {
+        "color": "#bbb",
+        "occurrences": 2
+      },
+      {
+        "color": "#ffa500",
+        "occurrences": 2
+      },
+      {
+        "color": "#555",
+        "occurrences": 2
+      },
+      {
+        "color": "#8d8d8d",
+        "occurrences": 2
+      },
+      {
+        "color": "#8692af",
+        "occurrences": 2
+      },
+      {
+        "color": "#fa2b56",
+        "occurrences": 2
+      },
+      {
+        "color": "#e5e5e5",
+        "occurrences": 2
+      },
+      {
+        "color": "#54595fa6",
+        "occurrences": 2
+      },
+      {
+        "color": "#0000009e",
+        "occurrences": 2
+      },
+      {
+        "color": "#85b55900",
+        "occurrences": 2
+      },
+      {
+        "color": "#ffffffa1",
+        "occurrences": 2
+      },
+      {
+        "color": "#313636",
+        "occurrences": 2
+      },
+      {
+        "color": "#222222",
+        "occurrences": 2
+      },
+      {
+        "color": "#ededed",
+        "occurrences": 2
+      },
+      {
+        "color": "#ffffff8f",
+        "occurrences": 2
+      },
+      {
+        "color": "#444",
+        "occurrences": 2
+      },
+      {
+        "color": "#f90",
+        "occurrences": 2
+      },
+      {
+        "color": "#1ea0c3",
+        "occurrences": 2
+      },
+      {
+        "color": "#0757fe",
+        "occurrences": 2
+      },
+      {
+        "color": "#0a7aff",
+        "occurrences": 2
+      },
+      {
+        "color": "#1e1f26",
+        "occurrences": 2
+      },
+      {
+        "color": "#02e49b",
+        "occurrences": 2
+      },
+      {
+        "color": "#5865f2",
+        "occurrences": 2
+      },
+      {
+        "color": "#e94c89",
+        "occurrences": 2
+      },
+      {
+        "color": "#4280ff",
+        "occurrences": 2
+      },
+      {
+        "color": "#f45800",
+        "occurrences": 2
+      },
+      {
+        "color": "#0866ff",
+        "occurrences": 2
+      },
+      {
+        "color": "#0461dd",
+        "occurrences": 2
+      },
+      {
+        "color": "#e65678",
+        "occurrences": 2
+      },
+      {
+        "color": "#24292d",
+        "occurrences": 2
+      },
+      {
+        "color": "#382110",
+        "occurrences": 2
+      },
+      {
+        "color": "#ea4434",
+        "occurrences": 2
+      },
+      {
+        "color": "#1d4fc4",
+        "occurrences": 2
+      },
+      {
+        "color": "#f00075",
+        "occurrences": 2
+      },
+      {
+        "color": "#e21b24",
+        "occurrences": 2
+      },
+      {
+        "color": "#0d66c2",
+        "occurrences": 2
+      },
+      {
+        "color": "#3288d4",
+        "occurrences": 2
+      },
+      {
+        "color": "#f6405f",
+        "occurrences": 2
+      },
+      {
+        "color": "#e60122",
+        "occurrences": 2
+      },
+      {
+        "color": "#ef4155",
+        "occurrences": 2
+      },
+      {
+        "color": "#0478d7",
+        "occurrences": 2
+      },
+      {
+        "color": "#ff5600",
+        "occurrences": 2
+      },
+      {
+        "color": "#1bd760",
+        "occurrences": 2
+      },
+      {
+        "color": "#2aabee",
+        "occurrences": 2
+      },
+      {
+        "color": "#011835",
+        "occurrences": 2
+      },
+      {
+        "color": "#6440a4",
+        "occurrences": 2
+      },
+      {
+        "color": "#1eb7ea",
+        "occurrences": 2
+      },
+      {
+        "color": "#4680c2",
+        "occurrences": 2
+      },
+      {
+        "color": "#3499cd",
+        "occurrences": 2
+      },
+      {
+        "color": "#d32422",
+        "occurrences": 2
+      },
+      {
+        "color": "#f3f4f5",
+        "occurrences": 2
+      },
+      {
+        "color": "#e9fbe5",
+        "occurrences": 2
+      },
+      {
+        "color": "#e7f5fe",
+        "occurrences": 2
+      },
+      {
+        "color": "#fcf0ef",
+        "occurrences": 2
+      },
+      {
+        "color": "#313131",
+        "occurrences": 2
+      },
+      {
+        "color": "#0077b5",
+        "occurrences": 2
+      },
+      {
+        "color": "#ff0",
+        "occurrences": 1
+      },
+      {
+        "color": "#111",
+        "occurrences": 1
+      },
+      {
+        "color": "#4169e1",
+        "occurrences": 1
+      },
+      {
+        "color": "#191970",
+        "occurrences": 1
+      },
+      {
+        "color": "#222",
+        "occurrences": 1
+      },
+      {
+        "color": "#434960",
+        "occurrences": 1
+      },
+      {
+        "color": "#e5f0ff",
+        "occurrences": 1
+      },
+      {
+        "color": "#2c324c",
+        "occurrences": 1
+      },
+      {
+        "color": "#f2709c",
+        "occurrences": 1
+      },
+      {
+        "color": "#fe8f75",
+        "occurrences": 1
+      },
+      {
+        "color": "#174eac",
+        "occurrences": 1
+      },
+      {
+        "color": "#02010126",
+        "occurrences": 1
+      },
+      {
+        "color": "#f4f4f4",
+        "occurrences": 1
+      },
+      {
+        "color": "#1e73be",
+        "occurrences": 1
+      },
+      {
+        "color": "#e9eef2",
+        "occurrences": 1
+      },
+      {
+        "color": "#a6aabb",
+        "occurrences": 1
+      },
+      {
+        "color": "#102966",
+        "occurrences": 1
+      },
+      {
+        "color": "#a3a3a3",
+        "occurrences": 1
+      },
+      {
+        "color": "#912f3d",
+        "occurrences": 1
+      },
+      {
+        "color": "#ff712b",
+        "occurrences": 1
+      },
+      {
+        "color": "#08f",
+        "occurrences": 1
+      },
+      {
+        "color": "#6c9960",
+        "occurrences": 1
+      },
+      {
+        "color": "#656565",
+        "occurrences": 1
+      },
+      {
+        "color": "#2e4a27",
+        "occurrences": 1
+      },
+      {
+        "color": "#000000b3",
+        "occurrences": 1
+      },
+      {
+        "color": "#d6dee8",
+        "occurrences": 1
+      },
+      {
+        "color": "#1768dd",
+        "occurrences": 1
+      },
+      {
+        "color": "#c91765",
+        "occurrences": 1
+      },
+      {
+        "color": "#8d96ae",
+        "occurrences": 1
+      },
+      {
+        "color": "#0c5460",
+        "occurrences": 1
+      },
+      {
+        "color": "#d1ecf1",
+        "occurrences": 1
+      },
+      {
+        "color": "#bee5eb",
+        "occurrences": 1
+      },
+      {
+        "color": "#7f8595",
+        "occurrences": 1
+      },
+      {
+        "color": "#c4c4c4",
+        "occurrences": 1
+      },
+      {
+        "color": "#acacac",
+        "occurrences": 1
+      },
+      {
+        "color": "#007aff",
+        "occurrences": 1
+      },
+      {
+        "color": "#0e2d54",
+        "occurrences": 1
+      },
+      {
+        "color": "#011b48",
+        "occurrences": 1
+      },
+      {
+        "color": "#00a0d2",
+        "occurrences": 1
+      },
+      {
+        "color": "#46b450",
+        "occurrences": 1
+      },
+      {
+        "color": "#f56e28",
+        "occurrences": 1
+      },
+      {
+        "color": "#ffb900",
+        "occurrences": 1
+      },
+      {
+        "color": "#23282d",
+        "occurrences": 1
+      },
+      {
+        "color": "#fbfbfc",
+        "occurrences": 1
+      },
+      {
+        "color": "#40464d",
+        "occurrences": 1
+      },
+      {
+        "color": "#71717a",
+        "occurrences": 1
+      },
+      {
+        "color": "#eceadd",
+        "occurrences": 1
+      },
+      {
+        "color": "#fefc00",
+        "occurrences": 1
+      },
+      {
+        "color": "#7a00df",
+        "occurrences": 1
+      },
+      {
+        "color": "#007cba",
+        "occurrences": 1
+      },
+      {
+        "color": "#006ba1",
+        "occurrences": 1
+      },
+      {
+        "color": "#005a87",
+        "occurrences": 1
+      },
+      {
+        "color": "#34e2e4",
+        "occurrences": 1
+      },
+      {
+        "color": "#4721fb",
+        "occurrences": 1
+      },
+      {
+        "color": "#ab1dfe",
+        "occurrences": 1
+      },
+      {
+        "color": "#faaca8",
+        "occurrences": 1
+      },
+      {
+        "color": "#dad0ec",
+        "occurrences": 1
+      },
+      {
+        "color": "#fafae1",
+        "occurrences": 1
+      },
+      {
+        "color": "#67a671",
+        "occurrences": 1
+      },
+      {
+        "color": "#fdd79a",
+        "occurrences": 1
+      },
+      {
+        "color": "#004a59",
+        "occurrences": 1
+      },
+      {
+        "color": "#330968",
+        "occurrences": 1
+      },
+      {
+        "color": "#31cdcf",
+        "occurrences": 1
+      },
+      {
+        "color": "#a4c639",
+        "occurrences": 1
+      },
+      {
+        "color": "#1769ff",
+        "occurrences": 1
+      },
+      {
+        "color": "#205081",
+        "occurrences": 1
+      },
+      {
+        "color": "#39f",
+        "occurrences": 1
+      },
+      {
+        "color": "#05cc47",
+        "occurrences": 1
+      },
+      {
+        "color": "#005be2",
+        "occurrences": 1
+      },
+      {
+        "color": "#ea4c89",
+        "occurrences": 1
+      },
+      {
+        "color": "#d30c5c",
+        "occurrences": 1
+      },
+      {
+        "color": "#ea4335",
+        "occurrences": 1
+      },
+      {
+        "color": "#3b5998",
+        "occurrences": 1
+      },
+      {
+        "color": "#0063dc",
+        "occurrences": 1
+      },
+      {
+        "color": "#2d5be3",
+        "occurrences": 1
+      },
+      {
+        "color": "#006400",
+        "occurrences": 1
+      },
+      {
+        "color": "#e24329",
+        "occurrences": 1
+      },
+      {
+        "color": "#dd4b39",
+        "occurrences": 1
+      },
+      {
+        "color": "#7ac142",
+        "occurrences": 1
+      },
+      {
+        "color": "#262626",
+        "occurrences": 1
+      },
+      {
+        "color": "#487aa2",
+        "occurrences": 1
+      },
+      {
+        "color": "#818a91",
+        "occurrences": 1
+      },
+      {
+        "color": "#00ab6b",
+        "occurrences": 1
+      },
+      {
+        "color": "#ec1c40",
+        "occurrences": 1
+      },
+      {
+        "color": "#273a4b",
+        "occurrences": 1
+      },
+      {
+        "color": "#f4731c",
+        "occurrences": 1
+      },
+      {
+        "color": "#bd081c",
+        "occurrences": 1
+      },
+      {
+        "color": "#da552f",
+        "occurrences": 1
+      },
+      {
+        "color": "#f26522",
+        "occurrences": 1
+      },
+      {
+        "color": "#4caf50",
+        "occurrences": 1
+      },
+      {
+        "color": "#00aff0",
+        "occurrences": 1
+      },
+      {
+        "color": "#fffc00",
+        "occurrences": 1
+      },
+      {
+        "color": "#f80",
+        "occurrences": 1
+      },
+      {
+        "color": "#2ebd59",
+        "occurrences": 1
+      },
+      {
+        "color": "#fe7a15",
+        "occurrences": 1
+      },
+      {
+        "color": "#00adee",
+        "occurrences": 1
+      },
+      {
+        "color": "#eb4924",
+        "occurrences": 1
+      },
+      {
+        "color": "#2ca5e0",
+        "occurrences": 1
+      },
+      {
+        "color": "#1aa1d8",
+        "occurrences": 1
+      },
+      {
+        "color": "#589442",
+        "occurrences": 1
+      },
+      {
+        "color": "#35465c",
+        "occurrences": 1
+      },
+      {
+        "color": "#6441a5",
+        "occurrences": 1
+      },
+      {
+        "color": "#665cac",
+        "occurrences": 1
+      },
+      {
+        "color": "#1ab7ea",
+        "occurrences": 1
+      },
+      {
+        "color": "#45668e",
+        "occurrences": 1
+      },
+      {
+        "color": "#dd2430",
+        "occurrences": 1
+      },
+      {
+        "color": "#31a918",
+        "occurrences": 1
+      },
+      {
+        "color": "#026466",
+        "occurrences": 1
+      },
+      {
+        "color": "#af0606",
+        "occurrences": 1
+      },
+      {
+        "color": "#cd201f",
+        "occurrences": 1
+      },
+      {
+        "color": "#0099e5",
+        "occurrences": 1
+      },
+      {
+        "color": "#6ec1e4",
+        "occurrences": 1
+      },
+      {
+        "color": "#54595f",
+        "occurrences": 1
+      },
+      {
+        "color": "#7a7a7a",
+        "occurrences": 1
+      },
+      {
+        "color": "#61ce70",
+        "occurrences": 1
+      },
+      {
+        "color": "#ffbc7d",
+        "occurrences": 1
+      },
+      {
+        "color": "#0c0d0e",
+        "occurrences": 1
+      }
+    ],
+    "gradients": [
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,rgb(6,147,227)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,rgb(122,220,180)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,rgb(252,185,0)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,rgb(255,105,0)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,rgb(238,238,238)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,rgb(74,234,220)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,rgb(255,206,236)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,rgb(254,205,165)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,rgb(255,203,112)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,rgb(255,245,203)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,rgb(202,248,128)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,rgb(2,3,129)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(to bottom right,rgba(255,255,255,0)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(136deg,rgba(0,0,0,0)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(270deg,#07b787 0,#7ed500 100%)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(60deg,#f2709c 0,#fe8f75 100%)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(-221deg,#174eac 50%,rgba(242,41,91,0)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(0deg,rgba(255,255,255,0)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(to left,rgba(0,0,0,.5)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(to right,rgba(0,0,0,.5)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(to top,rgba(0,0,0,.5)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(to bottom,rgba(0,0,0,.5)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(0deg,rgba(0,0,0,.7)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(0deg,#000 20%,transparent)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(0deg,rgba(0,0,0,.4)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,#00d084,#0693e3)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,#faaca8,#dad0ec)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,#fafae1,#67a671)"
+      },
+      {
+        "type": "linear-gradient",
+        "value": "linear-gradient(135deg,#fdd79a,#004a59)"
+      }
+    ]
+  },
+  "typography": {
+    "families": [
+      {
+        "name": "Gilroy",
+        "stack": "\"Gilroy\", Sans-serif",
+        "count": 837
+      },
+      {
+        "name": "Oswald",
+        "stack": "\"Oswald\", Sans-serif",
+        "count": 639
+      },
+      {
+        "name": "Nunito",
+        "stack": "\"Nunito\", Sans-serif",
+        "count": 424
+      },
+      {
+        "name": "inhe",
+        "stack": "inhe",
+        "count": 243
+      },
+      {
+        "name": "Roboto",
+        "stack": "\"Roboto\"",
+        "count": 167
+      },
+      {
+        "name": "Montserrat",
+        "stack": "\"Montserrat\", Sans-serif",
+        "count": 93
+      },
+      {
+        "name": "Roboto Slab",
+        "stack": "\"Roboto Slab\"",
+        "count": 64
+      },
+      {
+        "name": "Poppins",
+        "stack": "'Poppins'",
+        "count": 54
+      },
+      {
+        "name": "Questrial",
+        "stack": "\"Questrial\", Sans-serif",
+        "count": 50
+      },
+      {
+        "name": "-apple-system",
+        "stack": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"",
+        "count": 46
+      },
+      {
+        "name": "Helvetica",
+        "stack": "\"Helvetica\",sans-serif",
+        "count": 45
+      },
+      {
+        "name": "Titillium Web",
+        "stack": "\"Titillium Web\", Sans-serif",
+        "count": 24
+      },
+      {
+        "name": "elementsk",
+        "stack": "elementsk",
+        "count": 2
+      },
+      {
+        "name": "eicons",
+        "stack": "eicons",
+        "count": 2
+      },
+      {
+        "name": "swiper-icons",
+        "stack": "swiper-icons",
+        "count": 2
+      },
+      {
+        "name": "Courier 10 Pitch",
+        "stack": "\"Courier 10 Pitch\",Courier,monospace",
+        "count": 1
+      },
+      {
+        "name": "Open Sans",
+        "stack": "\"Open Sans\",sans-serif}input,select{line-height:1}.ast-button,.ast-custom-button,body,button,input[type=button],input[type=submit],textarea{line-height:1.8571428571}.site-title a{line-height:1.2}.site-header .site-description{line-height:1.5}.ast-single-post .entry-title,.ast-single-post .entry-title a{line-height:1.2}.entry-title,.entry-title a{font-weight:var(--ast-blog-title-font-weight,normal)}.ast-oembed-container{position:relative",
+        "count": 1
+      },
+      {
+        "name": "As",
+        "stack": "As",
+        "count": 1
+      },
+      {
+        "name": "eicons}.elementor-custom-embed-play.elementor-playing i:before{content:\"\\e8fb\"}.elementor-custom-embed-play.elementor-playing i",
+        "stack": "eicons}.elementor-custom-embed-play.elementor-playing i:before{content:\"\\e8fb\"}.elementor-custom-embed-play.elementor-playing i,.elementor-custom-embed-play.elementor-playing svg{animation:eicon-spin 2s linear infinite}.elementor-tag{display:inline-flex}.elementor-ken-burns{transition-duration:10s",
+        "count": 1
+      },
+      {
+        "name": "inherit}.ekit-wid-con .elementskit-border-divider{left:13px}.ekit-wid-con .elementskit-border-divider.elementskit-style-long{left:inherit}.ekit-wid-con .elementskit-border-divider::before{left:-26px}.ekit-wid-con .elementskit-navbar-nav-default.elementskit-menu-container{z-index:1000}.ekit-wid-con .elementskit-navbar-nav-default .elementskit-navbar-nav>li>a:hover{background-color:transparent}.ekit-wid-con .elementor-icon-list-item a>img{width:100px",
+        "stack": "inherit}.ekit-wid-con .elementskit-border-divider{left:13px}.ekit-wid-con .elementskit-border-divider.elementskit-style-long{left:inherit}.ekit-wid-con .elementskit-border-divider::before{left:-26px}.ekit-wid-con .elementskit-navbar-nav-default.elementskit-menu-container{z-index:1000}.ekit-wid-con .elementskit-navbar-nav-default .elementskit-navbar-nav>li>a:hover{background-color:transparent}.ekit-wid-con .elementor-icon-list-item a>img{width:100px",
+        "count": 1
+      },
+      {
+        "name": "inherit}.wp-block-post-comments-form[class*=-font-size] :where(.comment-reply-title)",
+        "stack": "inherit}.wp-block-post-comments-form[class*=-font-size] :where(.comment-reply-title),.wp-block-post-comments-form[style*=font-size] :where(.comment-reply-title){font-size:inherit}.wp-block-post-comments-form[style*=line-height] :where(.comment-reply-title){line-height:inherit}.wp-block-post-comments-form[style*=font-style] :where(.comment-reply-title){font-style:inherit}.wp-block-post-comments-form[style*=letter-spacing] :where(.comment-reply-title){letter-spacing:inherit}.wp-block-post-comments-form :where(input[type=submit]){box-shadow:none",
+        "count": 1
+      },
+      {
+        "name": "serif",
+        "stack": "serif",
+        "count": 1
+      },
+      {
+        "name": "inherit}.wp-block-video{box-sizing:border-box}.wp-block-video video{height:au",
+        "stack": "inherit}.wp-block-video{box-sizing:border-box}.wp-block-video video{height:au",
+        "count": 1
+      }
+    ],
+    "sources": [
+      {
+        "type": "self-hosted",
+        "family": "Gilroy",
+        "weight": "400",
+        "style": "normal",
+        "urls": [
+          "https://scupstatefoundation.org/wp-content/uploads/2025/07/Gilroy-Regular.ttf"
+        ],
+        "formats": [
+          "truetype"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Gilroy",
+        "weight": "500",
+        "style": "normal",
+        "urls": [
+          "https://scupstatefoundation.org/wp-content/uploads/2025/07/Gilroy-Medium.ttf"
+        ],
+        "formats": [
+          "truetype"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Gilroy",
+        "weight": "600",
+        "style": "normal",
+        "urls": [
+          "https://scupstatefoundation.org/wp-content/uploads/2025/07/Gilroy-SemiBold.ttf"
+        ],
+        "formats": [
+          "truetype"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Gilroy",
+        "weight": "700",
+        "style": "normal",
+        "urls": [
+          "https://scupstatefoundation.org/wp-content/uploads/2025/07/Gilroy-Bold.ttf"
+        ],
+        "formats": [
+          "truetype"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Nunito",
+        "weight": "200",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/nunito-xrxx3i6li01bkofimnaors71ca.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Nunito",
+        "weight": "300",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/nunito-xrxx3i6li01bkofimnaors71ca.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Nunito",
+        "weight": "400",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/nunito-xrxx3i6li01bkofimnaors71ca.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Nunito",
+        "weight": "500",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/nunito-xrxx3i6li01bkofimnaors71ca.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Nunito",
+        "weight": "600",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/nunito-xrxx3i6li01bkofimnaors71ca.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Nunito",
+        "weight": "700",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/nunito-xrxx3i6li01bkofimnaors71ca.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Nunito",
+        "weight": "800",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/nunito-xrxx3i6li01bkofimnaors71ca.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Nunito",
+        "weight": "900",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/nunito-xrxx3i6li01bkofimnaors71ca.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Titillium Web",
+        "weight": "200",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/titilliumweb-napfcztiaohvxomyor9n_e7fdmbewi1db5yciwm.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Titillium Web",
+        "weight": "300",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/titilliumweb-napfcztiaohvxomyor9n_e7fdmbepi5db5yciwm.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Titillium Web",
+        "weight": "400",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/titilliumweb-napacztiaohvxomyor9n_e7fdmbwaaxwxr0.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Titillium Web",
+        "weight": "600",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/titilliumweb-napfcztiaohvxomyor9n_e7fdmbe0ihdb5yciwm.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Titillium Web",
+        "weight": "700",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/titilliumweb-napfcztiaohvxomyor9n_e7fdmbetildb5yciwm.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Titillium Web",
+        "weight": "900",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/titilliumweb-napdcztiaohvxomyor9n_e7ffedbgivzy4sy.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "elementskit",
+        "weight": "400",
+        "style": "normal",
+        "urls": [
+          "../fonts/elementskit.woff?itek3h"
+        ],
+        "formats": [
+          "woff"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Questrial",
+        "weight": "400",
+        "style": "normal",
+        "urls": [
+          "https://fonts.gstatic.com/s/questrial/v19/QdVUSTchPBm7nuUeVf70sSFluW44JUcz.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Montserrat",
+        "weight": "100",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Montserrat",
+        "weight": "200",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Montserrat",
+        "weight": "300",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Montserrat",
+        "weight": "400",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Montserrat",
+        "weight": "500",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Montserrat",
+        "weight": "600",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Montserrat",
+        "weight": "700",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Montserrat",
+        "weight": "800",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Montserrat",
+        "weight": "900",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Oswald",
+        "weight": "200",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/oswald-tk3iwkuhhaijg752fd8ghe4.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Oswald",
+        "weight": "300",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/oswald-tk3iwkuhhaijg752fd8ghe4.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Oswald",
+        "weight": "400",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/oswald-tk3iwkuhhaijg752fd8ghe4.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Oswald",
+        "weight": "500",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/oswald-tk3iwkuhhaijg752fd8ghe4.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Oswald",
+        "weight": "600",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/oswald-tk3iwkuhhaijg752fd8ghe4.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Oswald",
+        "weight": "700",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/oswald-tk3iwkuhhaijg752fd8ghe4.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto Slab",
+        "weight": "100",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto Slab",
+        "weight": "200",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto Slab",
+        "weight": "300",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto Slab",
+        "weight": "400",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto Slab",
+        "weight": "500",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto Slab",
+        "weight": "600",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto Slab",
+        "weight": "700",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto Slab",
+        "weight": "800",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto Slab",
+        "weight": "900",
+        "style": "normal",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Poppins",
+        "weight": "100",
+        "style": "italic",
+        "urls": [
+          "https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tDMPKhSkFEkm8.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Poppins",
+        "weight": "200",
+        "style": "italic",
+        "urls": [
+          "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVFteOYktMqlap.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Poppins",
+        "weight": "300",
+        "style": "italic",
+        "urls": [
+          "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVFteOYktMqlap.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Poppins",
+        "weight": "400",
+        "style": "italic",
+        "urls": [
+          "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Poppins",
+        "weight": "500",
+        "style": "italic",
+        "urls": [
+          "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVFteOYktMqlap.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Poppins",
+        "weight": "600",
+        "style": "italic",
+        "urls": [
+          "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VFteOYktMqlap.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Poppins",
+        "weight": "700",
+        "style": "italic",
+        "urls": [
+          "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Poppins",
+        "weight": "800",
+        "style": "italic",
+        "urls": [
+          "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VFteOYktMqlap.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Poppins",
+        "weight": "900",
+        "style": "italic",
+        "urls": [
+          "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVFteOYktMqlap.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto",
+        "weight": "100",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto",
+        "weight": "200",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto",
+        "weight": "300",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto",
+        "weight": "400",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto",
+        "weight": "500",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto",
+        "weight": "600",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto",
+        "weight": "700",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto",
+        "weight": "800",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Roboto",
+        "weight": "900",
+        "style": "italic",
+        "urls": [
+          "http://demo.webenixsolutions.com/Upstate-Education/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "swiper-icons",
+        "weight": "400",
+        "style": "normal",
+        "urls": [],
+        "formats": [
+          "unknown"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Oswald",
+        "weight": "200 700",
+        "style": "normal",
+        "urls": [
+          "https://fonts.gstatic.com/s/oswald/v57/TK3iWkUHHAIjg752FD8Gl-1PK62t.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "self-hosted",
+        "family": "Nunito",
+        "weight": "200 1000",
+        "style": "italic",
+        "urls": [
+          "https://fonts.gstatic.com/s/nunito/v32/XRXX3I6Li01BKofIMNaORs7nczIHNHI.woff2"
+        ],
+        "formats": [
+          "woff2"
+        ]
+      },
+      {
+        "type": "google-fonts",
+        "family": "Nunito",
+        "weights": [
+          "ital,0,200..1000",
+          "1,200..1000"
+        ]
+      },
+      {
+        "type": "google-fonts",
+        "family": "Oswald",
+        "weights": [
+          "200..700"
+        ]
+      },
+      {
+        "type": "google-fonts",
+        "family": "Questrial",
+        "weights": [
+          "400"
+        ]
+      },
+      {
+        "type": "google-fonts",
+        "family": "Poppins",
+        "weights": [
+          "ital,0,100",
+          "0,200",
+          "0,300",
+          "0,400",
+          "0,500",
+          "0,600",
+          "0,700",
+          "0,800",
+          "0,900",
+          "1,100",
+          "1,200",
+          "1,300",
+          "1,400",
+          "1,500",
+          "1,600",
+          "1,700",
+          "1,800",
+          "1,900"
+        ]
+      }
+    ],
+    "weights": [
+      {
+        "value": "600",
+        "occurrences": 1301
+      },
+      {
+        "value": "500",
+        "occurrences": 727
+      },
+      {
+        "value": "400",
+        "occurrences": 470
+      },
+      {
+        "value": "700",
+        "occurrences": 277
+      },
+      {
+        "value": "bold",
+        "occurrences": 136
+      },
+      {
+        "value": "300",
+        "occurrences": 108
+      },
+      {
+        "value": "200",
+        "occurrences": 75
+      },
+      {
+        "value": "900",
+        "occurrences": 58
+      },
+      {
+        "value": "800",
+        "occurrences": 51
+      },
+      {
+        "value": "100",
+        "occurrences": 42
+      },
+      {
+        "value": "normal",
+        "occurrences": 19
+      }
+    ],
+    "sizes": [
+      {
+        "value": "16px",
+        "occurrences": 798
+      },
+      {
+        "value": "15px",
+        "occurrences": 676
+      },
+      {
+        "value": "18px",
+        "occurrences": 610
+      },
+      {
+        "value": "14px",
+        "occurrences": 541
+      },
+      {
+        "value": "17px",
+        "occurrences": 423
+      },
+      {
+        "value": "1rem",
+        "occurrences": 413
+      },
+      {
+        "value": "20px",
+        "occurrences": 376
+      },
+      {
+        "value": "30px",
+        "occurrences": 283
+      },
+      {
+        "value": "22px",
+        "occurrences": 235
+      },
+      {
+        "value": "1.25rem",
+        "occurrences": 180
+      },
+      {
+        "value": "25px",
+        "occurrences": 171
+      },
+      {
+        "value": "27px",
+        "occurrences": 157
+      },
+      {
+        "value": "32px",
+        "occurrences": 144
+      },
+      {
+        "value": "1.875rem",
+        "occurrences": 135
+      },
+      {
+        "value": "19px",
+        "occurrences": 106
+      },
+      {
+        "value": "1.5rem",
+        "occurrences": 91
+      },
+      {
+        "value": "1.5625rem",
+        "occurrences": 90
+      },
+      {
+        "value": "91.2%",
+        "occurrences": 90
+      },
+      {
+        "value": "2rem",
+        "occurrences": 85
+      },
+      {
+        "value": "26px",
+        "occurrences": 84
+      },
+      {
+        "value": "45px",
+        "occurrences": 78
+      },
+      {
+        "value": "24px",
+        "occurrences": 71
+      },
+      {
+        "value": "40px",
+        "occurrences": 67
+      },
+      {
+        "value": "50px",
+        "occurrences": 61
+      },
+      {
+        "value": "35px",
+        "occurrences": 59
+      },
+      {
+        "value": "13px",
+        "occurrences": 50
+      },
+      {
+        "value": "100%",
+        "occurrences": 49
+      },
+      {
+        "value": "1.5em",
+        "occurrences": 49
+      },
+      {
+        "value": "21px",
+        "occurrences": 48
+      },
+      {
+        "value": "36px",
+        "occurrences": 47
+      }
+    ],
+    "line_heights": [
+      {
+        "value": "1em",
+        "occurrences": 226
+      },
+      {
+        "value": "1.3em",
+        "occurrences": 180
+      },
+      {
+        "value": "1.2em",
+        "occurrences": 180
+      },
+      {
+        "value": "33px",
+        "occurrences": 132
+      },
+      {
+        "value": "24px",
+        "occurrences": 94
+      },
+      {
+        "value": "20px",
+        "occurrences": 91
+      },
+      {
+        "value": "1.4em",
+        "occurrences": 90
+      },
+      {
+        "value": "1.25em",
+        "occurrences": 90
+      },
+      {
+        "value": "22px",
+        "occurrences": 87
+      },
+      {
+        "value": "1",
+        "occurrences": 71
+      },
+      {
+        "value": "17px",
+        "occurrences": 48
+      },
+      {
+        "value": "1.45",
+        "occurrences": 47
+      },
+      {
+        "value": "1.6",
+        "occurrences": 47
+      },
+      {
+        "value": "27px",
+        "occurrences": 46
+      },
+      {
+        "value": "1.5em",
+        "occurrences": 45
+      },
+      {
+        "value": "80px",
+        "occurrences": 45
+      },
+      {
+        "value": "23px",
+        "occurrences": 45
+      },
+      {
+        "value": "19px",
+        "occurrences": 45
+      },
+      {
+        "value": "28px",
+        "occurrences": 36
+      },
+      {
+        "value": "1.65em",
+        "occurrences": 18
+      }
+    ],
+    "letter_spacings": [
+      {
+        "value": "1.8px",
+        "occurrences": 52
+      },
+      {
+        "value": "1px",
+        "occurrences": 45
+      },
+      {
+        "value": "0.05em",
+        "occurrences": 18
+      },
+      {
+        "value": "1.2px",
+        "occurrences": 3
+      },
+      {
+        "value": "26px",
+        "occurrences": 2
+      },
+      {
+        "value": "2em",
+        "occurrences": 1
+      }
+    ],
+    "heading_hierarchy": {
+      "h1": {
+        "sizes": [
+          {
+            "value": "30px",
+            "occurrences": 90
+          },
+          {
+            "value": "40px",
+            "occurrences": 45
+          },
+          {
+            "value": "2em",
+            "occurrences": 1
+          }
+        ],
+        "most_common": "30px"
+      },
+      "h2": {
+        "sizes": [
+          {
+            "value": "17px",
+            "occurrences": 90
+          },
+          {
+            "value": "15px",
+            "occurrences": 90
+          },
+          {
+            "value": "1.7rem",
+            "occurrences": 45
+          },
+          {
+            "value": "27px",
+            "occurrences": 45
+          },
+          {
+            "value": "1.7em",
+            "occurrences": 1
+          },
+          {
+            "value": "2em",
+            "occurrences": 1
+          }
+        ],
+        "most_common": "17px"
+      },
+      "h3": {
+        "sizes": [
+          {
+            "value": "1.5em",
+            "occurrences": 1
+          }
+        ],
+        "most_common": "1.5em"
+      },
+      "h4": {
+        "sizes": [
+          {
+            "value": "1.3em",
+            "occurrences": 1
+          }
+        ],
+        "most_common": "1.3em"
+      },
+      "h5": {
+        "sizes": [
+          {
+            "value": "1.2em",
+            "occurrences": 1
+          }
+        ],
+        "most_common": "1.2em"
+      },
+      "h6": {
+        "sizes": [
+          {
+            "value": "1.1em",
+            "occurrences": 1
+          }
+        ],
+        "most_common": "1.1em"
+      }
+    }
+  },
+  "spacing": {
+    "border_radii": [
+      "50% !important",
+      "0}.wp-block-button.no-border-radius,.wp-block-button__link.no-border-radius{border-radius:0!important}:root :where(.wp-block-button .wp-block-button__link.is-style-outline),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link){border:2px solid",
+      "20px",
+      "8px}.wp-block-gallery.has-nested-images figure.wp-block-image figcaption:focus-within::-webkit-scrollbar-thumb,.wp-block-gallery.has-nested-images figure.wp-block-image figcaption:focus::-webkit-scrollbar-thumb,.wp-block-gallery.has-nested-images figure.wp-block-image figcaption:hover::-webkit-scrollbar-thumb{background-color:hsla(0,0%,100%,.8)}.wp-block-gallery.has-nested-images figure.wp-block-image figcaption{scrollbar-color:transparent transparent",
+      "2px}.widget_search .search-field,.widget_search .search-field:focus{width:100%",
+      "inherit}.wp-block-site-logo.aligncenter{margin-left:auto",
+      "13.6px",
+      "100px",
+      "var(--border-radius)",
+      "1000px",
+      "100% !important",
+      "10px}.ekit-wid-con .elementskit-blog-block-post .elementskit-entry-thumb{border-radius:10px",
+      "40px !important",
+      "3px",
+      "9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0",
+      "inherit",
+      "100px 100px 100px 100px",
+      "30px}.ekit_menu_responsive_mobile .elementskit-navbar-nav-default .elementskit-megamenu-has.elementskit-mobile-builder-content .elementskit-dropdown,.ekit_menu_responsive_tablet .elementskit-navbar-nav-default .elementskit-megamenu-has.elementskit-mobile-builder-content .elementskit-dropdown{display:none}.ekit_menu_responsive_mobile .elementskit-navbar-nav-default .elementskit-megamenu-has.elementskit-mobile-builder-content .elementskit-megamenu-panel.elementskit-dropdown-open,.ekit_menu_responsive_tablet .elementskit-navbar-nav-default .elementskit-megamenu-has.elementskit-mobile-builder-content .elementskit-megamenu-panel.elementskit-dropdown-open{display:block}.ekit_menu_responsive_mobile .elementskit-navbar-nav-default .elementskit-megamenu-panel.elementskit-dropdown-open,.ekit_menu_responsive_tablet .elementskit-navbar-nav-default .elementskit-megamenu-panel.elementskit-dropdown-open{display:block}.ekit_menu_responsive_mobile .elementskit-navbar-nav-default .elementskit-dropdown,.ekit_menu_responsive_tablet .elementskit-navbar-nav-default .elementskit-dropdown{display:none}.ekit_menu_responsive_mobile .elementskit-navbar-nav-default .elementskit-dropdown~.elementskit-megamenu-panel,.ekit_menu_responsive_tablet .elementskit-navbar-nav-default .elementskit-dropdown~.elementskit-megamenu-panel{display:none}.ekit_menu_responsive_mobile .elementskit-navbar-nav-default .elementskit-dropdown.elementskit-dropdown-open,.ekit_menu_responsive_tablet .elementskit-navbar-nav-default .elementskit-dropdown.elementskit-dropdown-open{display:block",
+      "10px}.ekit-wid-con .elementskit-post-image-card .elementskit-post-body{padding:20px 40px 40px}.ekit-wid-con .elementskit-post-image-card .elementskit-post-body>p{color:#fff}.ekit-wid-con .elementskit-post-image-card .elementskit-entry-thumb{border-radius:10px}.ekit-wid-con .elementskit-post-image-card .elementskit-entry-header{position:relative}.ekit-wid-con .elementskit-post-image-card .elementskit-entry-header .elementskit-entry-thumb{position:relative",
+      "0}.elementor-shape-rounded .elementor-icon{border-radius:10%}.elementor-shape-circle .elementor-icon{border-radius:50%}.e-transform .elementor-widget-container,.e-transform:not(:has(.elementor-widget-container)){transform:perspective(var(--e-transform-perspective,0)) rotate(var(--e-transform-rotateZ,0)) rotateX(var(--e-transform-rotateX,0)) rotateY(var(--e-transform-rotateY,0)) translate(var(--e-transform-translate,0)) translateX(var(--e-transform-translateX,0)) translateY(var(--e-transform-translateY,0)) scaleX(calc(var(--e-transform-flipX, 1) * var(--e-transform-scaleX, var(--e-transform-scale, 1)))) scaleY(calc(var(--e-transform-flipY, 1) * var(--e-transform-scaleY, var(--e-transform-scale, 1)))) skewX(var(--e-transform-skewX,0)) skewY(var(--e-transform-skewY,0))"
+    ],
+    "box_shadows": [
+      "0px 1px 2px 0px rgba(0,0,0,0.05)",
+      "inherit !important}",
+      "none}input[type=button],input[type=button]:focus,input[type=button]:hover,input[type=reset],input[type=reset]:focus,input[type=reset]:hover,input[type=submit],input[type=submit]:focus,input[type=submit]:hover{box-shadow:none}textarea{width:100%}input[type=search]:focus{outline:thin dotted}.astra-dark-mode-enable form .form-row textarea,.astra-dark-mode-enable input[type=email],.astra-dark-mode-enable input[type=number],.astra-dark-mode-enable input[type=password],.astra-dark-mode-enable input[type=reset],.astra-dark-mode-enable input[type=search],.astra-dark-mode-enable input[type=tel],.astra-dark-mode-enable input[type=text],.astra-dark-mode-enable input[type=url],.astra-dark-mode-enable textarea{background-color:var(--ast-global-color-secondary,--ast-global-color-5)",
+      "-3.473px 19.696px 25px 0 rgba(0,0,0,.2)",
+      "-3.473px 19.696px 25px 0 rgba(0,0,0,.2)}.ekit-wid-con .elementskit-post-image-card .elementskit-entry-header .elementskit-entry-thumb>img{-webkit-transition:all .4s ease",
+      "0 0 30px 0 rgba(0,0,0,.15)",
+      "0px 14px 38px 0px rgba(0, 0, 0, 0.27)",
+      "0 0 2px 2px rgba(0,0,0,.2)",
+      "9.899px 9.899px 30px 0 rgba(0,0,0,.1)",
+      "0 0 0 0 rgba(12,90,219,0)}}@-webkit-keyframes iconTranslateY{49%{-webkit-transform:translateY(100%)",
+      "none !important",
+      "0 4px 10px -2px rgba(0,0,0,.1)}.ast-header-custom-item-inside .button-custom-menu-item .menu-link{display:none}.ast-header-custom-item-inside.ast-header-break-point .button-custom-menu-item .ast-custom-button-link{display:none}.ast-header-custom-item-inside.ast-header-break-point .button-custom-menu-item .menu-link{display:block}.ast-header-custom-item-inside.ast-header-break-point .button-custom-menu-item{padding-left:0",
+      "9.899px 9.899px 30px 0 rgba(0,0,0,.1)}.ekit-wid-con .elementskit-post-image-card.modern{margin-top:40px}.ekit-wid-con .elementskit-post-image-card.modern:hover .elementskit-entry-thumb>img{opacity:1}.ekit-wid-con .elementskit-post-image-card.modern .elementskit-entry-header .elementskit-entry-thumb{margin-top:-60px}.ekit-wid-con .blog-block-post[class*=gradient-]{background:#123075}.ekit-wid-con .blog-block-post[class*=gradient-] .entry-title a{color:#fff}.ekit-wid-con .blog-block-post[class*=gradient-] .post-meta-list{color:rgba(255,255,255,.5)}.ekit-wid-con .blog-block-post[class*=gradient-] .post-meta-list>span a{vertical-align:middle",
+      "0 10px 10px 0 rgba(0,0,0,.1)}.elementor-widget-elementskit-dual-button-center .ekit-element-align-wrapper{-webkit-box-pack:center",
+      "0px 0px 10px 0px rgba(0, 0, 0, 0.13)",
+      "0 10px 30px 0 rgba(45,45,45,.2)",
+      "9.899px 9.899px 30px 0 rgba(0,0,0,.3)",
+      "9.899px 9.899px 30px 0 rgba(0,0,0,.3)}.ekit-wid-con .elementskit-post-image-card{border-radius:10px}.ekit-wid-con .elementskit-post-image-card .elementskit-post-body{padding:20px 40px 40px}.ekit-wid-con .elementskit-post-image-card .elementskit-post-body>p{color:#fff}.ekit-wid-con .elementskit-post-image-card .elementskit-entry-thumb{border-radius:10px}.ekit-wid-con .elementskit-post-image-card .elementskit-entry-header{position:relative}.ekit-wid-con .elementskit-post-image-card .elementskit-entry-header .elementskit-entry-thumb{position:relative",
+      "0 10px 10px 0 rgba(0,0,0,.1)",
+      "4.95px 4.95px 15px 0 rgba(0,0,0,.2)"
+    ]
+  },
+  "breakpoints": [
+    "320px",
+    "420px",
+    "421px",
+    "430px",
+    "479px",
+    "480px",
+    "544px",
+    "600px",
+    "766px",
+    "767px",
+    "768px",
+    "769px",
+    "781px",
+    "782px",
+    "880px",
+    "921px",
+    "921.99px",
+    "922px",
+    "960px",
+    "992px",
+    "993px",
+    "1024px",
+    "1025px",
+    "1200px",
+    "1201px",
+    "1366px",
+    "1367px",
+    "1440px",
+    "99999px"
+  ],
+  "css_variables": {
+    "--ast-post-nav-space": "0",
+    "--ast-container-default-xlg-padding": "2.5em",
+    "--ast-container-default-lg-padding": "2.5em",
+    "--ast-container-default-slg-padding": "2em",
+    "--ast-container-default-md-padding": "2.5em",
+    "--ast-container-default-sm-padding": "2.5em",
+    "--ast-container-default-xs-padding": "2.4em",
+    "--ast-container-default-xxs-padding": "1.8em",
+    "--ast-code-block-background": "#ECEFF3",
+    "--ast-comment-inputs-background": "#FFF",
+    "--ast-normal-container-width": "1200px",
+    "--ast-narrow-container-width": "750px",
+    "--ast-blog-title-font-weight": "600",
+    "--ast-blog-meta-weight": "600",
+    "--ast-global-color-primary": "var(--ast-global-color-4)",
+    "--ast-global-color-secondary": "var(--ast-global-color-5)",
+    "--ast-global-color-alternate-background": "var(--ast-global-color-6)",
+    "--ast-global-color-subtle-background": "var(--ast-global-color-7)",
+    "--ast-bg-style-guide": "var( --ast-global-color-secondary,var(--ast-global-color-5) )",
+    "--ast-shadow-style-guide": "0px 0px 4px 0 #00000057",
+    "--ast-global-dark-bg-style": "#fff",
+    "--ast-global-dark-lfs": "#fbfbfb",
+    "--ast-widget-bg-color": "#fafafa",
+    "--ast-wc-container-head-bg-color": "#fbfbfb",
+    "--ast-title-layout-bg": "#eeeeee",
+    "--ast-search-border-color": "#e7e7e7",
+    "--ast-lifter-hover-bg": "#e6e6e6",
+    "--ast-gallery-block-color": "#000",
+    "--srfm-color-input-label": "var(--ast-global-color-2)",
+    "--wp--custom--ast-default-block-top-padding": "3em",
+    "--wp--custom--ast-default-block-right-padding": "1.5em",
+    "--wp--custom--ast-default-block-bottom-padding": "3em",
+    "--wp--custom--ast-default-block-left-padding": "1.5em",
+    "--wp--custom--ast-container-width": "1200px",
+    "--wp--custom--ast-content-width-size": "750px",
+    "--wp--custom--ast-wide-width-size": "750px",
+    "--ast-global-color-0": "#046bd2",
+    "--ast-global-color-1": "#045cb4",
+    "--ast-global-color-2": "#1e293b",
+    "--ast-global-color-3": "#334155",
+    "--ast-global-color-4": "#FFFFFF",
+    "--ast-global-color-5": "#F0F5FA",
+    "--ast-global-color-6": "#111111",
+    "--ast-global-color-7": "#D1D5DB",
+    "--ast-global-color-8": "#111111",
+    "--ast-border-color": "var(--ast-global-color-7)",
+    "--ast-author-avatar-size": "",
+    "--e-global-color-astglobalcolor0": "#046bd2",
+    "--e-global-color-astglobalcolor1": "#045cb4",
+    "--e-global-color-astglobalcolor2": "#1e293b",
+    "--e-global-color-astglobalcolor3": "#334155",
+    "--e-global-color-astglobalcolor4": "#FFFFFF",
+    "--e-global-color-astglobalcolor5": "#F0F5FA",
+    "--e-global-color-astglobalcolor6": "#111111",
+    "--e-global-color-astglobalcolor7": "#D1D5DB",
+    "--e-global-color-astglobalcolor8": "#111111",
+    "--wp--preset--aspect-ratio--square": "1",
+    "--wp--preset--aspect-ratio--4-3": "4/3",
+    "--wp--preset--aspect-ratio--3-4": "3/4",
+    "--wp--preset--aspect-ratio--3-2": "3/2",
+    "--wp--preset--aspect-ratio--2-3": "2/3",
+    "--wp--preset--aspect-ratio--16-9": "16/9",
+    "--wp--preset--aspect-ratio--9-16": "9/16",
+    "--wp--preset--color--black": "#000000",
+    "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+    "--wp--preset--color--white": "#ffffff",
+    "--wp--preset--color--pale-pink": "#f78da7",
+    "--wp--preset--color--vivid-red": "#cf2e2e",
+    "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+    "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+    "--wp--preset--color--light-green-cyan": "#7bdcb5",
+    "--wp--preset--color--vivid-green-cyan": "#00d084",
+    "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+    "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+    "--wp--preset--color--vivid-purple": "#9b51e0",
+    "--wp--preset--color--ast-global-color-0": "var(--ast-global-color-0)",
+    "--wp--preset--color--ast-global-color-1": "var(--ast-global-color-1)",
+    "--wp--preset--color--ast-global-color-2": "var(--ast-global-color-2)",
+    "--wp--preset--color--ast-global-color-3": "var(--ast-global-color-3)",
+    "--wp--preset--color--ast-global-color-4": "var(--ast-global-color-4)",
+    "--wp--preset--color--ast-global-color-5": "var(--ast-global-color-5)",
+    "--wp--preset--color--ast-global-color-6": "var(--ast-global-color-6)",
+    "--wp--preset--color--ast-global-color-7": "var(--ast-global-color-7)",
+    "--wp--preset--color--ast-global-color-8": "var(--ast-global-color-8)",
+    "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple": "linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%)",
+    "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan": "linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)",
+    "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange": "linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)",
+    "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red": "linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)",
+    "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+    "--wp--preset--gradient--cool-to-warm-spectrum": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%)",
+    "--wp--preset--gradient--blush-light-purple": "linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)",
+    "--wp--preset--gradient--blush-bordeaux": "linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%)",
+    "--wp--preset--gradient--luminous-dusk": "linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%)",
+    "--wp--preset--gradient--pale-ocean": "linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)",
+    "--wp--preset--gradient--electric-grass": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)",
+    "--wp--preset--gradient--midnight": "linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)",
+    "--wp--preset--font-size--small": "13px",
+    "--wp--preset--font-size--medium": "20px",
+    "--wp--preset--font-size--large": "36px",
+    "--wp--preset--font-size--x-large": "42px",
+    "--wp--preset--spacing--20": "0.44rem",
+    "--wp--preset--spacing--30": "0.67rem",
+    "--wp--preset--spacing--40": "1rem",
+    "--wp--preset--spacing--50": "1.5rem",
+    "--wp--preset--spacing--60": "2.25rem",
+    "--wp--preset--spacing--70": "3.38rem",
+    "--wp--preset--spacing--80": "5.06rem",
+    "--wp--preset--shadow--natural": "6px 6px 9px rgba(0, 0, 0, 0.2)",
+    "--wp--preset--shadow--deep": "12px 12px 50px rgba(0, 0, 0, 0.4)",
+    "--wp--preset--shadow--sharp": "6px 6px 0px rgba(0, 0, 0, 0.2)",
+    "--wp--preset--shadow--outlined": "6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0)",
+    "--wp--preset--shadow--crisp": "6px 6px 0px rgb(0, 0, 0)",
+    "--wp--preset--dimension--25": "25%",
+    "--wp--preset--dimension--50": "50%",
+    "--wp--preset--dimension--75": "75%",
+    "--wp--preset--dimension--100": "100%",
+    "--wp--style--global--content-size": "var(--wp--custom--ast-content-width-size)",
+    "--wp--style--global--wide-size": "var(--wp--custom--ast-wide-width-size)",
+    "--wp--style--block-gap": "24px",
+    "--display": "flex",
+    "--flex-direction": "column",
+    "--container-widget-width": "100%",
+    "--container-widget-height": "initial",
+    "--container-widget-flex-grow": "0",
+    "--container-widget-align-self": "initial",
+    "--flex-wrap-mobile": "wrap",
+    "--gap": "0px 0px",
+    "--row-gap": "0px",
+    "--column-gap": "0px",
+    "--padding-top": "30px",
+    "--padding-bottom": "0px",
+    "--padding-left": "20px",
+    "--padding-right": "20px",
+    "--justify-content": "center",
+    "--margin-top": "-120px",
+    "--margin-bottom": "80px",
+    "--margin-left": "0px",
+    "--margin-right": "0px",
+    "--align-self": "center",
+    "--flex-grow": "var( --container-widget-flex-grow )}",
+    "--flex-shrink": "0",
+    "--width": "50%",
+    "--min-height": "400px",
+    "--content-width": "1240px",
+    "--ast-single-post-border": "#e1e8ed",
+    "--ast-single-post-nav-padding": "3em 0 0",
+    "--divider-border-style": "none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{background-color:var(--divider-color)",
+    "--divider-color": "#0c0d0e",
+    "--divider-border-width": "1px",
+    "--align-items": "center",
+    "--grid-template-columns": "repeat(0, auto)",
+    "--icon-size": "24px",
+    "--grid-column-gap": "10px",
+    "--grid-row-gap": "0px",
+    "--icon-padding": "0.4em",
+    "--border-style": "solid",
+    "--border-top-width": "0px",
+    "--border-right-width": "0px",
+    "--border-bottom-width": "2px",
+    "--border-left-width": "0px",
+    "--border-color": "#FFFFFF",
+    "--e-icon-list-icon-size": "25px",
+    "--icon-vertical-offset": "0px",
+    "--video-aspect-ratio": "1.77777",
+    "--e-icon-list-icon-align": "center",
+    "--e-icon-list-icon-margin": "0 calc(var(--e-icon-list-icon-size, 1em) * 0.125)",
+    "--icon-vertical-align": "center",
+    "--direction-multiplier": "1}body.rtl,html[dir=rtl]{--direction-multiplier:-1}.elementor-hidden{display:none}.elementor-visibility-hidden{visibility:hidden}.elementor-screen-only,.screen-reader-text,.screen-reader-text span,.ui-helper-hidden-accessible{height:1px",
+    "--flex-wrap": "var(--flex-wrap-mobile)}.e-con.e-flex .elementor-widget-archive-posts{width:100%}}.elementor-form-fields-wrapper{display:flex",
+    "--align-content": "initial",
+    "--flex-basis": "auto",
+    "--order": "initial",
+    "--page-title-display": "none",
+    "--border-radius": "45px 45px 45px 45px",
+    "--height": "auto",
+    "--text-align": "initial",
+    "--position": "relative",
+    "--z-index": "999",
+    "--overflow": "visible",
+    "--overlay-mix-blend-mode": "initial",
+    "--overlay-opacity": "0.5",
+    "--overlay-transition": "0.3s",
+    "--e-con-grid-template-columns": "repeat(3,1fr)",
+    "--e-con-grid-template-rows": "repeat(2,1fr)",
+    "--margin-block-end": "var(--margin-bottom)",
+    "--margin-inline-start": "var(--margin-right)",
+    "--margin-inline-end": "var(--margin-left)",
+    "--padding-inline-start": "var(--padding-left)",
+    "--padding-inline-end": "var(--padding-left)",
+    "--padding-block-start": "var(--padding-top)",
+    "--padding-block-end": "var(--padding-bottom)",
+    "--border-block-start-width": "var(--border-top-width)",
+    "--border-block-end-width": "var(--border-bottom-width)",
+    "--border-inline-start-width": "var(--border-right-width)",
+    "--border-inline-end-width": "var(--border-left-width)}.e-con{margin-block-end:var(--margin-block-end)",
+    "--grid-justify-content": "start",
+    "--grid-align-content": "start",
+    "--grid-auto-flow": "row}.e-con.e-grid,.e-con.e-grid>.e-con-inner{align-content:var(--grid-align-content)",
+    "--kit-widget-spacing": "20px",
+    "--e-image-carousel-slides-to-show": "5",
+    "--background-overlay": "''",
+    "--grid-columns": "1",
+    "--counter-prefix-grow": "0",
+    "--counter-suffix-grow": "1",
+    "--counter-number-grow": "0",
+    "--swiper-theme-color": "#000",
+    "--swiper-navigation-size": "44px",
+    "--swiper-preloader-color": "#fff}.swiper-lazy-preloader-black{--swiper-preloader-color:#000}@keyframes swiper-preloader-spin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}.swiper .swiper-notification{position:absolute",
+    "--flex-right": "flex-start}.e--ua-appleWebkit .elementor-share-buttons--align-right,.e--ua-appleWebkit .elementor-widget-social-icons.e-grid-align-right{--justify-content:var(--flex-right,flex-end)}.e--ua-appleWebkit .elementor-share-buttons--align-center,.e--ua-appleWebkit .elementor-widget-social-icons.e-grid-align-center{--justify-content:center}.e--ua-appleWebkit .elementor-grid-0.elementor-share-buttons--align-center .elementor-grid,.e--ua-appleWebkit .elementor-grid-0.elementor-share-buttons--align-justify .elementor-grid,.e--ua-appleWebkit .elementor-grid-0.elementor-share-buttons--align-right .elementor-grid,.e--ua-appleWebkit .elementor-grid-0.elementor-widget-social-icons.e-grid-align-center .elementor-grid,.e--ua-appleWebkit .elementor-grid-0.elementor-widget-social-icons.e-grid-align-right .elementor-grid{display:flex",
+    "--swiper-pagination-bullet-size": "6px",
+    "--swiper-pagination-bullet-horizontal-gap": "6px}.elementor-element .swiper .swiper-slide figure,.elementor-lightbox .swiper .swiper-slide figure{line-height:0}.elementor-element .swiper .elementor-lightbox-content-source,.elementor-lightbox .swiper .elementor-lightbox-content-source{display:none}.elementor-element .swiper .elementor-swiper-button,.elementor-element .swiper~.elementor-swiper-button,.elementor-lightbox .swiper .elementor-swiper-button,.elementor-lightbox .swiper~.elementor-swiper-button{color:hsla(0,0%,93%,.9)",
+    "--navigation-layout-justification-setting": "flex-start",
+    "--navigation-layout-direction": "row",
+    "--navigation-layout-wrap": "wrap",
+    "--navigation-layout-justify": "space-between}:where(.wp-block-navigation) ul li{padding:0}.wp-block-navigation .has-child .wp-block-navigation__submenu-container{align-items:normal",
+    "--navigation-layout-align": "flex-start}.wp-block-navigation.no-wrap{--navigation-layout-wrap:nowrap}.wp-block-navigation.items-justified-center{--navigation-layout-justification-setting:center",
+    "--wfp-accent": "#71717a",
+    "--wfp-button-color": "rgba(0,0,0,.8)",
+    "--wfp-text-color": "#333",
+    "--wfp-text-secondary-color": "rgba(0,0,0,.6)}.waveform-player *{box-sizing:border-box}.waveform-body{display:flex",
+    "--wfp-btn-artwork-color": "hsla(0,0%,100%,.9)",
+    "--wfp-btn-artwork-scrim": "rgba(0,0,0,.5)",
+    "--wfp-btn-size": "64px",
+    "--wfp-btn-radius": "8px",
+    "--wp-block-synced-color": "#7a00df",
+    "--wp-block-synced-color--rgb": "122,0,223",
+    "--wp-bound-block-color": "var(--wp-block-synced-color)",
+    "--wp-editor-canvas-background": "#ddd",
+    "--wp-admin-theme-color": "#007cba",
+    "--wp-admin-theme-color--rgb": "0,124,186",
+    "--wp-admin-theme-color-darker-10": "#006ba1",
+    "--wp-admin-theme-color-darker-10--rgb": "0,107,160.5",
+    "--wp-admin-theme-color-darker-20": "#005a87",
+    "--wp-admin-theme-color-darker-20--rgb": "0,90,135",
+    "--wp-admin-border-width-focus": "2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px",
+    "--wp--preset--font-size--huge": "42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important",
+    "--wp-admin--admin-bar--position-offset": "var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}",
+    "--e-social-icon-icon-color": "#fff",
+    "--e-global-color-primary": "#6EC1E4",
+    "--e-global-color-secondary": "#54595F",
+    "--e-global-color-text": "#7A7A7A",
+    "--e-global-color-accent": "#61CE70",
+    "--e-global-typography-primary-font-family": "\"Roboto\"",
+    "--e-global-typography-primary-font-weight": "600",
+    "--e-global-typography-secondary-font-family": "\"Roboto Slab\"",
+    "--e-global-typography-secondary-font-weight": "400",
+    "--e-global-typography-text-font-family": "\"Roboto\"",
+    "--e-global-typography-text-font-weight": "400",
+    "--e-global-typography-accent-font-family": "\"Roboto\"",
+    "--e-global-typography-accent-font-weight": "500",
+    "--container-max-width": "767px",
+    "--widgets-spacing": "20px 20px",
+    "--widgets-spacing-row": "20px",
+    "--widgets-spacing-column": "20px",
+    "--divider-icon-size": "20px",
+    "--divider-element-spacing": "10px",
+    "--divider-pattern-height": "24px",
+    "--divider-pattern-size": "auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%)",
+    "--divider-pattern-url": "none",
+    "--divider-pattern-repeat": "repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px"
+  },
+  "_debug": {
+    "use_js_rendering": true,
+    "playwright_attempted": true,
+    "playwright_success": false,
+    "playwright_error": "TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://scupstatefoundation.org/\", waiting until \"networkidle\"\n",
+    "screenshot_captured": false,
+    "screenshot_path": null,
+    "screenshot_size": null
+  }
+}

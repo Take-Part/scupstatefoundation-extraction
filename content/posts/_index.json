@@ -1,0 +1,26 @@
+{
+  "total": 3,
+  "posts": [
+    {
+      "id": 683,
+      "slug": "gateway-to-innovation",
+      "title": "Gateway to Innovation",
+      "date": "2025-07-16T22:31:13",
+      "url": "https://scupstatefoundation.org/2025/07/16/gateway-to-innovation/"
+    },
+    {
+      "id": 681,
+      "slug": "childcare-for-teachers",
+      "title": "Childcare for teachers",
+      "date": "2025-07-16T22:30:22",
+      "url": "https://scupstatefoundation.org/2025/07/16/childcare-for-teachers/"
+    },
+    {
+      "id": 664,
+      "slug": "the-power-of-experiential-learning",
+      "title": "The power of experiential learning",
+      "date": "2025-07-16T22:29:37",
+      "url": "https://scupstatefoundation.org/2025/07/16/the-power-of-experiential-learning/"
+    }
+  ]
+}

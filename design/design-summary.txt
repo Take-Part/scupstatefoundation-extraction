@@ -1,0 +1,246 @@
+DESIGN TOKEN SUMMARY
+========================================
+
+BRAND COLORS
+  #fff  (1023x)
+  #85b559  (757x)
+  #000  (515x)
+  #87b55e  (359x)
+  #999  (228x)
+  #666  (184x)
+  #475569  (180x)
+  #046bd2  (180x)
+  #001e53  (148x)
+  #ff6900  (135x)
+
+NEUTRALS
+  #ffffff  (1495x)
+  #000000  (988x)
+  #848484  (312x)
+  #111111  (180x)
+  #0000001f  (180x)
+  #ababab  (103x)
+  #ffffff00  (92x)
+  #fbfbfb  (90x)
+  #eeeeee  (90x)
+  #9ca3af  (90x)
+
+GRADIENTS
+  linear-gradient: linear-gradient(135deg,rgb(6,147,227)
+  linear-gradient: linear-gradient(135deg,rgb(122,220,180)
+  linear-gradient: linear-gradient(135deg,rgb(252,185,0)
+  linear-gradient: linear-gradient(135deg,rgb(255,105,0)
+  linear-gradient: linear-gradient(135deg,rgb(238,238,238)
+  linear-gradient: linear-gradient(135deg,rgb(74,234,220)
+  linear-gradient: linear-gradient(135deg,rgb(255,206,236)
+  linear-gradient: linear-gradient(135deg,rgb(254,205,165)
+  linear-gradient: linear-gradient(135deg,rgb(255,203,112)
+  linear-gradient: linear-gradient(135deg,rgb(255,245,203)
+
+TYPOGRAPHY
+  Gilroy - "Gilroy", Sans-serif  (837x)
+  Oswald - "Oswald", Sans-serif  (639x)
+  Nunito - "Nunito", Sans-serif  (424x)
+  inhe - inhe  (243x)
+  Roboto - "Roboto"  (167x)
+  Montserrat - "Montserrat", Sans-serif  (93x)
+  Roboto Slab - "Roboto Slab"  (64x)
+  Poppins - 'Poppins'  (54x)
+  Questrial - "Questrial", Sans-serif  (50x)
+  -apple-system - -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"  (46x)
+  Helvetica - "Helvetica",sans-serif  (45x)
+  Titillium Web - "Titillium Web", Sans-serif  (24x)
+  elementsk - elementsk  (2x)
+  eicons - eicons  (2x)
+  swiper-icons - swiper-icons  (2x)
+  Courier 10 Pitch - "Courier 10 Pitch",Courier,monospace  (1x)
+  Open Sans - "Open Sans",sans-serif}input,select{line-height:1}.ast-button,.ast-custom-button,body,button,input[type=button],input[type=submit],textarea{line-height:1.8571428571}.site-title a{line-height:1.2}.site-header .site-description{line-height:1.5}.ast-single-post .entry-title,.ast-single-post .entry-title a{line-height:1.2}.entry-title,.entry-title a{font-weight:var(--ast-blog-title-font-weight,normal)}.ast-oembed-container{position:relative  (1x)
+  As - As  (1x)
+  eicons}.elementor-custom-embed-play.elementor-playing i:before{content:"\e8fb"}.elementor-custom-embed-play.elementor-playing i - eicons}.elementor-custom-embed-play.elementor-playing i:before{content:"\e8fb"}.elementor-custom-embed-play.elementor-playing i,.elementor-custom-embed-play.elementor-playing svg{animation:eicon-spin 2s linear infinite}.elementor-tag{display:inline-flex}.elementor-ken-burns{transition-duration:10s  (1x)
+  inherit}.ekit-wid-con .elementskit-border-divider{left:13px}.ekit-wid-con .elementskit-border-divider.elementskit-style-long{left:inherit}.ekit-wid-con .elementskit-border-divider::before{left:-26px}.ekit-wid-con .elementskit-navbar-nav-default.elementskit-menu-container{z-index:1000}.ekit-wid-con .elementskit-navbar-nav-default .elementskit-navbar-nav>li>a:hover{background-color:transparent}.ekit-wid-con .elementor-icon-list-item a>img{width:100px - inherit}.ekit-wid-con .elementskit-border-divider{left:13px}.ekit-wid-con .elementskit-border-divider.elementskit-style-long{left:inherit}.ekit-wid-con .elementskit-border-divider::before{left:-26px}.ekit-wid-con .elementskit-navbar-nav-default.elementskit-menu-container{z-index:1000}.ekit-wid-con .elementskit-navbar-nav-default .elementskit-navbar-nav>li>a:hover{background-color:transparent}.ekit-wid-con .elementor-icon-list-item a>img{width:100px  (1x)
+  inherit}.wp-block-post-comments-form[class*=-font-size] :where(.comment-reply-title) - inherit}.wp-block-post-comments-form[class*=-font-size] :where(.comment-reply-title),.wp-block-post-comments-form[style*=font-size] :where(.comment-reply-title){font-size:inherit}.wp-block-post-comments-form[style*=line-height] :where(.comment-reply-title){line-height:inherit}.wp-block-post-comments-form[style*=font-style] :where(.comment-reply-title){font-style:inherit}.wp-block-post-comments-form[style*=letter-spacing] :where(.comment-reply-title){letter-spacing:inherit}.wp-block-post-comments-form :where(input[type=submit]){box-shadow:none  (1x)
+  serif - serif  (1x)
+  inherit}.wp-block-video{box-sizing:border-box}.wp-block-video video{height:au - inherit}.wp-block-video{box-sizing:border-box}.wp-block-video video{height:au  (1x)
+
+FONT SOURCES
+  self-hosted: Gilroy - weight:400 - truetype
+  self-hosted: Gilroy - weight:500 - truetype
+  self-hosted: Gilroy - weight:600 - truetype
+  self-hosted: Gilroy - weight:700 - truetype
+  self-hosted: Nunito - weight:200 - woff2
+  self-hosted: Nunito - weight:300 - woff2
+  self-hosted: Nunito - weight:400 - woff2
+  self-hosted: Nunito - weight:500 - woff2
+  self-hosted: Nunito - weight:600 - woff2
+  self-hosted: Nunito - weight:700 - woff2
+  self-hosted: Nunito - weight:800 - woff2
+  self-hosted: Nunito - weight:900 - woff2
+  self-hosted: Titillium Web - weight:200 - woff2
+  self-hosted: Titillium Web - weight:300 - woff2
+  self-hosted: Titillium Web - weight:400 - woff2
+  self-hosted: Titillium Web - weight:600 - woff2
+  self-hosted: Titillium Web - weight:700 - woff2
+  self-hosted: Titillium Web - weight:900 - woff2
+  self-hosted: elementskit - weight:400 - woff
+  self-hosted: Questrial - weight:400 - woff2
+  self-hosted: Montserrat - weight:100 - woff2
+  self-hosted: Montserrat - weight:200 - woff2
+  self-hosted: Montserrat - weight:300 - woff2
+  self-hosted: Montserrat - weight:400 - woff2
+  self-hosted: Montserrat - weight:500 - woff2
+  self-hosted: Montserrat - weight:600 - woff2
+  self-hosted: Montserrat - weight:700 - woff2
+  self-hosted: Montserrat - weight:800 - woff2
+  self-hosted: Montserrat - weight:900 - woff2
+  self-hosted: Oswald - weight:200 - woff2
+  self-hosted: Oswald - weight:300 - woff2
+  self-hosted: Oswald - weight:400 - woff2
+  self-hosted: Oswald - weight:500 - woff2
+  self-hosted: Oswald - weight:600 - woff2
+  self-hosted: Oswald - weight:700 - woff2
+  self-hosted: Roboto Slab - weight:100 - woff2
+  self-hosted: Roboto Slab - weight:200 - woff2
+  self-hosted: Roboto Slab - weight:300 - woff2
+  self-hosted: Roboto Slab - weight:400 - woff2
+  self-hosted: Roboto Slab - weight:500 - woff2
+  self-hosted: Roboto Slab - weight:600 - woff2
+  self-hosted: Roboto Slab - weight:700 - woff2
+  self-hosted: Roboto Slab - weight:800 - woff2
+  self-hosted: Roboto Slab - weight:900 - woff2
+  self-hosted: Poppins - weight:100 - woff2
+  self-hosted: Poppins - weight:200 - woff2
+  self-hosted: Poppins - weight:300 - woff2
+  self-hosted: Poppins - weight:400 - woff2
+  self-hosted: Poppins - weight:500 - woff2
+  self-hosted: Poppins - weight:600 - woff2
+  self-hosted: Poppins - weight:700 - woff2
+  self-hosted: Poppins - weight:800 - woff2
+  self-hosted: Poppins - weight:900 - woff2
+  self-hosted: Roboto - weight:100 - woff2
+  self-hosted: Roboto - weight:200 - woff2
+  self-hosted: Roboto - weight:300 - woff2
+  self-hosted: Roboto - weight:400 - woff2
+  self-hosted: Roboto - weight:500 - woff2
+  self-hosted: Roboto - weight:600 - woff2
+  self-hosted: Roboto - weight:700 - woff2
+  self-hosted: Roboto - weight:800 - woff2
+  self-hosted: Roboto - weight:900 - woff2
+  self-hosted: swiper-icons - weight:400 - unknown
+  self-hosted: Oswald - weight:200 700 - woff2
+  self-hosted: Nunito - weight:200 1000 - woff2
+  google-fonts: Nunito [ital,0,200..1000, 1,200..1000]
+  google-fonts: Oswald [200..700]
+  google-fonts: Questrial [400]
+  google-fonts: Poppins [ital,0,100, 0,200, 0,300, 0,400, 0,500, 0,600, 0,700, 0,800, 0,900, 1,100, 1,200, 1,300, 1,400, 1,500, 1,600, 1,700, 1,800, 1,900]
+
+FONT WEIGHTS
+  600  (1301x)
+  500  (727x)
+  400  (470x)
+  700  (277x)
+  bold  (136x)
+  300  (108x)
+  200  (75x)
+  900  (58x)
+  800  (51x)
+  100  (42x)
+
+FONT SIZES
+  16px  (798x)
+  15px  (676x)
+  18px  (610x)
+  14px  (541x)
+  17px  (423x)
+  1rem  (413x)
+  20px  (376x)
+  30px  (283x)
+  22px  (235x)
+  1.25rem  (180x)
+  25px  (171x)
+  27px  (157x)
+  32px  (144x)
+  1.875rem  (135x)
+  19px  (106x)
+
+LINE HEIGHTS
+  1em  (226x)
+  1.3em  (180x)
+  1.2em  (180x)
+  33px  (132x)
+  24px  (94x)
+  20px  (91x)
+  1.4em  (90x)
+  1.25em  (90x)
+  22px  (87x)
+  1  (71x)
+
+HEADING HIERARCHY
+  H1: 30px
+  H2: 17px
+  H3: 1.5em
+  H4: 1.3em
+  H5: 1.2em
+  H6: 1.1em
+
+BREAKPOINTS
+  320px
+  420px
+  421px
+  430px
+  479px
+  480px
+  544px
+  600px
+  766px
+  767px
+  768px
+  769px
+  781px
+  782px
+  880px
+  921px
+  921.99px
+  922px
+  960px
+  992px
+  993px
+  1024px
+  1025px
+  1200px
+  1201px
+  1366px
+  1367px
+  1440px
+  99999px
+
+CSS VARIABLES
+  --ast-post-nav-space: 0
+  --ast-container-default-xlg-padding: 2.5em
+  --ast-container-default-lg-padding: 2.5em
+  --ast-container-default-slg-padding: 2em
+  --ast-container-default-md-padding: 2.5em
+  --ast-container-default-sm-padding: 2.5em
+  --ast-container-default-xs-padding: 2.4em
+  --ast-container-default-xxs-padding: 1.8em
+  --ast-code-block-background: #ECEFF3
+  --ast-comment-inputs-background: #FFF
+  --ast-normal-container-width: 1200px
+  --ast-narrow-container-width: 750px
+  --ast-blog-title-font-weight: 600
+  --ast-blog-meta-weight: 600
+  --ast-global-color-primary: var(--ast-global-color-4)
+  --ast-global-color-secondary: var(--ast-global-color-5)
+  --ast-global-color-alternate-background: var(--ast-global-color-6)
+  --ast-global-color-subtle-background: var(--ast-global-color-7)
+  --ast-bg-style-guide: var( --ast-global-color-secondary,var(--ast-global-color-5) )
+  --ast-shadow-style-guide: 0px 0px 4px 0 #00000057
+  --ast-global-dark-bg-style: #fff
+  --ast-global-dark-lfs: #fbfbfb
+  --ast-widget-bg-color: #fafafa
+  --ast-wc-container-head-bg-color: #fbfbfb
+  --ast-title-layout-bg: #eeeeee
+  --ast-search-border-color: #e7e7e7
+  --ast-lifter-hover-bg: #e6e6e6
+  --ast-gallery-block-color: #000
+  --srfm-color-input-label: var(--ast-global-color-2)
+  --wp--custom--ast-default-block-top-padding: 3em

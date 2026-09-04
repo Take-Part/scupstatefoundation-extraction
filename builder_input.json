@@ -1,0 +1,125 @@
+{
+  "acceptance_tests": [
+    "All required routes exist.",
+    "No unapproved external asset URLs are used at runtime.",
+    "All referenced assets resolve locally or through Drive instructions.",
+    "Required redirects are implemented.",
+    "Confirmed design tokens are used.",
+    "Open blockers are reported explicitly."
+  ],
+  "asset_contract": {
+    "allowed_external_urls": [
+      "third-party integrations explicitly approved by operator"
+    ],
+    "runtime_rule": "No live-site asset hotlinks. Download Drive assets to public/assets before coding.",
+    "source_of_truth": "asset_manifest.json; fall back to extracted media-library.json only when no manifest exists"
+  },
+  "confirmed_facts": {
+    "design": {
+      "confirmed_palette": {
+        "source": "operator",
+        "updated_at": "2026-09-01T19:42:29.064049+00:00",
+        "value": [
+          {
+            "hex": "#85B559",
+            "role": "Primary green"
+          },
+          {
+            "hex": "#87B55E",
+            "role": "Secondary green"
+          },
+          {
+            "hex": "#001E53",
+            "role": "Navy"
+          }
+        ]
+      },
+      "font_rights_status": "unknown",
+      "tokens_status": "not_started"
+    },
+    "prebrief": {
+      "q_asset_links": {
+        "source": "operator",
+        "updated_at": "2026-09-01T16:07:34.369177+00:00",
+        "value": "None."
+      },
+      "q_brand_guidelines": {
+        "source": "operator",
+        "updated_at": "2026-09-01T16:07:56.130643+00:00",
+        "value": "None."
+      },
+      "q_color_confirmation": {
+        "source": "operator",
+        "updated_at": "2026-09-01T16:08:26.503667+00:00",
+        "value": "Extract colors and confirm after crawling."
+      },
+      "q_existing_repos": {
+        "source": "operator",
+        "updated_at": "2026-09-01T15:38:00.641450+00:00",
+        "value": "None."
+      },
+      "q_feeling": {
+        "source": "operator",
+        "updated_at": "2026-09-01T15:35:39.170552+00:00",
+        "value": "They should feel like they are accessing a friendly option for education investment for the Upstate of South Carolina."
+      },
+      "q_homepage_directions": {
+        "source": "operator",
+        "updated_at": "2026-09-01T16:11:54.072216+00:00",
+        "value": "1 \u2014 exact clone with updated containers, movements, and feel; all copy stays unchanged."
+      },
+      "q_rebuild_intent": {
+        "source": "operator",
+        "updated_at": "2026-09-01T15:05:23.053903+00:00",
+        "value": "exact with Next.js"
+      },
+      "q_reference_sites": {
+        "source": "operator",
+        "updated_at": "2026-09-01T15:37:28.161522+00:00",
+        "value": "Just the existing website."
+      },
+      "q_target_audience": {
+        "source": "operator",
+        "updated_at": "2026-09-01T16:11:04.407121+00:00",
+        "value": "Upstate parents, donors, and educators. They should leave with a warm feeling about the organization and want to donate."
+      }
+    },
+    "publish": {
+      "drive_upload": {
+        "status": "not_started"
+      },
+      "repo_approval": {
+        "destination": null,
+        "status": "pending"
+      }
+    }
+  },
+  "domain": "scupstatefoundation.org",
+  "generated_at": "2026-09-04T18:47:05.453850+00:00",
+  "non_negotiables": [
+    "Do not hotlink extracted live-site assets.",
+    "Use confirmed design tokens.",
+    "Preserve required routes and redirects.",
+    "Report missing facts instead of inventing them."
+  ],
+  "open_questions": [],
+  "readiness": {
+    "blocking_issue_ids": [],
+    "notes_issue_ids": [],
+    "status": "ready"
+  },
+  "run_id": "2026-09-01_scupstatefoundation-org_01",
+  "schema_version": 1,
+  "source_files": {
+    "confirmed_palette": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/confirmed-palette.json",
+    "design_tokens": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/design/design-tokens.json",
+    "header_logo": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/design/header-logo.json",
+    "internal_links": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/seo/internal-links.json",
+    "master_prompt": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/MASTER_PROMPT.md",
+    "master_prompt_written_at": "2026-09-01T19:48:07.647190+00:00",
+    "media_library": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/assets/media-library.json",
+    "nav": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/structure/navigation.json",
+    "pre_build_interview": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/PRE_BUILD_INTERVIEW.md",
+    "seo": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/seo/meta-data.json"
+  }
+}

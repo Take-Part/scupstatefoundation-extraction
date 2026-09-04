@@ -1,0 +1,94 @@
+{
+  "url": "https://scupstatefoundation.org/sample-page",
+  "slug": "sample-page",
+  "title": "Sample Page - Upstate Foundation",
+  "meta_description": "This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I'm a bike messenger",
+  "canonical": "https://scupstatefoundation.org/sample-page/",
+  "og_title": "Sample Page - Upstate Foundation",
+  "og_description": "This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I'm a bike messenger",
+  "og_image": "",
+  "h1": [
+    "Sample Page"
+  ],
+  "h2": [
+    "Quick Links",
+    "Get In Touch",
+    "Join the Building Bridges Newsletter",
+    "Privacy Policy",
+    "|",
+    "Imprint"
+  ],
+  "h3": [],
+  "body_text": "Sample Page This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I’m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin’ caught in the rain.) …or something like this: The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community. As a new WordPress user, you should go to your dashboard to delete this page and create new pages for your content. Have fun!",
+  "content_html": "<main class=\"site-main\" id=\"main\">\n<article class=\"post-2 page type-page status-publish ast-article-single\" id=\"post-2\" itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\">\n<header class=\"entry-header ast-no-thumbnail\">\n<h1 class=\"entry-title\" itemprop=\"headline\">Sample Page</h1> </header> <!-- .entry-header -->\n<div class=\"entry-content clear\" data-ast-blocks-layout=\"true\" itemprop=\"text\">\n<p class=\"wp-block-paragraph\">This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\"><p>Hi there! I’m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin’ caught in the rain.)</p></blockquote>\n<p class=\"wp-block-paragraph\">…or something like this:</p>\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>\n<p class=\"wp-block-paragraph\">As a new WordPress user, you should go to <a href=\"https://scupstatefoundation.org/wp-admin/\">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>\n</div><!-- .entry-content .clear -->\n</article><!-- #post-## -->\n</main>",
+  "schema_org": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://scupstatefoundation.org/sample-page/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://scupstatefoundation.org",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/sample-page/#listItem",
+                "name": "Sample Page"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/sample-page/#listItem",
+              "position": 2,
+              "name": "Sample Page",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org#listItem",
+                "name": "Home"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://scupstatefoundation.org/#organization",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "url": "https://scupstatefoundation.org/"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://scupstatefoundation.org/sample-page/#webpage",
+          "url": "https://scupstatefoundation.org/sample-page/",
+          "name": "Sample Page - Upstate Foundation",
+          "description": "This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I'm a bike messenger",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://scupstatefoundation.org/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://scupstatefoundation.org/sample-page/#breadcrumblist"
+          },
+          "datePublished": "2025-07-11T17:06:04+00:00",
+          "dateModified": "2025-07-11T17:06:04+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scupstatefoundation.org/#website",
+          "url": "https://scupstatefoundation.org/",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://scupstatefoundation.org/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "scupstatefoundation.org",
+  "q_rebuild_intent": "exact with Next.js",
+  "q_feeling": "They should feel like they are accessing a friendly option for education investment for the Upstate of South Carolina.",
+  "q_reference_sites": "Just the existing website.",
+  "q_existing_repos": "None.",
+  "q_asset_links": "None.",
+  "q_brand_guidelines": "None.",
+  "q_color_confirmation": "Extract colors and confirm after crawling.",
+  "q_target_audience": "Upstate parents, donors, and educators. They should leave with a warm feeling about the organization and want to donate.",
+  "q_homepage_directions": "1 \u2014 exact clone with updated containers, movements, and feel; all copy stays unchanged."
+}

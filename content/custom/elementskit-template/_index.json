@@ -1,0 +1,16 @@
+{
+  "post_type": "elementskit-template",
+  "total": 2,
+  "items": [
+    {
+      "id": 116,
+      "slug": "footer",
+      "title": "footer"
+    },
+    {
+      "id": 26,
+      "slug": "header",
+      "title": "Header"
+    }
+  ]
+}

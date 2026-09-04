@@ -1,0 +1,13 @@
+{
+  "total": 1,
+  "categories": [
+    {
+      "id": 1,
+      "count": 3,
+      "description": "",
+      "name": "Uncategorized",
+      "slug": "uncategorized",
+      "parent": 0
+    }
+  ]
+}

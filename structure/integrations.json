@@ -1,0 +1,27 @@
+{
+  "total": 4,
+  "integrations": [
+    {
+      "src": "https://www.googletagmanager.com/gtag/js?id=GT-K828KR5B",
+      "found_on": "https://scupstatefoundation.org/six-mile-elementary-school",
+      "type": "gtm"
+    },
+    {
+      "src": "https://link.takepart.co/js/form_embed.js",
+      "found_on": "https://scupstatefoundation.org/six-mile-elementary-school",
+      "type": "third-party"
+    },
+    {
+      "src": "https://widgets.givebutter.com/latest.umd.cjs?acct=nm2qkh2BL5X2toZc&p=wordpress",
+      "found_on": "https://scupstatefoundation.org/six-mile-elementary-school",
+      "type": "third-party"
+    },
+    {
+      "src": "inline:gtag(",
+      "found_on": "https://scupstatefoundation.org/six-mile-elementary-school",
+      "type": "ga4",
+      "inline": true,
+      "snippet": "window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}\ngtag(\"set\",\"linker\",{\"domains\":[\"scupstatefoundation.org\"]});\ngtag(\"js\", new Date());\ngtag(\"set\", \"developer_id.dZ"
+    }
+  ]
+}

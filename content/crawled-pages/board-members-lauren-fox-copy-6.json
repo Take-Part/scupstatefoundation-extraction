@@ -1,0 +1,121 @@
+{
+  "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6",
+  "slug": "board-members--lauren-fox-copy-6",
+  "title": "John D. Adams - Upstate Foundation",
+  "meta_description": "connect@scupstatefoundation.org",
+  "canonical": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/",
+  "og_title": "John D. Adams - Upstate Foundation",
+  "og_description": "connect@scupstatefoundation.org",
+  "og_image": "",
+  "h1": [
+    "John D.  Adams"
+  ],
+  "h2": [
+    "Quick Links",
+    "Get In Touch",
+    "Join the Building Bridges Newsletter",
+    "Privacy Policy",
+    "|",
+    "Imprint"
+  ],
+  "h3": [],
+  "body_text": "John D.  Adams By admin / July 28, 2025 John Adams is a (mostly) retired advertising executive. He wrote, produced and directed hundreds of television commercials for national and international clients, including Nike, Pepsi, McDonald’s, Lexus, Home Depot and many others. In addition to his career in advertising, Adams taught at the University of North Carolina School of the Arts, The Portfolio Center and The Creative Circus. He is the winner of numerous industry awards, including the Cannes Lion. Adams is a native of Virginia, and grew up on a farm in the Appalachian Mountains in the western corner of the state. His family has lived and worked on the farm since the 1700s. He attended The College of William & Mary, where he studied English and Business. Education has been a foundational part of his life, and Adams counts many teachers among his immediate family and colleagues. He continues to mentor his former students, and continues his own education, attending Oxford University classes each September.",
+  "content_html": "<main class=\"site-main\" id=\"main\">\n<article class=\"post-1690 board_members type-board_members status-publish has-post-thumbnail hentry ast-article-single\" id=\"post-1690\" itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\">\n<div class=\"ast-post-format- single-layout-1\">\n<header class=\"entry-header\">\n<h1 class=\"entry-title\" itemprop=\"headline\">John D.  Adams</h1><div class=\"entry-meta\">By <span class=\"posted-by vcard author\" itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\"> <a class=\"url fn n\" href=\"https://scupstatefoundation.org/author/admin/\" itemprop=\"url\" rel=\"author\" title=\"View all posts by admin\">\n<span class=\"author-name\" itemprop=\"name\">\n\t\t\t\tadmin\t\t\t</span>\n</a>\n</span>\n\n\t\t / <span class=\"posted-on\"><span class=\"published\" itemprop=\"datePublished\"> July 28, 2025 </span></span></div>\n</header><!-- .entry-header -->\n<div class=\"entry-content clear\" itemprop=\"text\">\n<p>John Adams is a (mostly) retired advertising executive. He wrote, produced and directed hundreds of television commercials for national and international clients, including Nike, Pepsi, McDonald’s, Lexus, Home Depot and many others. In addition to his career in advertising, Adams taught at the University of North Carolina School of the Arts, The Portfolio Center and The Creative Circus. He is the winner of numerous industry awards, including the Cannes Lion.</p>\n<p>Adams is a native of Virginia, and grew up on a farm in the Appalachian Mountains in the western corner of the state. His family has lived and worked on the farm since the 1700s. He attended The College of William &amp; Mary, where he studied English and Business.</p>\n<p>Education has been a foundational part of his life, and Adams counts many teachers among his immediate family and colleagues. He continues to mentor his former students, and continues his own education, attending Oxford University classes each September.</p>\n</div><!-- .entry-content .clear -->\n</div>\n</article><!-- #post-## -->\n </main>",
+  "schema_org": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://scupstatefoundation.org",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/#listItem",
+              "position": 2,
+              "name": "Board Members",
+              "item": "https://scupstatefoundation.org/board-members/",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/#listItem",
+                "name": "John D.  Adams"
+              },
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org#listItem",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/#listItem",
+              "position": 3,
+              "name": "John D.  Adams",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://scupstatefoundation.org/#organization",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "url": "https://scupstatefoundation.org/"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/#webpage",
+          "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/",
+          "name": "John D. Adams - Upstate Foundation",
+          "description": "connect@scupstatefoundation.org",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://scupstatefoundation.org/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/#breadcrumblist"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Layer-63.png",
+            "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/#mainImage",
+            "width": 277,
+            "height": 319
+          },
+          "primaryImageOfPage": {
+            "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/#mainImage"
+          },
+          "datePublished": "2025-07-28T19:13:38+00:00",
+          "dateModified": "2025-10-27T22:56:52+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scupstatefoundation.org/#website",
+          "url": "https://scupstatefoundation.org/",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://scupstatefoundation.org/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}

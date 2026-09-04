@@ -1,0 +1,2991 @@
+{
+  "domain": "scupstatefoundation.org",
+  "drive_folder_root": "Site Extractions/scupstatefoundation.org",
+  "files": [
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-1-5-207x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-1-5-207x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-1-5-207x300.png",
+      "sha256": "b08fe88bf79231b435e902e5a51fcd6d5e52b2e9c71f77233b901f7eadee165b",
+      "size_bytes": 39277
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-63-copy-2.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-63-copy-2.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-63-copy-2.png",
+      "sha256": "140e0355044e64c175096f0d16204828acf84e40dc518d129bccfd7b3deb27bc",
+      "size_bytes": 5950
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/copy-of-dsc02630-1-272x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/copy-of-dsc02630-1-272x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/copy-of-dsc02630-1-272x300.png",
+      "sha256": "460702f5dfdd2d2a1b72afc8b0feca7d717e538305d0ffc6cbdb284161b9fa82",
+      "size_bytes": 50510
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/liberty-high-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/liberty-high-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/liberty-high-school.png",
+      "sha256": "ed139c8dd2836d9cc8939144d67e06eb68758292b825c1254cf0bafbc2fd264f",
+      "size_bytes": 83596
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/daniel-high-school-logo-600x600.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/daniel-high-school-logo-600x600.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/daniel-high-school-logo-600x600.png",
+      "sha256": "2d53a4970dcb17f205624457e64aef3d6a004b2052ae79009e0741276d711bb3",
+      "size_bytes": 48447
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/pickens-elementary.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/pickens-elementary.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/pickens-elementary.png",
+      "sha256": "6da5ef5f0c5d6c32498bb82a20668cbc4c0d65919c08d15ab41524057cda4572",
+      "size_bytes": 5249
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/17-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/17-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/17-1.png",
+      "sha256": "051b2f586c704e4656d3ec8ea697b57c9ee3a8a151885f6b83db37bc345f93ea",
+      "size_bytes": 46120
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-77.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-77.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-77.png",
+      "sha256": "1ef48580aacc435f5f94db4b3213194751482be7f8a5ec2c13923e02f64d6164",
+      "size_bytes": 7178
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-63.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-63.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-63.png",
+      "sha256": "cb546c6ead9b81675a3e86013c965b31a742931e3d91679c3d4382881beedab6",
+      "size_bytes": 11932
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/brian_swords-300x300.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/brian_swords-300x300.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/brian_swords-300x300.jpg",
+      "sha256": "a94e160e3e7c0c2af7d95d408096d8bcd7a294cc8a18f919ba7ff076650f4f11",
+      "size_bytes": 22633
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-1-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-1-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-1-1.png",
+      "sha256": "5feeb4b6015aa9efe9ed79cd37d8ffef9b54eddf2efe557d3f2d55bc21d1040f",
+      "size_bytes": 3918
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-2.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-2.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-2.png",
+      "sha256": "21069aabe6a6099bd659c7b8213a3bd962ae1f95796bad22fd946bd1772fd659",
+      "size_bytes": 184228
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/danny-youngblood-600x800.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/danny-youngblood-600x800.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/danny-youngblood-600x800.jpg",
+      "sha256": "af0c77009581c9adaf8076eab452b97919cff7762f97a2cdc8d98f175c865990",
+      "size_bytes": 83749
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/career-technology-center.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/career-technology-center.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/career-technology-center.png",
+      "sha256": "4aaf3eb2132fa5779917bf758a7b5d91ef47f13c86c2dbf6257ee8666cef47d5",
+      "size_bytes": 3858
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/map-upstate.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/map-upstate.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/map-upstate.png",
+      "sha256": "2057cffa034fbc20879f66b8ef14fdc5143b78fcea65aad4c7e7a013eb9dc865",
+      "size_bytes": 56385
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-62.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-62.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-62.png",
+      "sha256": "cf777770e359fd5138346088b72a629960b0d856c34859cad4780f7814d2b1f2",
+      "size_bytes": 16932
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-76.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-76.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-76.png",
+      "sha256": "e5a9574683f28954cf711799aaf19bb4a4f8fa0c03f2a57e4f1badd638190e51",
+      "size_bytes": 6235
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-89.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-89.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-89.png",
+      "sha256": "893d12982e1957849b95b1dc91f51c5a015584b5085fdfa9a924f86641d3390e",
+      "size_bytes": 6570
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-74-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-74-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-74-1.png",
+      "sha256": "877a2920d99f7677e4c065001b8cde0139b94fd9032f6d185460142fb1388bbb",
+      "size_bytes": 244942
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/forest-acres-el.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/forest-acres-el.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/forest-acres-el.png",
+      "sha256": "3d409548303a59a0cc344fa88f567c51ccc2ced8d26665f817acc5c423d079f2",
+      "size_bytes": 114568
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/liberty-primary-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/liberty-primary-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/liberty-primary-school.png",
+      "sha256": "8eb8de5affe904ca75f71d8a58a811eb564f62a48921ece1d9c9043e798cba90",
+      "size_bytes": 5394
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/innovative-learning-environments.jpeg-207x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/innovative-learning-environments.jpeg-207x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/innovative-learning-environments.jpeg-207x300.png",
+      "sha256": "2be59488aed63e1a4ea7f9ba20cfad0504d25b4b5730520b734b1d1840ba4b79",
+      "size_bytes": 24129
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-100-207x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-100-207x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-100-207x300.png",
+      "sha256": "bc556c781edae2c3c05120657890f499b1a77befc1aa51f0bbf6fafb99628038",
+      "size_bytes": 29961
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/card-bg.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/card-bg.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/card-bg.png",
+      "sha256": "6b7c7780b4e102a611be917e1d7055704f0fd2d8ed6a8c46913ae89ee9b568e4",
+      "size_bytes": 29686
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/gettys-middle.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/gettys-middle.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/gettys-middle.png",
+      "sha256": "74bd06993e9970061d24674cb7d129beae9e3812c253ed065c77d581bc951601",
+      "size_bytes": 90314
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/hagood-elementary-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/hagood-elementary-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/hagood-elementary-school.png",
+      "sha256": "8dbceccd6a223a4008cae8cfbf1a76abbd6c19df220327ab4855e17b10273910",
+      "size_bytes": 5483
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/amy-smith-1-300x169.jpeg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/amy-smith-1-300x169.jpeg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/amy-smith-1-300x169.jpeg",
+      "sha256": "cc2e8fe0266c9821166f0dccf3b86261ed4fd4b3425a5edbd8744bc62af00281",
+      "size_bytes": 7444
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/pickens_elementary_logo-768x186.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/pickens_elementary_logo-768x186.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/pickens_elementary_logo-768x186.png",
+      "sha256": "e96768c8e158e8a2e54184f7d59398ca5c8623634c15ad44a377b8421b1e60fe",
+      "size_bytes": 20802
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/pickens_elementary_logo-600x145.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/pickens_elementary_logo-600x145.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/pickens_elementary_logo-600x145.png",
+      "sha256": "e5566d8a19a0db97c1462d5f09e53669e39af95d3550ff0e0ad4be175bad9331",
+      "size_bytes": 15414
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-74.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-74.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-74.png",
+      "sha256": "d5ef33d469eed8a1fc36c0fccb499c9f39676ba41a8f8d1617dd39242cbefef3",
+      "size_bytes": 4011
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-1-2.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-1-2.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-1-2.png",
+      "sha256": "75a445e0489398cd9b224c1d258fbdb8766f79c2c2f15aeeb843ac562675d27c",
+      "size_bytes": 5620
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/shape-84.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/shape-84.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/shape-84.png",
+      "sha256": "a5e7bc91cd1aff3f88a9a705786272d919a9c6a1d1f1c5e7c2d8030cc69c226f",
+      "size_bytes": 5057
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/amy-smith-1.jpeg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/amy-smith-1.jpeg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/amy-smith-1.jpeg",
+      "sha256": "498358c0f111c7769a28eac25a59a15253f37a74b6a44550476264e9b4923f3b",
+      "size_bytes": 37368
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-1.png",
+      "sha256": "f06da1f0fb32ce13ee3bee8859f1e35b917f03957d6cd972b773b7181189bee0",
+      "size_bytes": 108414
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/15-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/15-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/15-1.png",
+      "sha256": "086248adcb1ad0aa037d7277b1a4b1540837537a91a8c66e062ea62897f891ac",
+      "size_bytes": 46114
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-1-3.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-1-3.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-1-3.png",
+      "sha256": "70ebb476ba00bba7f925ce822802d40bcc43485a3645b54f3a12467e20ea39ea",
+      "size_bytes": 2844
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/copy-of-dsc02630.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/copy-of-dsc02630.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/copy-of-dsc02630.png",
+      "sha256": "a1aeb92984db5cf7a62a32de6c78285af4b02733464ab04ee553bbf673581388",
+      "size_bytes": 207312
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-75.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-75.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-75.png",
+      "sha256": "7d7e6f2fdf1a019c7bc6b122e2fe0d479083110f25adb80a59523258cb5dda3b",
+      "size_bytes": 288531
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-70.pngl_.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-70.pngl_.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-70.pngl_.png",
+      "sha256": "04c35aa9b25f1463bcc5607c0d5f936fbc94e5e6bb70777fd22031d1312c9ca4",
+      "size_bytes": 4059
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-6.svg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-6.svg",
+      "mime_type": "image/svg+xml",
+      "relative_path": "downloads/images/layer-6.svg",
+      "sha256": "69bb7bbde8714a9dad9952556ff1d8b89ec21027539cabe1e0ebe3da25033160",
+      "size_bytes": 2376
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-52-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-52-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-52-1.png",
+      "sha256": "15d3d47610a19656c7a97c68b830d9ac3d3e7c34a313e1b5c249a592166e8ba4",
+      "size_bytes": 406167
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/copy-of-dsc02630-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/copy-of-dsc02630-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/copy-of-dsc02630-1.png",
+      "sha256": "8a30bc37c9b1a26828c0fa7360d6433ae6cf0ec1b69f20df6a7f4bbacb2f1d08",
+      "size_bytes": 100912
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/pickens-el-272x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/pickens-el-272x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/pickens-el-272x300.png",
+      "sha256": "d526f071b7bacde4c0bcd4813b0b649d691d09166880bdc326e99b6fb129818b",
+      "size_bytes": 45582
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/daniel-high-school-logo-100x100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/daniel-high-school-logo-100x100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/daniel-high-school-logo-100x100.png",
+      "sha256": "4d0ca4f5d9a95c1d9ba8c03bfbeeb66937752ed4b9eac6a798230d72b36c9e92",
+      "size_bytes": 4231
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/new-map-300x231.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/new-map-300x231.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/new-map-300x231.png",
+      "sha256": "f7b01321647532df5ef18da5aa3950484e8b89cd304a726051739483c6946b6c",
+      "size_bytes": 16311
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/vector-smart-object-copy-3.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/vector-smart-object-copy-3.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/vector-smart-object-copy-3.png",
+      "sha256": "ce373418490625388698b0db3c3e1f6479797db692ae8e9be9ab569bdca65b80",
+      "size_bytes": 146286
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/early-childhood-education.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/early-childhood-education.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/early-childhood-education.png",
+      "sha256": "ca38b3e1c24f378fee961eb9ce7ccbdf8926381e1ec369f641557f8bfd9bcbed",
+      "size_bytes": 186026
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/untitled-1.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/untitled-1.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/untitled-1.jpg",
+      "sha256": "3c4185df3917f40dfbed58b07b8a26643b5d4a68d4d73a9ec25c0af343e15f96",
+      "size_bytes": 5224
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/11-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/11-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/11-1.png",
+      "sha256": "ddec2b630051c8de18446db2a7aeb519006cf2584ebef88fbae813c33599bab3",
+      "size_bytes": 51501
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-46-300x238.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-46-300x238.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-46-300x238.png",
+      "sha256": "f49a7ab7c470abf64c7191863db537cc111f496399b14549e501ceac122ab5fe",
+      "size_bytes": 54869
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-71.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-71.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-71.png",
+      "sha256": "1a263b37923c0517bfd35a808e89ddc9d6b7f52b8e4477e70145196725300d10",
+      "size_bytes": 254797
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-59.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-59.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-59.png",
+      "sha256": "ef877aefe95e312ff922b288f0497b99e4f675a11b7fedaf3efdbd52e97eb1ee",
+      "size_bytes": 544
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-56-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-56-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-56-1.png",
+      "sha256": "b6b3568e1ae914ca44183c7c325c61faf4eb94baf1f922976e33771779fcc7cd",
+      "size_bytes": 524147
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/winterjubilee2025-155.jpg-207x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/winterjubilee2025-155.jpg-207x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/winterjubilee2025-155.jpg-207x300.png",
+      "sha256": "21d83d3e2da91fdc04163df93e0084da0778596063625ec865342af823fd5761",
+      "size_bytes": 33799
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-62-copy.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-62-copy.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-62-copy.png",
+      "sha256": "904e3dcb83f33cb0e98db67548cb6ca56cad642df93287eb3535baa8699de45c",
+      "size_bytes": 6008
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-41-300x209.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-41-300x209.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-41-300x209.png",
+      "sha256": "f1b4e7d6c6b328a294866906afba0f367d23a34e0e1a6c44fa3c6d93791e5931",
+      "size_bytes": 38754
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-70.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-70.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-70.png",
+      "sha256": "8f280130a27629762ab5a4382dfa6200aeccaf9472c2b95c04faf1fb05ef4fb9",
+      "size_bytes": 319117
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-72-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-72-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-72-1.png",
+      "sha256": "457181fa041b163e8a2d84241f320221bc11aa8e5cf7cc880044f9b264e4db60",
+      "size_bytes": 3844
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/derek-lunka-823x1024.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/derek-lunka-823x1024.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/derek-lunka-823x1024.jpg",
+      "sha256": "7565a8670c35f1c0f0123556935869bb613f7d9a31c81896bf785160fd4eb378",
+      "size_bytes": 84930
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-2-207x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-2-207x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-2-207x300.png",
+      "sha256": "443b2f80200f1608d30bb89c5f586b4d613cbdedf015230f1f335fb104cfafff",
+      "size_bytes": 40251
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/danny-merck-1-300x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/danny-merck-1-300x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/danny-merck-1-300x300.png",
+      "sha256": "7acf1f244438cf8e1f1762df4bf656737f56188e106ab2129c19b29bf29402a9",
+      "size_bytes": 35365
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/122-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/122-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/122-1.png",
+      "sha256": "b8bfd93dbeab885d641091cb5bd9847c4e212225048a56b12ce2ee135c708236",
+      "size_bytes": 10684
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/mac-devine-1-300x300.webp",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/mac-devine-1-300x300.webp",
+      "mime_type": "image/webp",
+      "relative_path": "downloads/images/mac-devine-1-300x300.webp",
+      "sha256": "a1a705a1cec06b6ba9631f599dc1bca3a1ac87d547d9e16355ec4d83864bedee",
+      "size_bytes": 9908
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/ellipse-4-copy-2.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/ellipse-4-copy-2.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/ellipse-4-copy-2.png",
+      "sha256": "8156eae4222a67a41bd4cc90dcc37aa7576b3712f4f38d86db6d10cc163aca66",
+      "size_bytes": 144990
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/john-adams.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/john-adams.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/john-adams.jpg",
+      "sha256": "c1b3ecf893abd10f0c02b40b9938cd7228aa05384907c6dbedba4c97d7637388",
+      "size_bytes": 37275
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/8.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/8.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/8.png",
+      "sha256": "706ba12c266380824d612195587070ed928dd171ed1808614e8ace11034321fb",
+      "size_bytes": 51444
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/dacusville-middle-272x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/dacusville-middle-272x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/dacusville-middle-272x300.png",
+      "sha256": "67341241dd593220cd936783fca726d4c2bd1f7723001731dfbe9e3e9d66514d",
+      "size_bytes": 46070
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/winterjubilee2025-155.jpg.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/winterjubilee2025-155.jpg.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/winterjubilee2025-155.jpg.png",
+      "sha256": "07a50c073770724a38edbc63f6b08c7878e3ebef7e39d38c8ee314ce3f729830",
+      "size_bytes": 103232
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/pickens_elementary_logo-1536x372.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/pickens_elementary_logo-1536x372.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/pickens_elementary_logo-1536x372.png",
+      "sha256": "41bee0a6f0de0ffa0bd15cd78d0634731d8f06789e075c8998f21ce69938ba4d",
+      "size_bytes": 46606
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-99.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-99.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-99.png",
+      "sha256": "81f4fc813f0e993a38ac62a7403bc226f2f6892c7f3d9c4da022a2d607015499",
+      "size_bytes": 6104
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-72.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-72.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-72.png",
+      "sha256": "1ef30b78ddcacdfbf847a6dd72b093f67f908972f6985126032fcacff3c3ef36",
+      "size_bytes": 3526
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/jim-liddle-headshot-214x300.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/jim-liddle-headshot-214x300.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/jim-liddle-headshot-214x300.jpg",
+      "sha256": "73688fd2dddd560badac751876ccc0431b9dd67f0d450fe3619a707dd9e17b52",
+      "size_bytes": 32273
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/jim-liddle-headshot-scaled.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/jim-liddle-headshot-scaled.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/jim-liddle-headshot-scaled.jpg",
+      "sha256": "13a010907e50e9ccf4da38cd1c4d86ebe73240c840bbe5e35038401adec8c636",
+      "size_bytes": 206027
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-1-4.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-1-4.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-1-4.png",
+      "sha256": "ae9026795c5a26441b2674ba8203be6b45d1f55c417f6a106dfdae9ac5f1e0c5",
+      "size_bytes": 3613
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/th-3-300x233.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/th-3-300x233.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/th-3-300x233.png",
+      "sha256": "1cba641a41da69d3a607de0c0206c3e696cb903b29ef261ea9dbc8026639d359",
+      "size_bytes": 34353
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-7.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-7.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-7.png",
+      "sha256": "4e9ae9d237cdedf7f1ebf10824550a12a2e86e9cd12e32d8ce02e379287fc1d3",
+      "size_bytes": 4129
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-6.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-6.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-6.png",
+      "sha256": "88fb9a994261d7308bd30441f9fba390a8577fb9cf65d24e5c7653a58170351a",
+      "size_bytes": 3912
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-53-300x238.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-53-300x238.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-53-300x238.png",
+      "sha256": "f6ebc78495448a20ae1892b96b950f428d99a3ca399d2ade7b26607904a9205e",
+      "size_bytes": 46169
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/karla-kelley-600x947.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/karla-kelley-600x947.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/karla-kelley-600x947.jpg",
+      "sha256": "0916159257c39e73269a8a7c487abc1fecb4f949a758449180a92b1b70412a91",
+      "size_bytes": 50038
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-1-5.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-1-5.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-1-5.png",
+      "sha256": "74e83d30f2c076c2605785810304a6260351c275989d1072b85f37e8cdac2081",
+      "size_bytes": 3461
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/jim-liddle-headshot-1463x2048.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/jim-liddle-headshot-1463x2048.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/jim-liddle-headshot-1463x2048.jpg",
+      "sha256": "60f93fc9eaa927dde2aadf5c1b7710311f79e34cd72c56976ec1138e2b9c7df1",
+      "size_bytes": 138972
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/ellipse-1-copy-6.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/ellipse-1-copy-6.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/ellipse-1-copy-6.png",
+      "sha256": "06e480280873265e2c8be6e1c8251fe83795c5e81d327acbc9e2e3e4989afb7c",
+      "size_bytes": 636
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-73.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-73.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-73.png",
+      "sha256": "7ec853e34ac0dd83709aaa3f62ddd35d3da664dc2f028ea8542919b81158ec80",
+      "size_bytes": 3805
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/9.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/9.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/9.png",
+      "sha256": "0dbf1fbd8784ddd690258e08e1434dbb06dafc7ac587b60e51255c76bd369680",
+      "size_bytes": 51416
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/banner.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/banner.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/banner.png",
+      "sha256": "a36319b6776375a0956549fcdb51ab170b5b235ed80f44572266e87aee5743c1",
+      "size_bytes": 431012
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/13-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/13-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/13-1.png",
+      "sha256": "4661dc863167f3a47e9623c7b8e970b6a34ca8a77bcd09689384ea87991cb7dd",
+      "size_bytes": 51402
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-1-4-100x100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-1-4-100x100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-1-4-100x100.png",
+      "sha256": "1fa37dad9fbfadfb2bc2c3857ec9c47eb2874489fe7d069aba08162bb31692e9",
+      "size_bytes": 3883
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-68-copy.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-68-copy.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-68-copy.png",
+      "sha256": "89d9d33d6ceaae005e6eb609b7ef45ecc52dbf784be676b32a30cd62a0ed6904",
+      "size_bytes": 4376
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-26-.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-26-.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-26-.png",
+      "sha256": "4b6a576cd98d11c8a71c9908d71d30602a488951fda4e950133d54fc4ef1bbd1",
+      "size_bytes": 5830
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/stem-education.jpeg-207x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/stem-education.jpeg-207x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/stem-education.jpeg-207x300.png",
+      "sha256": "c1af09a20e48bf393638dc1312a6aa017d0eee030a768007affbbcf7f7107c69",
+      "size_bytes": 30566
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/21-100x100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/21-100x100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/21-100x100.png",
+      "sha256": "187800d6d5b5dbe95df257bd55c91759e6a713bb0d36c39ce891283001d8604b",
+      "size_bytes": 7986
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/danny-youngblood-768x1025.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/danny-youngblood-768x1025.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/danny-youngblood-768x1025.jpg",
+      "sha256": "4b93b092d139367a894b42b8b75b7076b85fb3c62aa3571641a30f51272a9ef7",
+      "size_bytes": 123250
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/derek-lunka-768x956.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/derek-lunka-768x956.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/derek-lunka-768x956.jpg",
+      "sha256": "dd7bc5a3841888430b1ad8138058b5b9c0642c1f5f0ab5a5a713906016da3539",
+      "size_bytes": 75525
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/new-map.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/new-map.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/new-map.png",
+      "sha256": "f1efbc2a6628c6f01d639cc919fc9e311211d41f77df67a4b3219e8d53da7d95",
+      "size_bytes": 52517
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/14.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/14.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/14.png",
+      "sha256": "215175b74428e1ed8a47532c1f4e625d4a0ad8cc60eb5aed1d3176819562fb39",
+      "size_bytes": 6015
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/amy-smith-1-600x338.jpeg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/amy-smith-1-600x338.jpeg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/amy-smith-1-600x338.jpeg",
+      "sha256": "9c6d2b26779b1dee68c720f9ab90927c114b1682eeaa244b2c2630e25708e52b",
+      "size_bytes": 22006
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/pickens_elementary_logo-2048x496.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/pickens_elementary_logo-2048x496.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/pickens_elementary_logo-2048x496.png",
+      "sha256": "8b47af1184349680af14f7e45ed9a8bdb1044667fd1571ab2fb6df0c44da5e1a",
+      "size_bytes": 64936
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/shape-83.svg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/shape-83.svg",
+      "mime_type": "image/svg+xml",
+      "relative_path": "downloads/images/shape-83.svg",
+      "sha256": "a0871d1df26cd9334c3308a0b9a98e12b794e9887b94ddc0e229ae5a79f25c76",
+      "size_bytes": 6674
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/brian_swords-768x768.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/brian_swords-768x768.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/brian_swords-768x768.jpg",
+      "sha256": "2b9c0aa8e7c902e2ffafc5cc50361607abb8b8f213c5c9c184911cc7d9fa215a",
+      "size_bytes": 72776
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/ambler-elementary-wildcats.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/ambler-elementary-wildcats.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/ambler-elementary-wildcats.png",
+      "sha256": "b49db4f22924a9b357bbfeeded823175caf9cd0439e6daa03daa551057aa04ab",
+      "size_bytes": 7225
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-14.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-14.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-14.png",
+      "sha256": "87376c5fe92de305d8853d084fce18b31eb31b24ae041b7ce7f9b1edce7a3a8e",
+      "size_bytes": 4290
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/jim-liddle-headshot-768x1075.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/jim-liddle-headshot-768x1075.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/jim-liddle-headshot-768x1075.jpg",
+      "sha256": "8f64fe737d4e4eee960133237abbaee9fc2952ba88df623a2468366ce5505388",
+      "size_bytes": 64719
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/derek-lunka-1234x1536.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/derek-lunka-1234x1536.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/derek-lunka-1234x1536.jpg",
+      "sha256": "9208dbcea3ac6f9c5054d2883922c011961b6716f7d417269aa1e4c7070f0622",
+      "size_bytes": 63983
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-51-2.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-51-2.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-51-2.png",
+      "sha256": "4193dc5cfb813878b8cca1004f21ee94688c6c018a44983f4dba6aa55bfd3c85",
+      "size_bytes": 939
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/liberty-high-school-272x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/liberty-high-school-272x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/liberty-high-school-272x300.png",
+      "sha256": "c1f38daa290f0a1881dda3ad366a44a463a01f52a44a98d69857b95e883f4bb3",
+      "size_bytes": 43025
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/mckissick-academy-272x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/mckissick-academy-272x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/mckissick-academy-272x300.png",
+      "sha256": "fe56ac5cee4197a1f9f34dd1230d7162290893a14bfa7329a7d99cc143bb5b67",
+      "size_bytes": 47121
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-1.png",
+      "sha256": "77ec6c667898a3c9fe6271bc6f38252e0a9c5a75a9ea41a181e4542646387bc6",
+      "size_bytes": 7636
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/impact-stories-page-banner.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/impact-stories-page-banner.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/impact-stories-page-banner.png",
+      "sha256": "3a3b3dd6a1306c691dacef764026c9aa1e32258bf86e7963e72071e6b2382f80",
+      "size_bytes": 470658
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/360-academy.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/360-academy.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/360-academy.png",
+      "sha256": "9fd937425b18b66490fe42382b3113c521f3510ef699d13452a5c0899f58cd47",
+      "size_bytes": 76974
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-1-3-207x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-1-3-207x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-1-3-207x300.png",
+      "sha256": "1b99f6cc61f85d96489753f97dda1c12a3c6aacff8a8726b860debc224539454",
+      "size_bytes": 32769
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-64-copy.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-64-copy.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-64-copy.png",
+      "sha256": "b317544eb2bd37c86108a1cfeff25056988ef3b9e45a8d196480a4cb8f5541d4",
+      "size_bytes": 6475
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-15.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-15.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-15.png",
+      "sha256": "63ef18a68cae2c87d41a301a13b4213033369406817d47fc8eafe2c6ffff8053",
+      "size_bytes": 5630
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/derek-lunka-1646x2048.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/derek-lunka-1646x2048.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/derek-lunka-1646x2048.jpg",
+      "sha256": "c48da7248a6b11e62cd060a9adf7ffbb66ef0c5f20aa79ddb1ca38759f127924",
+      "size_bytes": 105763
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/15.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/15.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/15.png",
+      "sha256": "e79eeeb773f599175656c02c686f5a7cef8b94c990ead6503c0b7ae977895fce",
+      "size_bytes": 7350
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/copy-2.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/copy-2.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/copy-2.png",
+      "sha256": "6e01887e4659fbdb1e9a17cd806a8575e96013fc40bf1f2db70815edb0ee66da",
+      "size_bytes": 177958
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/14-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/14-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/14-1.png",
+      "sha256": "16c90e759a7a15965cfbe27551c2e0ece86e9ee0ad9281b5d1bdb72f3be749dd",
+      "size_bytes": 51547
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/jim-liddle-headshot-600x840.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/jim-liddle-headshot-600x840.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/jim-liddle-headshot-600x840.jpg",
+      "sha256": "ab67bd40abac3454b2f6f125ee852e7e9e34965655fc6e2d4d5695c9babdaffd",
+      "size_bytes": 43396
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/danny-youngblood-768x1024.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/danny-youngblood-768x1024.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/danny-youngblood-768x1024.jpg",
+      "sha256": "2db37f6b5818bf77fe7bc2bdf46ecb666cd1ff5002aaa0103a8a1549f6ff4bf8",
+      "size_bytes": 122319
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/six-mile-elementary-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/six-mile-elementary-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/six-mile-elementary-school.png",
+      "sha256": "fdb4f2e42799bff4b03acabe838c0c048e7d0ff81ab000d6118425f76111bab5",
+      "size_bytes": 9804
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/d.w.-daniel-high-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/d.w.-daniel-high-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/d.w.-daniel-high-school.png",
+      "sha256": "c558e4e853a8fc2ac8dc6801d90b0aad734cacd177ac552389ff7a779d78e00b",
+      "size_bytes": 7164
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/new-map-600x462.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/new-map-600x462.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/new-map-600x462.png",
+      "sha256": "cd88e5482107f164c61738b3ba8752d8cd5f817b6f2681067174bd8ce2474756",
+      "size_bytes": 41888
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/mac-devine-1-100x100.webp",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/mac-devine-1-100x100.webp",
+      "mime_type": "image/webp",
+      "relative_path": "downloads/images/mac-devine-1-100x100.webp",
+      "sha256": "676364f71e1e0cad0497e5f443c4814d221605300fb5a8edd1e54c35508f6d5a",
+      "size_bytes": 2226
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-9-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-9-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-9-1.png",
+      "sha256": "9ca3b16b81a464cf3ea906cda9c985327e3d75c53802b3d2562f4be96ca7da24",
+      "size_bytes": 50832
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/17.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/17.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/17.png",
+      "sha256": "c848ead1cb4a69f9b7a5144964356bd82728fe2c8050073e929184f401979431",
+      "size_bytes": 3532
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/16-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/16-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/16-1.png",
+      "sha256": "7afeb5f6747d72df1d375770c43428cb16a325c7515e42c3017d0ff0f84951da",
+      "size_bytes": 46126
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-51-copy.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-51-copy.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-51-copy.png",
+      "sha256": "96d6a549626ae46373cacc4c1537db621a4f1ba715bbec4297dfb07b417908b5",
+      "size_bytes": 521
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/brian_swords-1024x1024.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/brian_swords-1024x1024.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/brian_swords-1024x1024.jpg",
+      "sha256": "01e0bb0447a1bdc2c92c597ee80a099468461422963fd82181e5bd5a62734f03",
+      "size_bytes": 110990
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/ken-roper-bio-1-scaled.jpeg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/ken-roper-bio-1-scaled.jpeg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/ken-roper-bio-1-scaled.jpeg",
+      "sha256": "3f3a44933f912cc2854d83fc5aaadb45a48d00d40cb27d1acfa7472b786ba4dc",
+      "size_bytes": 105625
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-17.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-17.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-17.png",
+      "sha256": "3dfe589230e633342c6d84214f20b21878466ed71a84ff7cd88ac70ab63b0eea",
+      "size_bytes": 2370
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-3.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-3.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-3.png",
+      "sha256": "413041612af452b11af7f89ecea1c438f7f9f1ef7562ccbff9bd94d2dbcebb5c",
+      "size_bytes": 4986
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-42-300x209.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-42-300x209.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-42-300x209.png",
+      "sha256": "ed1b775681361f07ff9bdce35669acde438bee8f45210b21bc293dc7f09f19d6",
+      "size_bytes": 39004
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/easley_hs_logo-300x268.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/easley_hs_logo-300x268.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/easley_hs_logo-300x268.png",
+      "sha256": "9195aec5721f2880e50b4d3820eae92e8d3fa87190e7f702756a48df86b55a67",
+      "size_bytes": 8961
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-51-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-51-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-51-1.png",
+      "sha256": "4e6f47cb05a6933444f1af483094b146a90a073a309c1506225090e25d173229",
+      "size_bytes": 590
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/derek-lunka-241x300.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/derek-lunka-241x300.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/derek-lunka-241x300.jpg",
+      "sha256": "8d68b4b012477d64acfb4d788da3893c566f6759ded5f1b6b9e79b762a5b8d3d",
+      "size_bytes": 12205
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-2.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-2.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-2.png",
+      "sha256": "4e64918eae7fd4e7379af128a5ba0de088b6d8f09bf2c177c307e606c4bea8e7",
+      "size_bytes": 5752
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-16.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-16.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-16.png",
+      "sha256": "685d8403110ef97246e650fdc97ebb6b0416b33ff0b803e5b16f6eaefd882fc8",
+      "size_bytes": 3794
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-75-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-75-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-75-1.png",
+      "sha256": "8d0d1e53427f8ba522850582c7c417df0d73df67aae197504b11b6f1c61a9e26",
+      "size_bytes": 4286
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/.png",
+      "mime_type": null,
+      "relative_path": "downloads/images/.png",
+      "sha256": "455516880b9dc15434a1f4692faa7abb3a84224db29b55e05b8bee039a567044",
+      "size_bytes": 1823
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/16.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/16.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/16.png",
+      "sha256": "69d8788da52c12d18ba8c12b54691745456b08e1bdfe64937f101c9116e8a3b3",
+      "size_bytes": 4512
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/copy-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/copy-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/copy-1.png",
+      "sha256": "3eac84dda6852576164fbd19355b87fd95a79c116019e3d32cdef358d16b429d",
+      "size_bytes": 124981
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/danny-youngblood-225x300.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/danny-youngblood-225x300.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/danny-youngblood-225x300.jpg",
+      "sha256": "2a4e35c680153146930e41ebf3316fab33607300d4f3ed6b413f6a8ff4cb1e00",
+      "size_bytes": 21781
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/liberty-el.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/liberty-el.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/liberty-el.png",
+      "sha256": "516477f7813b5fe5ef04589b2f15de54ca12c00feebde8cf56ac75484fa69ca9",
+      "size_bytes": 101264
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-10-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-10-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-10-1.png",
+      "sha256": "58194048588151ccc18a5b4c6becc9fd8e48da1a6583cd7063565f54e0ff8746",
+      "size_bytes": 50761
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/r.c.-edwards-middle-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/r.c.-edwards-middle-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/r.c.-edwards-middle-school.png",
+      "sha256": "350103b9aecf46950f55f37dff5eec9e97bd9bbea52c998d58fddcc2268d858f",
+      "size_bytes": 6485
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/12.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/12.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/12.png",
+      "sha256": "0c67cc36e73b91747cd4fa3f73cfe592f9e5660e0b010a590f1c3beac834c3b0",
+      "size_bytes": 4178
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-12.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-12.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-12.png",
+      "sha256": "2f161967fca31edef7caf3a8e9627aa91e619ce7c36c74595324b6b8e4768d55",
+      "size_bytes": 3270
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-6.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-6.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-6.png",
+      "sha256": "22e2851d5a8fc3ee4e33469e74acd1344a6136cc3446e50dc25e553ef958d690",
+      "size_bytes": 2382
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/edwards-high-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/edwards-high-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/edwards-high-school.png",
+      "sha256": "be15662aca8a4caceec7229ca75b4afa87071916fe9cfa987ee77f34fc2f41f7",
+      "size_bytes": 80702
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/12-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/12-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/12-1.png",
+      "sha256": "8e07b0d19597637100ab96e3c8db3a8040e62b725f985e4374471ed752fc889b",
+      "size_bytes": 51565
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/experiential-learning.jpeg.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/experiential-learning.jpeg.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/experiential-learning.jpeg.png",
+      "sha256": "0ce63715bc7eb82319e8ee9cf7eff9844264dde4c8bd5f4b52e53cfa71c59ceb",
+      "size_bytes": 54002
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/east_end_elementary_school_logo-300x246.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/east_end_elementary_school_logo-300x246.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/east_end_elementary_school_logo-300x246.png",
+      "sha256": "e76bb7699fdaa3bb0197785b14bfbf27db0d70bc11c82382fa7d95b7e8ca4792",
+      "size_bytes": 15709
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/clemson-el.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/clemson-el.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/clemson-el.png",
+      "sha256": "db6eb160b86e6d28a3c19f005655189174248e8bff439f1c56b3df3a43a1d881",
+      "size_bytes": 93150
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-7.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-7.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-7.png",
+      "sha256": "3a848c8eb7627d7e0658af4e96ba22e4c80c2a2102d07e0e7cc58f87f9aeeb99",
+      "size_bytes": 5644
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-13.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-13.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-13.png",
+      "sha256": "d78186c4a81d8838aca205fc9057427a4bcc6f4134cae50dd1e797bba755f5c1",
+      "size_bytes": 4703
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/13.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/13.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/13.png",
+      "sha256": "a05fa334b6cf7a8279656296341fb4f1ed30f1c6eba9ad06824355d961527bb4",
+      "size_bytes": 6580
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/copy-4.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/copy-4.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/copy-4.png",
+      "sha256": "809687c24de7cc1bf188ee8b19c8229ba271561a4cb16eda4b744c7e882079f8",
+      "size_bytes": 150802
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-64-copy-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-64-copy-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-64-copy-1.png",
+      "sha256": "b317544eb2bd37c86108a1cfeff25056988ef3b9e45a8d196480a4cb8f5541d4",
+      "size_bytes": 6475
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/daniel-high-school-logo-150x150.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/daniel-high-school-logo-150x150.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/daniel-high-school-logo-150x150.png",
+      "sha256": "dc8faeb3bafbfbfc5727b109922ced69f79f96149ec5cbbcd7c20cd753adbae0",
+      "size_bytes": 7089
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-73.pnghgjg.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-73.pnghgjg.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-73.pnghgjg.png",
+      "sha256": "baa09c27a24cae7d859ddabcad0cb9970116a27f1e775f426dbf7ae0597326ce",
+      "size_bytes": 4173
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-56-600x481.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-56-600x481.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-56-600x481.png",
+      "sha256": "5a1eb022b61ce4474781da8e0dc6fa776ef4f495b951330f3536b0eb4af11c8e",
+      "size_bytes": 111338
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/11.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/11.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/11.png",
+      "sha256": "899fba276ae0300ce985ebe96c209017ef2d36846709f7b65e6e43c9970d0a48",
+      "size_bytes": 6253
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/daniel-high-school-272x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/daniel-high-school-272x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/daniel-high-school-272x300.png",
+      "sha256": "1fdfe9f890beebebe2b6f2384c9108da5ea798da0899125089648b2294e7f869",
+      "size_bytes": 43071
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-11.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-11.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-11.png",
+      "sha256": "b11cc8521715f64abb17013ca5889ceb192b2e9ae8851270d5814689dd8ce33c",
+      "size_bytes": 4559
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/easley-high-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/easley-high-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/easley-high-school.png",
+      "sha256": "25a26d2bb451cd3a3fbba31ab3860febbb7b07f61a75c10c000e4b90fb0b4ac8",
+      "size_bytes": 70566
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-5.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-5.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-5.png",
+      "sha256": "4a8b1a26383b97e00f74283ab3023908414a2b030378bb47133342eba1521e0f",
+      "size_bytes": 8559
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/24-100x100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/24-100x100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/24-100x100.png",
+      "sha256": "43997b1c8d7f747193e005aca671bd56b9d363acd680ea38486677b329418128",
+      "size_bytes": 7651
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/header_impact-stories-scaled.jpeg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/header_impact-stories-scaled.jpeg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/header_impact-stories-scaled.jpeg",
+      "sha256": "6dca83fbb4a7af77fcaaf9862aa6bdad2ba169c8e1da14e92f0ad8f1f482f3cc",
+      "size_bytes": 278276
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-4.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-4.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-4.png",
+      "sha256": "9e32a6fdea54c3f14126b14f42257c462f8077f5b8ae7413e5f0ccd234cd7500",
+      "size_bytes": 2434
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/daniel-high-school-logo-1024x1024.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/daniel-high-school-logo-1024x1024.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/daniel-high-school-logo-1024x1024.png",
+      "sha256": "05ce5e360b95b569671e8df64b9d7b59229ec42075d2d88da7014275b26aff12",
+      "size_bytes": 94571
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-10.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-10.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-10.png",
+      "sha256": "c7abfdbaef0860e8cdd9f482210c34a0364684eed5eee7be468db5ec57c7a785",
+      "size_bytes": 5260
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/10.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/10.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/10.png",
+      "sha256": "2fb92bbad878ece5bf7be3df880a591faabe9659de38419d61cb3d929abbf93b",
+      "size_bytes": 51418
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-73-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-73-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-73-1.png",
+      "sha256": "3993f393672566d723e563db7a58b304d188940ab191dceeef76fd1aaf6defa0",
+      "size_bytes": 84300
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/liberty-el-272x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/liberty-el-272x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/liberty-el-272x300.png",
+      "sha256": "45ce20f7bf74c150b2f59c8913b55f2b0999ca11e280c13abfcfe307860f528c",
+      "size_bytes": 45329
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-27-.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-27-.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-27-.png",
+      "sha256": "dedeb3e70238c317c31ee6c17c4973ad0f149f0877fb323cefc01e28d30c13cf",
+      "size_bytes": 4574
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/project-go-alternative-program.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/project-go-alternative-program.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/project-go-alternative-program.png",
+      "sha256": "95eaf2327911f3a5cca8d57eb2aa7ecd6a8eeb9be8842e5380aae297a00e8cf7",
+      "size_bytes": 4253
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-52-300x238.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-52-300x238.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-52-300x238.png",
+      "sha256": "b2184642419db079f0b977a1e78e93055030aa096961d7a84db9f8bf72ce5776",
+      "size_bytes": 52961
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/21.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/21.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/21.png",
+      "sha256": "772cade4c7dbec6865a60487b841842774fa734f64263b2bb1620b922d0b6e56",
+      "size_bytes": 8840
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-101.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-101.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-101.png",
+      "sha256": "8e0c184fe93aa4025585c85657115f096f2f0260fcfd83c5d5cb031d99872d0c",
+      "size_bytes": 481765
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/edwards-high-school-272x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/edwards-high-school-272x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/edwards-high-school-272x300.png",
+      "sha256": "09f973aff5c07427f3386df8d3b9ed675c1d225636eabdd049693cacc1167114",
+      "size_bytes": 41598
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-35.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-35.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-35.png",
+      "sha256": "cde235105ce6208c999e148734f0c1400c95ecdb5ae9faefda6891dcbebcfd67",
+      "size_bytes": 609609
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-21.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-21.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-21.png",
+      "sha256": "f1b826a5dd18f575363a3f0a8fd4bb51b92b05173e2fe03f452e397db49e2254",
+      "size_bytes": 7098
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-9.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-9.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-9.png",
+      "sha256": "e4e57bd0c041b1a7d338ae3bc3a85002189e35b278192306ffae69e565f9563d",
+      "size_bytes": 4568
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-1-2.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-1-2.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-1-2.png",
+      "sha256": "ac07fd8df376c832f34d3dac416eee1085fb6003ceb3de2435a8e153481fc345",
+      "size_bytes": 82920
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/dacusville-middle-school-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/dacusville-middle-school-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/dacusville-middle-school-1.png",
+      "sha256": "1791d145953502b32588db8f30c8c26b48ae252dc54f1edbaa7abf9dabc89ba1",
+      "size_bytes": 4501
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-30-300x168.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-30-300x168.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-30-300x168.png",
+      "sha256": "d83a7a9607fa1c2475e737636a78611d31ce973db280b5305e0dc9cf302316b2",
+      "size_bytes": 33486
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/crosswell_elementary_school_logo-150x150.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/crosswell_elementary_school_logo-150x150.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/crosswell_elementary_school_logo-150x150.png",
+      "sha256": "926cfdb05c7c89f34eb387b1582a0d95fa36d164c2507922727a08b51b6fa6eb",
+      "size_bytes": 7052
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-63-261x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-63-261x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-63-261x300.png",
+      "sha256": "b8ae65a3ab4abc38ecfd797fdf98127dfa3ae99c7c6e23823146f365f4b7d138",
+      "size_bytes": 41919
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-1-3.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-1-3.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-1-3.png",
+      "sha256": "c3a77ae5d2cd271a78ac02c478435709c0fc063593313ce12d7830ba12d2765b",
+      "size_bytes": 91276
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-8.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-8.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-8.png",
+      "sha256": "0defe6db3696769101b02fab52b13afab9454685214fa7311cec34084cd30c78",
+      "size_bytes": 5380
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/daniel-high-school-logo-300x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/daniel-high-school-logo-300x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/daniel-high-school-logo-300x300.png",
+      "sha256": "6ed061a184da7f5d15fbd8261344806701d3f5da4e3b731a2110175156ad5d33",
+      "size_bytes": 14999
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-20.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-20.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-20.png",
+      "sha256": "deb99138accd7eae9b328dba274ef244497cb8503c13cce1ff0a602f2a98790d",
+      "size_bytes": 7402
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-34.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-34.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-34.png",
+      "sha256": "b0d84c70af72905575a424df5ba825f090478f920f7fbb22685ba4016f344284",
+      "size_bytes": 48567
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/danny-merck-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/danny-merck-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/danny-merck-1.png",
+      "sha256": "afd5b5b649aa58ebc3aaf44c9033548a8a8bfc1e242f9f87ca7ab63eb8080daf",
+      "size_bytes": 41614
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-100.png",
+      "sha256": "4aa7243cd65bd9307d5bd99a8df62be62cd35a84035db4d051bb4236c2cccd3e",
+      "size_bytes": 71470
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/brian_swords-600x600.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/brian_swords-600x600.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/brian_swords-600x600.jpg",
+      "sha256": "27b0e2623b0039bfb22ffe0e223f96aecad4f5218822b4951289a6e1d6d629fb",
+      "size_bytes": 52140
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/20.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/20.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/20.png",
+      "sha256": "4f669349c63149494777968425a209709e8c1d944d1df2d69c945e627b22910b",
+      "size_bytes": 8966
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/11-100x100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/11-100x100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/11-100x100.png",
+      "sha256": "c1cac4e676ae98603687a2dc728d0244a88f3ab896ba7dd164ad04b890d8c44e",
+      "size_bytes": 5339
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/about-img-upstate.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/about-img-upstate.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/about-img-upstate.png",
+      "sha256": "13670ffb1cb7acde3f4acc4456d48aa5c6f42338e9e93e48e1302c2fe575d108",
+      "size_bytes": 92638
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/th-2-300x233.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/th-2-300x233.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/th-2-300x233.png",
+      "sha256": "7d18ccd6bae189d92d405b8e69df3b2bd1a7aa99d6d5da0398d8d5970acb36e5",
+      "size_bytes": 30559
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/th-4.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/th-4.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/th-4.png",
+      "sha256": "177eec07da896fdf1c14b5e475b4793190f253c3750460928993ad508c2e3bf8",
+      "size_bytes": 64126
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/21-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/21-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/21-1.png",
+      "sha256": "a26a906726eba1534b9a0e720aef1cc02cafef294d4269ee765a572b2a64db9b",
+      "size_bytes": 46112
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/easley_hs_logo-600x536.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/easley_hs_logo-600x536.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/easley_hs_logo-600x536.png",
+      "sha256": "fbe6a0473deaac4635339d2940563bfdbd56e35a468c965e55ec6c24ecea648d",
+      "size_bytes": 29960
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/derek-lunka-600x747.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/derek-lunka-600x747.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/derek-lunka-600x747.jpg",
+      "sha256": "d24939e521b2b2e24b5cd79382ece8953e4d80008c62d61fba4089c580a02518",
+      "size_bytes": 49447
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/brian_swords-100x100.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/brian_swords-100x100.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/brian_swords-100x100.jpg",
+      "sha256": "41cf059246a60d3341127d5184f524d283c2cad03499d3cebeb5839b62c242f1",
+      "size_bytes": 9426
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/22.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/22.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/22.png",
+      "sha256": "0e1cbffb8c3eb38b4d5c9d7958e1ac2d0a887d9686197bd5bf3455ade3cfc8c0",
+      "size_bytes": 6586
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/23-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/23-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/23-1.png",
+      "sha256": "ab2375520da0a8c9a4512ccf9a7e5cbb0c3e51ebda253b25429ee03175793e5b",
+      "size_bytes": 46100
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/special-od.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/special-od.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/special-od.png",
+      "sha256": "38a1ca2b767800def8c0b2d377cce7f3aa560f38550e17609de10d8a08f38406",
+      "size_bytes": 41013
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-22.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-22.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-22.png",
+      "sha256": "9dfef09fc008799db7af2bcd745745c4598a5b6dbcd40bd13d50f4b6b2f4bce6",
+      "size_bytes": 6535
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-74.pngas_.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-74.pngas_.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-74.pngas_.png",
+      "sha256": "232ccec3a62db27ebac28c6787c979d40ee6da04ca21a82f523409320ee1075b",
+      "size_bytes": 247878
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-1-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-1-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-1-1.png",
+      "sha256": "a92cb53d93271c0c3e0207152accacc430982b38ec8b40bfaed9b59f00cf7669",
+      "size_bytes": 190624
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-51.svg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-51.svg",
+      "mime_type": "image/svg+xml",
+      "relative_path": "downloads/images/layer-51.svg",
+      "sha256": "76ad3b1be4cfb545b54c0c8fd980b0652801b3d5671a3b6e8abfd82635fc1be5",
+      "size_bytes": 4324
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/central-academy-of-arts.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/central-academy-of-arts.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/central-academy-of-arts.png",
+      "sha256": "89ba77cb50c4c7eafc6e9e9a35ce3e842a1dfc017bcf91eaf3b5c39128fa5c67",
+      "size_bytes": 104000
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/crosswell-elementary-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/crosswell-elementary-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/crosswell-elementary-school.png",
+      "sha256": "005568e7e3fc4b6944337a403971bb92f42c736e94e51e524f049bb21ac81b10",
+      "size_bytes": 6642
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-55-300x168.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-55-300x168.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-55-300x168.png",
+      "sha256": "524c6ff272474741e158f8ef5f571c1201ac898ff19b0947783d3ce22c5fd1e8",
+      "size_bytes": 32892
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-23.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-23.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-23.png",
+      "sha256": "dc68bbee1c6dce9e68d0985e68e10448b4dca564303ccdbc634290bc88597e8c",
+      "size_bytes": 2680
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/pickens-high-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/pickens-high-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/pickens-high-school.png",
+      "sha256": "5932cb3837d35cc94013d98e9dae1bae8919dc62153540d722a3bc0cdf73b353",
+      "size_bytes": 3065
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-25-300x168.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-25-300x168.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-25-300x168.png",
+      "sha256": "e1347981e48e7e7096e945385377a8127ad4a62e7cb185aa93983a58b2aab3fa",
+      "size_bytes": 28288
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/easley-high-school-272x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/easley-high-school-272x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/easley-high-school-272x300.png",
+      "sha256": "138eacab39ef86f27f71486346baeb9f09b49327c4879d244cb9c4a3d1144db6",
+      "size_bytes": 42345
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/karla-kelley-190x300.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/karla-kelley-190x300.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/karla-kelley-190x300.jpg",
+      "sha256": "a1cff44ed356e29f7f333c7989e754f8228756b6b688ccaad0c4777373c9cf3f",
+      "size_bytes": 15275
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/six_mile_elementary_school_logo-100x100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/six_mile_elementary_school_logo-100x100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/six_mile_elementary_school_logo-100x100.png",
+      "sha256": "f2515e3b96de1f65b2fc3115e9e6c4c3d00ef24fca2c199b28948198f957a021",
+      "size_bytes": 6430
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/special-education-207x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/special-education-207x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/special-education-207x300.png",
+      "sha256": "f379b74ce12f6b8b7d2d95e954da40fb6a31a77f5c1705631eff2e7eecacd5d9",
+      "size_bytes": 30386
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/23.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/23.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/23.png",
+      "sha256": "abfe7a4de674ad8bce4bcd13812a6e16251038e7cb743fc03a821c2a2d303709",
+      "size_bytes": 2920
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/fallback-image.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/fallback-image.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/fallback-image.png",
+      "sha256": "e7f5a11e7dd08db554822591e03a4dab06c0af318d2606d755697a84a26a6958",
+      "size_bytes": 782994
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/122.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/122.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/122.png",
+      "sha256": "46a64bc92b642dbc4505b033b588b4f4cfd8a42ad7be161a04a744ce52914d63",
+      "size_bytes": 32526
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/fallback-image.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/fallback-image.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/fallback-image.jpg",
+      "sha256": "f2fed9eff630396cdd0d4758f096195df9782f059b976ad511c0bcdbbff861da",
+      "size_bytes": 41514
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/forest-acres-elementary-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/forest-acres-elementary-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/forest-acres-elementary-school.png",
+      "sha256": "cc8628a42b22c3b73619ac2084a25a5d58f07d4878b355057a6a0eba3f551641",
+      "size_bytes": 4781
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/central-academy-of-the-arts.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/central-academy-of-the-arts.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/central-academy-of-the-arts.png",
+      "sha256": "e25d162a55533fa07753870b937f70315198ee354454ec21aee049ca22fe5592",
+      "size_bytes": 8918
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/18-100x100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/18-100x100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/18-100x100.png",
+      "sha256": "a186db0c150e9600b5dbe5c574de6461ca600333c0310b39e16a236001e5ddd8",
+      "size_bytes": 5877
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/th-3.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/th-3.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/th-3.png",
+      "sha256": "e9e8ff383a737bd2a6d0244a1f5491f66eb448b9dcecd170be6732c4e7412133",
+      "size_bytes": 27736
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/clemson-elementary-tiger.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/clemson-elementary-tiger.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/clemson-elementary-tiger.png",
+      "sha256": "6e850d4706b59da574c12a44a8aee267ecaabd975a55c07f5637e22c37e56c3d",
+      "size_bytes": 6253
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/jim-liddle-headshot-1097x1536.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/jim-liddle-headshot-1097x1536.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/jim-liddle-headshot-1097x1536.jpg",
+      "sha256": "68f352a70c86a23a44a6803bab200671b0a1f7a1268f0beca87ca9144cb9bab1",
+      "size_bytes": 102492
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/pickens-county-virtual-academy.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/pickens-county-virtual-academy.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/pickens-county-virtual-academy.png",
+      "sha256": "1d9792d5e8897cf836f264f57a30234a558d50e74307651025f848059c5250a0",
+      "size_bytes": 3667
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/27.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/27.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/27.png",
+      "sha256": "5b19d2155cae85e3a3fa56eb30d525c9677d31e2ecdb42aa55e0b79dc0226e83",
+      "size_bytes": 49612
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/danny-youngblood.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/danny-youngblood.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/danny-youngblood.jpg",
+      "sha256": "1ce03fa9640fe725baf88ccfc07815dc326c0b5085a2e044edf4cd4ec3c3b8d3",
+      "size_bytes": 137402
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-9.svg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-9.svg",
+      "mime_type": "image/svg+xml",
+      "relative_path": "downloads/images/group-9.svg",
+      "sha256": "ec2b3ebb2456ca61c60ed9f2d8f557c51972588d189a4a99634da970b414896e",
+      "size_bytes": 1677
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/liberty-middle.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/liberty-middle.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/liberty-middle.png",
+      "sha256": "551400a699d45c89918590cdbbd195040fdb14baf48cf4041ebbcf77baddc64d",
+      "size_bytes": 90498
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/danny-merck-1-600x600.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/danny-merck-1-600x600.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/danny-merck-1-600x600.png",
+      "sha256": "90b47d4274a0d6babcbcbb5d3528428544c5bcf93433f03739da8b2d538c2e14",
+      "size_bytes": 151457
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-1-4.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-1-4.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-1-4.png",
+      "sha256": "1339b001aa99a4e5a290a6472887036ce29665313086473cd470af866d06087d",
+      "size_bytes": 244685
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/card-bg-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/card-bg-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/card-bg-1.png",
+      "sha256": "6b7c7780b4e102a611be917e1d7055704f0fd2d8ed6a8c46913ae89ee9b568e4",
+      "size_bytes": 29686
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/daniel-high-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/daniel-high-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/daniel-high-school.png",
+      "sha256": "233726189318d0672716ff60752f2440babc79ef9a8850dae1b0b9e3760fe7d0",
+      "size_bytes": 80506
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/adult-learning-center-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/adult-learning-center-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/adult-learning-center-school.png",
+      "sha256": "b3368c04dfc8c94ed823f83c45e49533d66fab718e303ecd4c0e20954fc724c8",
+      "size_bytes": 7636
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-1-5.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-1-5.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-1-5.png",
+      "sha256": "ff3fbbd0dc7bc6411617013773c05f3dd8219118468ef95c9016af1879dbbc39",
+      "size_bytes": 149396
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/horizontal-logo_full-color_web-use-white-300x112.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/horizontal-logo_full-color_web-use-white-300x112.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/horizontal-logo_full-color_web-use-white-300x112.png",
+      "sha256": "3d2395f7e3a94f2b94fb424bbd995185b5d42625e5ce75efded254e203c7181c",
+      "size_bytes": 5933
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/jim-liddle-headshot-731x1024.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/jim-liddle-headshot-731x1024.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/jim-liddle-headshot-731x1024.jpg",
+      "sha256": "42ee4482d2c6cb4903687c33ba624fa350fc0e8adf2946c9759d86e503244f69",
+      "size_bytes": 61351
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/dacusville-elementary-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/dacusville-elementary-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/dacusville-elementary-school.png",
+      "sha256": "344f91be9ae5207ae1a68e731ab1caae7e44822f170663d4e1e74937f365a9ce",
+      "size_bytes": 6927
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-25-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-25-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-25-1.png",
+      "sha256": "0e3f107c70da052a6cbcbe72222b5e410474ab933682a64cac3c7784eaac5655",
+      "size_bytes": 3750
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/26.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/26.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/26.png",
+      "sha256": "041b91472ebd8e729a89ef884fcc6ba84a8ced91398db21a2794da7b49dd69a2",
+      "size_bytes": 51043
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/4-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/4-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/4-1.png",
+      "sha256": "bce29889e0136d8fa7057cf07c9bc87be0eea6c50b8ee6aec6bb9113546538eb",
+      "size_bytes": 51392
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-77-100x100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-77-100x100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-77-100x100.png",
+      "sha256": "38b7b06a2e53fd866be0e2f029be17fe994bb293e73514009c4a3c19157d712b",
+      "size_bytes": 5502
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/th-2.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/th-2.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/th-2.png",
+      "sha256": "6da15fa0ac2b9545b8b677917154689d010de5571c6f8827538df858b56a03e0",
+      "size_bytes": 40540
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-71.pngo_.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-71.pngo_.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-71.pngo_.png",
+      "sha256": "8505f1ec4d98da52cee78e85b0f4c7811d562bd18a535b4ad3e0c4d2cc01c31a",
+      "size_bytes": 3512
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-56-300x240.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-56-300x240.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-56-300x240.png",
+      "sha256": "b720ad833a9be58fa615166a98f0c5b3a9511f3b8e960b0f0caabe47b6ebc35d",
+      "size_bytes": 33423
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/liberty-elementary-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/liberty-elementary-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/liberty-elementary-school.png",
+      "sha256": "f3931e50786dd614305c878561c8cada0f7c83db3f4e3ab4d243324f8d4fa616",
+      "size_bytes": 6754
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/liberty_high_school_logo-100x100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/liberty_high_school_logo-100x100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/liberty_high_school_logo-100x100.png",
+      "sha256": "99f0a6c1b1c5b03096cc3f61b952ef03028b61dbf83ede3ad334d744a545d0df",
+      "size_bytes": 2850
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/18-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/18-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/18-1.png",
+      "sha256": "352b981520224309acbd6be05804e7e11c4f1c8c550034060c12abd200938894",
+      "size_bytes": 46082
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/18.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/18.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/18.png",
+      "sha256": "d31ccf902ad96e16bd11c43522fcd59e3fda664749b3aafe3ede35ae4308e3b6",
+      "size_bytes": 6674
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/innovative-learning-environments.jpeg.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/innovative-learning-environments.jpeg.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/innovative-learning-environments.jpeg.png",
+      "sha256": "00d97e366e7f4fa806223e9fd6e50cb63465f5d3294b4b7a1a35c34d201f544a",
+      "size_bytes": 44696
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/24.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/24.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/24.png",
+      "sha256": "e4f090bc13f0225be251ab4eec7e1c85269926065a90705d53e39065d0a7930b",
+      "size_bytes": 8708
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/360-academy-272x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/360-academy-272x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/360-academy-272x300.png",
+      "sha256": "ed667b704bbea368eff0cc58e4fccfd31c386086c54fc7c53264e49d561c1a41",
+      "size_bytes": 43176
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/rectangle-3-copy.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/rectangle-3-copy.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/rectangle-3-copy.png",
+      "sha256": "b77f40f759450469c823696b001ef3befa985b871c47dc7cf95e6efb93308e67",
+      "size_bytes": 1088
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-30.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-30.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-30.png",
+      "sha256": "d7bef6d5e693a0142099aa1faf9f74e032237dd1d2c8f48abaa040343fb2838d",
+      "size_bytes": 17186
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-24.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-24.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-24.png",
+      "sha256": "39bab05f134fccc76578905b57304fb984cc3303f638f2dd12324183999b03bd",
+      "size_bytes": 7392
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-18.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-18.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-18.png",
+      "sha256": "2d01dc6ff429c0d7d4ca2de68d5f23ed6659080f078f3950f077d1e9d34b2c00",
+      "size_bytes": 5704
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/25-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/25-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/25-1.png",
+      "sha256": "91d10f5fc4d04a24f9e07035f4dd43e599b3f6c3d3d8430e386e90b0608e34c9",
+      "size_bytes": 50936
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/internet-copy.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/internet-copy.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/internet-copy.png",
+      "sha256": "0b2e4ea99c46a65010eb1c84645c52db80238b3954410527b83b9137e97302df",
+      "size_bytes": 590
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-2-272x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-2-272x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-2-272x300.png",
+      "sha256": "f97fd2e6bb61f002a526d80498b06bfbcdd2df7d6b333de7cdd982808b841fdc",
+      "size_bytes": 46497
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/danny-merck-1-100x100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/danny-merck-1-100x100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/danny-merck-1-100x100.png",
+      "sha256": "437ee224aeaf91d862d853d6365da14b3edaab8cfe3c0758f08c82175bd62cac",
+      "size_bytes": 5556
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/ambler-elementary.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/ambler-elementary.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/ambler-elementary.png",
+      "sha256": "d77d0e4e098c30980464b3ab9503d7326cf38ca131bf70f9bf7f71f7179cc2ca",
+      "size_bytes": 109192
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/east_end_elementary_school_logo-600x492.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/east_end_elementary_school_logo-600x492.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/east_end_elementary_school_logo-600x492.png",
+      "sha256": "23f1757d6da08ccab71a933856f392603ad6e65b9ad219c6ab28bb671c20b3d1",
+      "size_bytes": 45852
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-19.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-19.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-19.png",
+      "sha256": "a5516f982089880052b103ecdd88c9b68221f952930e3481710d1dc4a9572161",
+      "size_bytes": 3066
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/easley_hs_logo-768x686.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/easley_hs_logo-768x686.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/easley_hs_logo-768x686.png",
+      "sha256": "b57c5b24f9ca16623615711c423c2df9c28c0d037cc8f75c0f172ba3dbf5df81",
+      "size_bytes": 47968
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/amblerwildcat-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/amblerwildcat-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/amblerwildcat-1.png",
+      "sha256": "62b99f07191e51aed3decd31f6170af8724cdb42d24a9e89e7521cbcd23c560a",
+      "size_bytes": 161248
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-25.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-25.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-25.png",
+      "sha256": "72dcab0ab279cec5be958d1aba92a69cbb981b451828f843ded765c4550cd692",
+      "size_bytes": 11604
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/14-100x100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/14-100x100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/14-100x100.png",
+      "sha256": "4994eadb72cd2aac0d8d53a52e3e803a39f478a1c6b058235468d55488cc1260",
+      "size_bytes": 5339
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/25.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/25.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/25.png",
+      "sha256": "f72441fd346dabc7bfc9ae4093c522c7aa31fae3f9cb046d9dc8f8a8eedce73f",
+      "size_bytes": 4528
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/19.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/19.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/19.png",
+      "sha256": "c47b2759d685a85fa7732ecda5f169f4f94ce74fcefee11faa8ae63aa4e1a38c",
+      "size_bytes": 5381
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/woocommerce-placeholder.webp",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/woocommerce-placeholder.webp",
+      "mime_type": "image/webp",
+      "relative_path": "downloads/images/woocommerce-placeholder.webp",
+      "sha256": "019e9beec61c9ee5b6009335c7846816452e1e3b420d2bb9e50327681dfade19",
+      "size_bytes": 9892
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/th-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/th-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/th-1.png",
+      "sha256": "82e22151dbeb97b0a948eeef7562ef7548fa73a5ab5e9e7c37dd158f16ceab42",
+      "size_bytes": 24530
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/pickens-el.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/pickens-el.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/pickens-el.png",
+      "sha256": "17f96dcdd90a2445343f74d4941a41861af5a60eb085fd58c828ac737eb3707a",
+      "size_bytes": 105772
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/east-end-elementary-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/east-end-elementary-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/east-end-elementary-school.png",
+      "sha256": "14498b10713bf14ba9dbf842d852090382e4aa1d321bfe08fde3fc2b3a034940",
+      "size_bytes": 6380
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/pickens_elementary_logo-1024x248.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/pickens_elementary_logo-1024x248.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/pickens_elementary_logo-1024x248.png",
+      "sha256": "bf387b413265de9807f66e1fc80f780fe0dfc00e64c0801a436fde7c9aedc03f",
+      "size_bytes": 28969
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/pcikens-high-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/pcikens-high-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/pcikens-high-school.png",
+      "sha256": "1710e09e1b5af0c6994977de949cda525c814737149053839e9990949fd084a8",
+      "size_bytes": 92544
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-10.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-10.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-10.png",
+      "sha256": "c20007cc0c637e2c24863bd9c4c4d5bd1357395b9b1852da9103a7ba27aff3e0",
+      "size_bytes": 54578
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-80-100x100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-80-100x100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-80-100x100.png",
+      "sha256": "4148339e889c5f1789bed531bbf5e21152380dd5f801a7a22a46a40d11f6a954",
+      "size_bytes": 5094
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/west-and-el.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/west-and-el.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/west-and-el.png",
+      "sha256": "76362fce99642c9f280c96034e87e41f94bde4d1bc4cd0349d557df6c0964cb8",
+      "size_bytes": 105996
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/liberty_high_school_logo-150x150.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/liberty_high_school_logo-150x150.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/liberty_high_school_logo-150x150.png",
+      "sha256": "8e7035553c184dbeb8e443d5b20be70155ea883989698826409f967f62f2d667",
+      "size_bytes": 4945
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/easley_hs_logo-1024x914.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/easley_hs_logo-1024x914.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/easley_hs_logo-1024x914.png",
+      "sha256": "d2f455e5ba32e68eaf8d01174e5e58f3433dce4452af42b1527f7dd01f7c6927",
+      "size_bytes": 81000
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/4.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/4.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/4.png",
+      "sha256": "fc75865e846db1f6e5f8e614b45faeb3b6bc57779a7cd229003089b1d756e8b3",
+      "size_bytes": 3388
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/carlos-avila-1.jpeg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/carlos-avila-1.jpeg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/carlos-avila-1.jpeg",
+      "sha256": "7a7ab55f8ca4cb262f1b7d1ca16ef50e2bf19fe70f49fe9ca694cf997726f0a4",
+      "size_bytes": 21793
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-62-290x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-62-290x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-62-290x300.png",
+      "sha256": "576fbad6d1727fc733d328889fb931acd060d4d6555fdc862afad73f3e27d708",
+      "size_bytes": 52770
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-81.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-81.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-81.png",
+      "sha256": "83b187010e22a22e9516adbe5a998a0ce00f0716acc7555d5a372fae2edca74c",
+      "size_bytes": 2698
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/hagood-el.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/hagood-el.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/hagood-el.png",
+      "sha256": "0aced289274a52d28dccd0eeabd7a717ca5cad90c10d303640b5cf7687d88987",
+      "size_bytes": 115404
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/22-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/22-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/22-1.png",
+      "sha256": "ef24775c2b59e6e61dca33391bd35462b71c1c0233f7cf4b5a310931d1c0287b",
+      "size_bytes": 10416
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-56.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-56.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-56.png",
+      "sha256": "de29139693769d50a5e862eb5ae0347d963faaf06b02de6c58f18635dfe709e7",
+      "size_bytes": 65204
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-42.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-42.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-42.png",
+      "sha256": "c7b260802ae8267b99207a10c39db9edfe569450d4a1de8552011ab2790ed30c",
+      "size_bytes": 19848
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/th-4-300x233.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/th-4-300x233.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/th-4-300x233.png",
+      "sha256": "35a07c43c3e1e54e5e3da6dc99184db5b90faf7091b5629cca41219587b0ed03",
+      "size_bytes": 50106
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/dacusville-middle.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/dacusville-middle.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/dacusville-middle.png",
+      "sha256": "089beb3316b6fbab8bab4a4d25c9438b7b39dfad1a474913e480d39fa783c37a",
+      "size_bytes": 77996
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/karla-kelley.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/karla-kelley.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/karla-kelley.jpg",
+      "sha256": "db7810e02aae65ba906022ca7c3ac6aa92ff0650b49bd813fe5f1723c09e7190",
+      "size_bytes": 46331
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-43.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-43.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-43.png",
+      "sha256": "9660a4837f930e9d14f849d18eb4c3a12242f51942198fb1ff8b76515ce40d32",
+      "size_bytes": 20968
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-1-272x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-1-272x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-1-272x300.png",
+      "sha256": "015765c29beed39a9891d79644e4bedec35d1731e8dd7134ee09e35b543ffeef",
+      "size_bytes": 45747
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/mckissick-academy.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/mckissick-academy.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/mckissick-academy.png",
+      "sha256": "f2d41ba17524811d58b11511966dbcb04ff8425f97da49d77ebcfefa8193c77b",
+      "size_bytes": 107780
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/daniel-high-school-logo-768x768.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/daniel-high-school-logo-768x768.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/daniel-high-school-logo-768x768.png",
+      "sha256": "fbca970aea06f011176737cb9dc9c0c38fc8a0192cd12ac14046be5cbc0deed5",
+      "size_bytes": 62969
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-80.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-80.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-80.png",
+      "sha256": "77dd9cc4c2c2a643dee71512a10bab29cc4e559bf8cbb446bc8d7a0feaca9cc0",
+      "size_bytes": 8628
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-94.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-94.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-94.png",
+      "sha256": "07b41651361605a30776f243b1942b1be9afe9230114dfa9a7381469bdb83381",
+      "size_bytes": 4519
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/danny-merck-1-150x150.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/danny-merck-1-150x150.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/danny-merck-1-150x150.png",
+      "sha256": "ab8ab58e149526db6440dfcbb9db6d510eb80e8106e9152347acc0eb70bf83e2",
+      "size_bytes": 11280
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/5.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/5.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/5.png",
+      "sha256": "8d68e6bc74d75eb9c3173a5132eca6371d6573a7703395295a8871cd1fa30a79",
+      "size_bytes": 2992
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/brian_swords.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/brian_swords.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/brian_swords.jpg",
+      "sha256": "85476f294271c8eadaedc9c590808ca5d19d9d219ac71f7924f3ef9a169a4e8d",
+      "size_bytes": 199974
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/crosswell-el.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/crosswell-el.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/crosswell-el.png",
+      "sha256": "1a82315fb084bbec5e0f4c7d29981ee10dc7d0c772f4090e9be27551d8eb7e7c",
+      "size_bytes": 93312
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/carlos-avila-1-200x300.jpeg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/carlos-avila-1-200x300.jpeg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/carlos-avila-1-200x300.jpeg",
+      "sha256": "6305a6e36bcbf598c60737a26573befee33ce2a6fc77258ef20d0ccfa0622f2f",
+      "size_bytes": 6009
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/7.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/7.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/7.png",
+      "sha256": "daecd5e1672de924bb39c3e146de9fe140a7daa12db7cb3aed8ab5045cad5266",
+      "size_bytes": 51434
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/pickens_elementary_logo-300x73.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/pickens_elementary_logo-300x73.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/pickens_elementary_logo-300x73.png",
+      "sha256": "1fa9fa8f007c8a6ec5c302db0e21ae8e683c83624ca2628f8c1b20f6e4bf161b",
+      "size_bytes": 6919
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/r.h.-gettys-middle-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/r.h.-gettys-middle-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/r.h.-gettys-middle-school.png",
+      "sha256": "a563546b7e313e6d4ca13cfb390b57580c5fad1b6e9cfd0c323d346c566f7c1d",
+      "size_bytes": 5185
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-82.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-82.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-82.png",
+      "sha256": "bb5802f37a1b0efff08bb3b6b11bb85ef9777c2da3b46aeabfccb32a77ad2597",
+      "size_bytes": 8036
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/22-2.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/22-2.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/22-2.png",
+      "sha256": "24aa882c746dc4696ed27572124dacf2b7b12a92f1140999774a40a8ca14b125",
+      "size_bytes": 46100
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-69.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-69.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-69.png",
+      "sha256": "a36319b6776375a0956549fcdb51ab170b5b235ed80f44572266e87aee5743c1",
+      "size_bytes": 431012
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-41.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-41.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-41.png",
+      "sha256": "8e2e423ed3e3f3187c5617761f1573133485225537c95ae513ee9f5f1c713937",
+      "size_bytes": 23034
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-55.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-55.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-55.png",
+      "sha256": "3011071dcd5e82fd6290de0a073c4ca9f9c33c38be85e31e01f006d3975c9711",
+      "size_bytes": 17852
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/crosswell-el-272x300.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/crosswell-el-272x300.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/crosswell-el-272x300.png",
+      "sha256": "96cb69083cc98a995b508e7f5f3791ca3e144ffcc815b4a5e06a70fea0f63489",
+      "size_bytes": 45584
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-9.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-9.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-9.png",
+      "sha256": "ba59dbc9b76aafc26b671bdca0490319331f5f3ce6300536d80b72098191d816",
+      "size_bytes": 5234
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/brian_swords-1536x1536.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/brian_swords-1536x1536.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/brian_swords-1536x1536.jpg",
+      "sha256": "35335b3c7eae78c71efc0cb34cd5ec953076ecbc79d9c7078a268c470a84d077",
+      "size_bytes": 209630
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/20-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/20-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/20-1.png",
+      "sha256": "6bf0ee10e73af503f2b4c19708b7ea821492352f4bbbdad7e99dc6e145f8da61",
+      "size_bytes": 46088
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/amblerwildcat.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/amblerwildcat.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/amblerwildcat.png",
+      "sha256": "e46d76ff281569e6e7d9384e07d01d0e1260d8007952927acb6dd5a8b8913b5b",
+      "size_bytes": 384744
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/wese-end-elementary.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/wese-end-elementary.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/wese-end-elementary.png",
+      "sha256": "f22d38e8e4fdc99ce1e579f5e5db117cb688f0149a87e4fa8023c1e6d1ab7d5e",
+      "size_bytes": 7610
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/mac-devine-1-150x150.webp",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/mac-devine-1-150x150.webp",
+      "mime_type": "image/webp",
+      "relative_path": "downloads/images/mac-devine-1-150x150.webp",
+      "sha256": "7b07db556ed270116ee8c3c13f40077c7ab7b8df0c119acdae93941f53610150",
+      "size_bytes": 3706
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/six-mile-el.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/six-mile-el.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/six-mile-el.png",
+      "sha256": "a66a5c7e98005c226919a53d59e00971bf840e93865f9c3d2a6361196a5c5aa6",
+      "size_bytes": 193328
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/6.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/6.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/6.png",
+      "sha256": "e348a024490ac3b0980a4c812cc94c926cd1fcbaa6c9c5ba608f982890549f77",
+      "size_bytes": 51492
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/amy-lawton-raugh-scaled.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/amy-lawton-raugh-scaled.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/amy-lawton-raugh-scaled.jpg",
+      "sha256": "7373f60f960b0e9080f0c898b3fffda27728501d022e8d363d11fe3c59f83ad2",
+      "size_bytes": 114525
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/3-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/3-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/3-1.png",
+      "sha256": "9f4073e6f1af207b731a44e5f290f1329f329ec93087ae701f098113060f103f",
+      "size_bytes": 51419
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/john-adams-1-241x300.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/john-adams-1-241x300.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/john-adams-1-241x300.jpg",
+      "sha256": "e49e32ce4fb2557a203669e62f418496a6673b104351aa3c4cd6202454c5bd5e",
+      "size_bytes": 4912
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/john-adams-1.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/john-adams-1.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/john-adams-1.jpg",
+      "sha256": "459b9c34be44a74b05cbfabdf0f1acffd31b5f889de4035a363911d1dc788217",
+      "size_bytes": 20752
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/group-12.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/group-12.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/group-12.png",
+      "sha256": "fd183b95940527822ead1668827fc6adfdc28980816d5008a6832c7229ee84b1",
+      "size_bytes": 46433
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/brian_swords-150x150.jpg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/brian_swords-150x150.jpg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/brian_swords-150x150.jpg",
+      "sha256": "ff38023edd1a0e94f8c8820b9627709dfa9a2bba506fc4c80f9edc80246da4be",
+      "size_bytes": 12002
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-56-768x615.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-56-768x615.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-56-768x615.png",
+      "sha256": "19013d4cbf7b64d1af1da9b744da401977febe94d5a228ca50083d8691e23bc1",
+      "size_bytes": 169599
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/2.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/2.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/2.png",
+      "sha256": "b1f1ba8b502c980786abb5a687180fe0778840d664e12b72bf876862412268a9",
+      "size_bytes": 5266
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/24-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/24-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/24-1.png",
+      "sha256": "8994c993b07166e475783e4f27bcd2fda680dc9a49bef309e08ebf1f79266731",
+      "size_bytes": 50962
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/19-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/19-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/19-1.png",
+      "sha256": "e8cc6e9f41fbbe94a9e6e60928e45d2a70e7618458f605f8bb75866b6c39b7b7",
+      "size_bytes": 46090
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/pickens-middle-school.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/pickens-middle-school.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/pickens-middle-school.png",
+      "sha256": "ef9d78224b4c05bd3417ff9177744641c8dd1bff24f80fba187601dd12366e60",
+      "size_bytes": 9070
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-78.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-78.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-78.png",
+      "sha256": "57f11b2c97d4dcffdc51ae3b6a877086445f717d525fe62c874ca4b713e10a20",
+      "size_bytes": 6862
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/clemson_elementary_-_tiger_mascot.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/clemson_elementary_-_tiger_mascot.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/clemson_elementary_-_tiger_mascot.png",
+      "sha256": "09f7f2ac004bd4940bc5185ac397bbda4883717d2e4bcc8fe3c7ab0448e96454",
+      "size_bytes": 74509
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/special-education.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/special-education.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/special-education.png",
+      "sha256": "43daed21fd87044232c4fe2b184bc55593e016cb436c338307fd3e4579a8f785",
+      "size_bytes": 98526
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/amy-smith-1-768x432.jpeg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/amy-smith-1-768x432.jpeg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/amy-smith-1-768x432.jpeg",
+      "sha256": "5ddb12e89f5c4d16860c5e69c4cf9aa507bcdbfae70428d50d10e9d23efffd93",
+      "size_bytes": 31578
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-79.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-79.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-79.png",
+      "sha256": "544453107a6b512f4a3ca534476affa9252776a1b358bb7ef833d0bd7a989f54",
+      "size_bytes": 5110
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/dacusville-elementary-school-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/dacusville-elementary-school-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/dacusville-elementary-school-1.png",
+      "sha256": "50535c43cc7bf68da9491862b5536c969a7bd903fe2914002fd7ca395daeaa63",
+      "size_bytes": 6826
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-51.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-51.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-51.png",
+      "sha256": "664da2ad74c75bb2b53376c3ce78d6c5e79484a27adf1983313d4cc865f32c86",
+      "size_bytes": 1009
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/3.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/3.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/3.png",
+      "sha256": "7304e4218067b058d2616dedce8471cb7f85ff3cad678083c096c1d5b48054fe",
+      "size_bytes": 6564
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/mac-devine-1-600x600.webp",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/mac-devine-1-600x600.webp",
+      "mime_type": "image/webp",
+      "relative_path": "downloads/images/mac-devine-1-600x600.webp",
+      "sha256": "661f9be9feda74bc2eb194d39cce9d8dc167484a914d48eacde084818c67a359",
+      "size_bytes": 28386
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-43-300x209.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-43-300x209.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-43-300x209.png",
+      "sha256": "0a9d2fd99b0a290c4eefdd0df65dd46c9d269cbcf1936ab614b4486962e098ee",
+      "size_bytes": 37356
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/mckissick-logo-300x277.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/mckissick-logo-300x277.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/mckissick-logo-300x277.png",
+      "sha256": "3728c6a39817798c50dc6b4f480b47b7509d11b21d317d100676dc9eb20a9804",
+      "size_bytes": 15497
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/six_mile_elementary_school_logo-150x150.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/six_mile_elementary_school_logo-150x150.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/six_mile_elementary_school_logo-150x150.png",
+      "sha256": "c0ff2fd669e3503ac21276eee120c8d1e17c24fcb603a63ac27e6f112c8f092a",
+      "size_bytes": 12927
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/pickens-middle.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/pickens-middle.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/pickens-middle.png",
+      "sha256": "5d9ada768116a3cc73b18e108195d1c7ec3f0eb1bbe3d3ede75854478b0b2f9e",
+      "size_bytes": 83172
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/th-1-300x233.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/th-1-300x233.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/th-1-300x233.png",
+      "sha256": "88ceba2f6e75fd4d6d62dde1dc4c67dfbd22f6e42611b6f9ff29ecd3b76288f9",
+      "size_bytes": 35538
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/stem-education.jpeg.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/stem-education.jpeg.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/stem-education.jpeg.png",
+      "sha256": "61d3c6c5898d87b978258e6cfeb2944a20a98e224016d5cb2f9e0e0e65894273",
+      "size_bytes": 68544
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/ken-roper-bio-2.jpeg",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/ken-roper-bio-2.jpeg",
+      "mime_type": "image/jpeg",
+      "relative_path": "downloads/images/ken-roper-bio-2.jpeg",
+      "sha256": "add841a1fb9f1ebee9e7e51ac9390f15f9d459cdf1fe9b1fb07a2e41f5263006",
+      "size_bytes": 156143
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-90.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-90.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-90.png",
+      "sha256": "7125fdb718d2f59e435b2cea939c949fe29321d7699a09753949341bd6452726",
+      "size_bytes": 3468
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/daniel-high-school-logo-1536x1536.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/daniel-high-school-logo-1536x1536.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/daniel-high-school-logo-1536x1536.png",
+      "sha256": "bb36abfe9f1720d656a4f492b4f479803bc8ea22335215d8b2d9030a004480d3",
+      "size_bytes": 116175
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/crosswell_elementary_school_logo-100x100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/crosswell_elementary_school_logo-100x100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/crosswell_elementary_school_logo-100x100.png",
+      "sha256": "821b262b206094ea49c3841c37bd895fbb9510df30eae23b21957d0457c50691",
+      "size_bytes": 4065
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-53.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-53.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-53.png",
+      "sha256": "54e21654c29ce666580e55fbc9bcf63bd939fe982b6b4680f769fae662a3174f",
+      "size_bytes": 33288
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/mac-devine-1-768x768.webp",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/mac-devine-1-768x768.webp",
+      "mime_type": "image/webp",
+      "relative_path": "downloads/images/mac-devine-1-768x768.webp",
+      "sha256": "3102adcaec40be72f9ccdf129fd977809d74aa52f6bbc665b1d5dba9274f868a",
+      "size_bytes": 38454
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/new-map-768x591.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/new-map-768x591.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/new-map-768x591.png",
+      "sha256": "64fe0285c6904a653647f8e4236b4033c7cb68b11457ea47298aaf56f8defcda",
+      "size_bytes": 57115
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/mac-devine-1.webp",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/mac-devine-1.webp",
+      "mime_type": "image/webp",
+      "relative_path": "downloads/images/mac-devine-1.webp",
+      "sha256": "c258c32ad3a4be061956d6be8ab97089ef6a44c2c3fe0e9b58bb79949061cfa7",
+      "size_bytes": 29140
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/east_end_elementary_school_logo-768x630.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/east_end_elementary_school_logo-768x630.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/east_end_elementary_school_logo-768x630.png",
+      "sha256": "ec7008c12b227d83d94e72083c3d7f9995b08a3cbbdf9e57b7af83fa2c5f72d6",
+      "size_bytes": 60566
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-46.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-46.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-46.png",
+      "sha256": "e618eb89da1e324d88ef77539e7a735aa194f4f44af9f338f1fda66b7a1dc233",
+      "size_bytes": 49696
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-52.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-52.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-52.png",
+      "sha256": "3d153b5248aa4963af25f8bb07314b4f570712012426574b91aad372acd5bb69",
+      "size_bytes": 94210
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/layer-66-copy.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/layer-66-copy.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/layer-66-copy.png",
+      "sha256": "5ffc91b3cc3a6bc704342f1dc0b2198bfb7c8079397e0bf51ea9bcb917a396d3",
+      "size_bytes": 4209
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/20-100x100.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/20-100x100.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/20-100x100.png",
+      "sha256": "e5ed19a712fee4c3ff3b56920e7907a74a827238954de269d0f3543561c16d4c",
+      "size_bytes": 8565
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/5-1.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/5-1.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/5-1.png",
+      "sha256": "6d6f63cbd68055b91b20be300a200ffcad2cfa1e50da64b109dc50eb7102bff5",
+      "size_bytes": 45457
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/bg.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/bg.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/bg.png",
+      "sha256": "01fbbaea7d2a797ffdd7275c90be7e4a851cd81f03ba34634be76c31f7417c77",
+      "size_bytes": 18675132
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/new-upstate-banner.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/new-upstate-banner.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/new-upstate-banner.png",
+      "sha256": "7844797f544dbed9149e7dc941d297b994e6b0b3dd8ab5a30d5140fc4b8b287b",
+      "size_bytes": 101660
+    },
+    {
+      "drive_path": "Site Extractions/scupstatefoundation.org/downloads/images/dacusville-el.png",
+      "local_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org/downloads/images/dacusville-el.png",
+      "mime_type": "image/png",
+      "relative_path": "downloads/images/dacusville-el.png",
+      "sha256": "441eb93013bda600a26fd29eb6d3a886a9b8f6174906410a0bd38042b6e9ddfd",
+      "size_bytes": 107220
+    }
+  ],
+  "generated_at": "2026-09-04T18:47:05.382061+00:00",
+  "policy": {
+    "asset_only": true,
+    "drive_only_prefixes": [
+      "downloads/images/",
+      "downloads/documents/",
+      "downloads/videos/",
+      "downloads/audio/",
+      "downloads/client-provided/reference-screenshots/",
+      "screenshots/portfolio/"
+    ],
+    "forbidden_payloads": [
+      "extraction root",
+      "MASTER_PROMPT.md",
+      "PRE_BUILD_INTERVIEW.md",
+      "builder_input.json",
+      "content/",
+      "design/",
+      "seo/",
+      "structure/",
+      "normalized/",
+      "artifacts/",
+      "emergent-package/",
+      "claude-package/"
+    ]
+  },
+  "run_id": "2026-09-01_scupstatefoundation-org_01",
+  "schema_version": 1,
+  "source_path": "/Users/roy/clawd/agents/scout/tools/Site-Extractor/siteapp/extractions/scupstatefoundation.org",
+  "summary": {
+    "bytes": 39252839,
+    "files": 369
+  }
+}

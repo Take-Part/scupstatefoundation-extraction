@@ -1,0 +1,121 @@
+{
+  "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4",
+  "slug": "board-members--lauren-fox-copy-4",
+  "title": "Mac Devine - Upstate Foundation",
+  "meta_description": "connect@scupstatefoundation.org",
+  "canonical": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/",
+  "og_title": "Mac Devine - Upstate Foundation",
+  "og_description": "connect@scupstatefoundation.org",
+  "og_image": "",
+  "h1": [
+    "Mac  Devine"
+  ],
+  "h2": [
+    "Quick Links",
+    "Get In Touch",
+    "Join the Building Bridges Newsletter",
+    "Privacy Policy",
+    "|",
+    "Imprint"
+  ],
+  "h3": [],
+  "body_text": "Mac  Devine By admin / July 28, 2025 Mac’s 32 year career at IBM included several key roles including the CTO and VP for IBM’s Advanced Innovation and Emerging Technology Division as well as the IBM Executive for Clemson University and MIT. Mac is an accomplished speaker and author on a wide variety of topics but is best known for his expertise in Cloud Computing and the Internet of Things. In 2006, Mac gained the designation of IBM Master Inventor and in 2009 he was appointed to IBM’s prestigious Academy of Technology. In 2016, Mac gained IBM’s highest technical recognition with his appointment as IBM Fellow. Mac retired from IBM in August 2021 to become the Executive Director of the Blue Ridge Innovation & Entrepreneurship Foundation (BRIEF) that provides technical training and career guidance to underprivileged kids in the SC Upstate. Mac lives in Clemson, SC with his wife Karen and has two grown sons. Wes, 35 years old, who is a satellite communications specialist with TriSept Corporation, a private contractor for Space Force, and lives in Raleigh, NC. Scott, 29 years old, who is the Chief Operations Officer of Glitch which helps small businesses optimize their operational expenses and also lives in Clemson SC with his wife Kaylee.",
+  "content_html": "<main class=\"site-main\" id=\"main\">\n<article class=\"post-1687 board_members type-board_members status-publish has-post-thumbnail hentry ast-article-single\" id=\"post-1687\" itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\">\n<div class=\"ast-post-format- single-layout-1\">\n<header class=\"entry-header\">\n<h1 class=\"entry-title\" itemprop=\"headline\">Mac  Devine</h1><div class=\"entry-meta\">By <span class=\"posted-by vcard author\" itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\"> <a class=\"url fn n\" href=\"https://scupstatefoundation.org/author/admin/\" itemprop=\"url\" rel=\"author\" title=\"View all posts by admin\">\n<span class=\"author-name\" itemprop=\"name\">\n\t\t\t\tadmin\t\t\t</span>\n</a>\n</span>\n\n\t\t / <span class=\"posted-on\"><span class=\"published\" itemprop=\"datePublished\"> July 28, 2025 </span></span></div>\n</header><!-- .entry-header -->\n<div class=\"entry-content clear\" itemprop=\"text\">\n<p>Mac’s 32 year career at IBM included several key roles including the CTO and VP for IBM’s Advanced Innovation and Emerging Technology Division as well as the IBM Executive for Clemson University and MIT.</p>\n<p>Mac is an accomplished speaker and author on a wide variety of topics but is best known for his expertise in Cloud Computing and the Internet of Things.</p>\n<p>In 2006, Mac gained the designation of IBM Master Inventor and in 2009 he was appointed to IBM’s prestigious Academy of Technology. In 2016, Mac gained IBM’s highest technical recognition with his appointment as IBM Fellow. Mac retired from IBM in August 2021 to become the Executive Director of the Blue Ridge Innovation &amp; Entrepreneurship Foundation (BRIEF) that provides technical training and career guidance to underprivileged kids in the SC Upstate.</p>\n<p>Mac lives in Clemson, SC with his wife Karen and has two grown sons. Wes, 35 years old, who is a satellite communications specialist with TriSept Corporation, a private contractor for Space Force, and lives in Raleigh, NC. Scott, 29 years old, who is the Chief Operations Officer of Glitch which helps small businesses optimize their operational expenses and also lives in Clemson SC with his wife Kaylee.</p>\n</div><!-- .entry-content .clear -->\n</div>\n</article><!-- #post-## -->\n </main>",
+  "schema_org": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://scupstatefoundation.org",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/#listItem",
+              "position": 2,
+              "name": "Board Members",
+              "item": "https://scupstatefoundation.org/board-members/",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/#listItem",
+                "name": "Mac  Devine"
+              },
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org#listItem",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/#listItem",
+              "position": 3,
+              "name": "Mac  Devine",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://scupstatefoundation.org/#organization",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "url": "https://scupstatefoundation.org/"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/#webpage",
+          "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/",
+          "name": "Mac Devine - Upstate Foundation",
+          "description": "connect@scupstatefoundation.org",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://scupstatefoundation.org/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/#breadcrumblist"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/mac-devine-1.webp",
+            "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/#mainImage",
+            "width": 800,
+            "height": 800
+          },
+          "primaryImageOfPage": {
+            "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/#mainImage"
+          },
+          "datePublished": "2025-07-28T19:13:26+00:00",
+          "dateModified": "2025-10-27T22:59:28+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scupstatefoundation.org/#website",
+          "url": "https://scupstatefoundation.org/",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://scupstatefoundation.org/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "url": "https://scupstatefoundation.org/board-members/lauren-foxpresident",
+  "slug": "board-members--lauren-foxpresident",
+  "title": "Dr. Brian Swords - Upstate Foundation",
+  "meta_description": "connect@scupstatefoundation.org",
+  "canonical": "https://scupstatefoundation.org/board-members/lauren-foxpresident/",
+  "og_title": "Dr. Brian Swords - Upstate Foundation",
+  "og_description": "connect@scupstatefoundation.org",
+  "og_image": "",
+  "h1": [
+    "Dr. Brian  Swords"
+  ],
+  "h2": [
+    "Quick Links",
+    "Get In Touch",
+    "Join the Building Bridges Newsletter",
+    "Privacy Policy",
+    "|",
+    "Imprint"
+  ],
+  "h3": [],
+  "body_text": "Dr. Brian  Swords By admin / July 15, 2025 Dr. Swords, a lifelong Pickens County resident and Liberty High School graduate, is the President and CEO of the Easley Chamber of Commerce. He spent over 32 years in higher education, most recently as Vice President for Enrollment Management and Interim Vice President of Operations at Southern Wesleyan University, where he led restructuring efforts that saved over $1 million annually, increased student retention, and launched the university’s first early college program and a dual-degree partnership with Clemson University. Before retiring from Tri-County Technical College after 29 years, Swords served as Executive Director of Campuses, Training Centers, and Online Programs. He expanded the college’s reach by establishing satellite campuses in Anderson, Oconee, and Pickens counties and led the development of an Enterprise Campus to support economic growth. In addition to leading the Easley Chamber, Swords is a Professor of Education and Business in Southern Wesleyan University’s Graduate School and has taught at Clemson and Anderson universities. He remains active in the Community Colleges of Appalachia Association and serves on numerous boards, including Leadership South Carolina, Leadership Pickens County, and the National Association of Computer Forensics Examiners. He previously served as chairman of the Easley Chamber and was elected to three terms on the Pickens County School Board. Dr. Swords holds degrees from Southern Wesleyan and Clemson University, including a doctorate in Higher Education Leadership. He completed post-doctoral work at the University of North Carolina-Chapel Hill’s School of Government. He resides in Liberty with his two adopted sons and is a member of Newspring Church in Powdersville.",
+  "content_html": "<main class=\"site-main\" id=\"main\">\n<article class=\"post-240 board_members type-board_members status-publish has-post-thumbnail hentry ast-article-single\" id=\"post-240\" itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\">\n<div class=\"ast-post-format- single-layout-1\">\n<header class=\"entry-header\">\n<h1 class=\"entry-title\" itemprop=\"headline\">Dr. Brian  Swords</h1><div class=\"entry-meta\">By <span class=\"posted-by vcard author\" itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\"> <a class=\"url fn n\" href=\"https://scupstatefoundation.org/author/admin/\" itemprop=\"url\" rel=\"author\" title=\"View all posts by admin\">\n<span class=\"author-name\" itemprop=\"name\">\n\t\t\t\tadmin\t\t\t</span>\n</a>\n</span>\n\n\t\t / <span class=\"posted-on\"><span class=\"published\" itemprop=\"datePublished\"> July 15, 2025 </span></span></div>\n</header><!-- .entry-header -->\n<div class=\"entry-content clear\" itemprop=\"text\">\n<p>Dr. Swords, a lifelong Pickens County resident and Liberty High School graduate, is the President and CEO of the Easley Chamber of Commerce. He spent over 32 years in higher education, most recently as Vice President for Enrollment Management and Interim Vice President of Operations at Southern Wesleyan University, where he led restructuring efforts that saved over $1 million annually, increased student retention, and launched the university’s first early college program and a dual-degree partnership with Clemson University.</p>\n<p>Before retiring from Tri-County Technical College after 29 years, Swords served as Executive Director of Campuses, Training Centers, and Online Programs. He expanded the college’s reach by establishing satellite campuses in Anderson, Oconee, and Pickens counties and led the development of an Enterprise Campus to support economic growth.</p>\n<p>In addition to leading the Easley Chamber, Swords is a Professor of Education and Business in Southern Wesleyan University’s Graduate School and has taught at Clemson and Anderson universities. He remains active in the Community Colleges of Appalachia Association and serves on numerous boards, including Leadership South Carolina, Leadership Pickens County, and the National Association of Computer Forensics Examiners. He previously served as chairman of the Easley Chamber and was elected to three terms on the Pickens County School Board.</p>\n<p>Dr. Swords holds degrees from Southern Wesleyan and Clemson University, including a doctorate in Higher Education Leadership. He completed post-doctoral work at the University of North Carolina-Chapel Hill’s School of Government.</p>\n<p>He resides in Liberty with his two adopted sons and is a member of Newspring Church in Powdersville.</p>\n</div><!-- .entry-content .clear -->\n</div>\n</article><!-- #post-## -->\n </main>",
+  "schema_org": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://scupstatefoundation.org",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/#listItem",
+              "position": 2,
+              "name": "Board Members",
+              "item": "https://scupstatefoundation.org/board-members/",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident/#listItem",
+                "name": "Dr. Brian  Swords"
+              },
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org#listItem",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident/#listItem",
+              "position": 3,
+              "name": "Dr. Brian  Swords",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://scupstatefoundation.org/#organization",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "url": "https://scupstatefoundation.org/"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident/#webpage",
+          "url": "https://scupstatefoundation.org/board-members/lauren-foxpresident/",
+          "name": "Dr. Brian Swords - Upstate Foundation",
+          "description": "connect@scupstatefoundation.org",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://scupstatefoundation.org/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident/#breadcrumblist"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/brian_swords.jpg",
+            "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident/#mainImage",
+            "width": 1843,
+            "height": 1843
+          },
+          "primaryImageOfPage": {
+            "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident/#mainImage"
+          },
+          "datePublished": "2025-07-15T17:53:13+00:00",
+          "dateModified": "2025-10-27T23:06:55+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scupstatefoundation.org/#website",
+          "url": "https://scupstatefoundation.org/",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://scupstatefoundation.org/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}

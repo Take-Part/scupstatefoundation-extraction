@@ -1,0 +1,124 @@
+{
+  "typography": {
+    "heading_font": "Oswald",
+    "body_font": "-apple-system",
+    "nav_font": null,
+    "cta_font": "Nunito",
+    "heading_sizes": {
+      "h1": "60px",
+      "h2": "55px",
+      "h3": "23px"
+    },
+    "dominant_letter_spacing": null,
+    "dominant_text_transform": "uppercase",
+    "total_elements_scanned": 37,
+    "role_counts": {
+      "cta": 4,
+      "other": 20,
+      "heading": 11,
+      "body": 2
+    }
+  },
+  "color_system": {
+    "top_background_colors": [
+      {
+        "hex": "#001740",
+        "count": 1
+      }
+    ],
+    "color_pairings": [
+      {
+        "bg": "#001740",
+        "text": "#334155",
+        "role": "body"
+      }
+    ],
+    "text_on_dark_colors": [],
+    "token_brand_colors": [
+      {
+        "hex": "#fff",
+        "occurrences": 1023
+      },
+      {
+        "hex": "#85b559",
+        "occurrences": 757
+      },
+      {
+        "hex": "#000",
+        "occurrences": 515
+      },
+      {
+        "hex": "#87b55e",
+        "occurrences": 359
+      },
+      {
+        "hex": "#999",
+        "occurrences": 228
+      },
+      {
+        "hex": "#666",
+        "occurrences": 184
+      },
+      {
+        "hex": "#475569",
+        "occurrences": 180
+      },
+      {
+        "hex": "#046bd2",
+        "occurrences": 180
+      }
+    ],
+    "sections_analyzed": 1
+  },
+  "background_motifs": {
+    "all_patterns": [
+      {
+        "url": "Fallback-Image.jpg",
+        "fullUrl": "https://scupstatefoundation.org/wp-content/uploads/2025/10/Fallback-Image.jpg",
+        "bgSize": "cover",
+        "bgRepeat": "repeat",
+        "isParallax": false,
+        "isRepeating": true,
+        "tag": "div",
+        "selector": "elementor-element.elementor-element-a4d794b"
+      },
+      {
+        "url": "About-img-upstate.png",
+        "fullUrl": "https://scupstatefoundation.org/wp-content/uploads/2025/09/About-img-upstate.png",
+        "bgSize": "auto",
+        "bgRepeat": "no-repeat",
+        "isParallax": false,
+        "isRepeating": false,
+        "tag": "div",
+        "selector": "elementor-custom-embed-image-overlay"
+      }
+    ],
+    "repeating_textures": [],
+    "parallax_backgrounds": [],
+    "photo_backgrounds": [
+      {
+        "url": "About-img-upstate.png",
+        "fullUrl": "https://scupstatefoundation.org/wp-content/uploads/2025/09/About-img-upstate.png",
+        "bgSize": "auto",
+        "bgRepeat": "no-repeat",
+        "isParallax": false,
+        "isRepeating": false,
+        "tag": "div",
+        "selector": "elementor-custom-embed-image-overlay"
+      }
+    ],
+    "has_topographic_pattern": false
+  },
+  "section_structure": {
+    "total_sections": 1,
+    "dark_sections": 1,
+    "light_sections": 0,
+    "overlay_sections": 0,
+    "photo_background_sections": 0
+  },
+  "ui_components": {
+    "cta_font": "Nunito",
+    "cta_size": "19px",
+    "cta_weight": "400"
+  }
+}

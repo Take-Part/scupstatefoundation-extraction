@@ -1,0 +1,94 @@
+{
+  "url": "https://scupstatefoundation.org/my-account",
+  "slug": "my-account",
+  "title": "My account - Upstate Foundation",
+  "meta_description": "[woocommerce_my_account]",
+  "canonical": "https://scupstatefoundation.org/my-account/",
+  "og_title": "My account - Upstate Foundation",
+  "og_description": "[woocommerce_my_account]",
+  "og_image": "",
+  "h1": [
+    "My account"
+  ],
+  "h2": [
+    "Quick Links",
+    "Get In Touch",
+    "Join the Building Bridges Newsletter",
+    "Privacy Policy",
+    "|",
+    "Imprint"
+  ],
+  "h3": [],
+  "body_text": "My account [woocommerce_my_account]",
+  "content_html": "<main class=\"site-main\" id=\"main\">\n<article class=\"post-430 page type-page status-publish ast-article-single\" id=\"post-430\" itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\">\n<header class=\"entry-header ast-no-thumbnail\">\n<h1 class=\"entry-title\" itemprop=\"headline\">My account</h1> </header> <!-- .entry-header -->\n<div class=\"entry-content clear\" data-ast-blocks-layout=\"true\" itemprop=\"text\">\n<p>[woocommerce_my_account]</p>\n</div><!-- .entry-content .clear -->\n</article><!-- #post-## -->\n</main>",
+  "schema_org": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://scupstatefoundation.org/my-account/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://scupstatefoundation.org",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/my-account/#listItem",
+                "name": "My account"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/my-account/#listItem",
+              "position": 2,
+              "name": "My account",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org#listItem",
+                "name": "Home"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://scupstatefoundation.org/#organization",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "url": "https://scupstatefoundation.org/"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://scupstatefoundation.org/my-account/#webpage",
+          "url": "https://scupstatefoundation.org/my-account/",
+          "name": "My account - Upstate Foundation",
+          "description": "[woocommerce_my_account]",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://scupstatefoundation.org/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://scupstatefoundation.org/my-account/#breadcrumblist"
+          },
+          "datePublished": "2025-07-15T23:27:21+00:00",
+          "dateModified": "2025-07-15T23:27:21+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scupstatefoundation.org/#website",
+          "url": "https://scupstatefoundation.org/",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://scupstatefoundation.org/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}

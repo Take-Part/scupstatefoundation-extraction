@@ -1,0 +1,94 @@
+{
+  "url": "https://scupstatefoundation.org/donor-dashboard",
+  "slug": "donor-dashboard",
+  "title": "Donor Dashboard - Upstate Foundation",
+  "meta_description": "[give_donor_dashboard]",
+  "canonical": "https://scupstatefoundation.org/donor-dashboard/",
+  "og_title": "Donor Dashboard - Upstate Foundation",
+  "og_description": "[give_donor_dashboard]",
+  "og_image": "",
+  "h1": [
+    "Donor Dashboard"
+  ],
+  "h2": [
+    "Quick Links",
+    "Get In Touch",
+    "Join the Building Bridges Newsletter",
+    "Privacy Policy",
+    "|",
+    "Imprint"
+  ],
+  "h3": [],
+  "body_text": "Donor Dashboard [give_donor_dashboard]",
+  "content_html": "<main class=\"site-main\" id=\"main\">\n<article class=\"post-173 page type-page status-publish ast-article-single\" id=\"post-173\" itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\">\n<header class=\"entry-header ast-no-thumbnail\">\n<h1 class=\"entry-title\" itemprop=\"headline\">Donor Dashboard</h1> </header> <!-- .entry-header -->\n<div class=\"entry-content clear\" itemprop=\"text\">\n<p>[give_donor_dashboard]</p>\n</div><!-- .entry-content .clear -->\n</article><!-- #post-## -->\n</main>",
+  "schema_org": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://scupstatefoundation.org/donor-dashboard/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://scupstatefoundation.org",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/donor-dashboard/#listItem",
+                "name": "Donor Dashboard"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/donor-dashboard/#listItem",
+              "position": 2,
+              "name": "Donor Dashboard",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org#listItem",
+                "name": "Home"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://scupstatefoundation.org/#organization",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "url": "https://scupstatefoundation.org/"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://scupstatefoundation.org/donor-dashboard/#webpage",
+          "url": "https://scupstatefoundation.org/donor-dashboard/",
+          "name": "Donor Dashboard - Upstate Foundation",
+          "description": "[give_donor_dashboard]",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://scupstatefoundation.org/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://scupstatefoundation.org/donor-dashboard/#breadcrumblist"
+          },
+          "datePublished": "2025-07-14T22:46:47+00:00",
+          "dateModified": "2025-07-14T22:46:47+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scupstatefoundation.org/#website",
+          "url": "https://scupstatefoundation.org/",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://scupstatefoundation.org/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}

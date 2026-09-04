@@ -1,0 +1,121 @@
+{
+  "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy",
+  "slug": "board-members--lauren-fox-copy",
+  "title": "Karla Kelley - Upstate Foundation",
+  "meta_description": "connect@scupstatefoundation.org",
+  "canonical": "https://scupstatefoundation.org/board-members/lauren-fox-copy/",
+  "og_title": "Karla Kelley - Upstate Foundation",
+  "og_description": "connect@scupstatefoundation.org",
+  "og_image": "",
+  "h1": [
+    "Karla Kelley"
+  ],
+  "h2": [
+    "Quick Links",
+    "Get In Touch",
+    "Join the Building Bridges Newsletter",
+    "Privacy Policy",
+    "|",
+    "Imprint"
+  ],
+  "h3": [],
+  "body_text": "Karla Kelley By admin / July 28, 2025 Karla Kelley brings a diverse background in human capital, organizational leadership, and community advocacy to her role on the Upstate Education and Innovation Foundation Board. Since 2018, she has served on the Board of Trustees for the School District of Pickens County, where she is currently Vice Chair. In this capacity, she has championed initiatives that improved student achievement, strengthened teacher support, and expanded engagement with community and business partners. She also serves as Regional Director of the South Carolina School Boards Association for Anderson, Oconee, and Pickens Counties. Beyond education, Karla has served on the CREW Network Steering Committee, the Red Cross Regional Board, and the Advisory Council for South Carolina DSS, and the International Facilities Management Association (IFMA). Since 2005, Karla has been Executive Vice President of Complete Commercial Solutions, a multi-state facility services company supporting commercial entities across North Carolina, South Carolina, and Georgia. The company provides environmental services, industrial services, renovations, staffing, and non-core process management, allowing clients to focus on core operations. In her free time, Karla enjoys running, yoga, golf, and “grand-dog sitting” for her adult children",
+  "content_html": "<main class=\"site-main\" id=\"main\">\n<article class=\"post-1688 board_members type-board_members status-publish has-post-thumbnail hentry ast-article-single\" id=\"post-1688\" itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\">\n<div class=\"ast-post-format- single-layout-1\">\n<header class=\"entry-header\">\n<h1 class=\"entry-title\" itemprop=\"headline\">Karla Kelley</h1><div class=\"entry-meta\">By <span class=\"posted-by vcard author\" itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\"> <a class=\"url fn n\" href=\"https://scupstatefoundation.org/author/admin/\" itemprop=\"url\" rel=\"author\" title=\"View all posts by admin\">\n<span class=\"author-name\" itemprop=\"name\">\n\t\t\t\tadmin\t\t\t</span>\n</a>\n</span>\n\n\t\t / <span class=\"posted-on\"><span class=\"published\" itemprop=\"datePublished\"> July 28, 2025 </span></span></div>\n</header><!-- .entry-header -->\n<div class=\"entry-content clear\" itemprop=\"text\">\n<p>Karla Kelley brings a diverse background in human capital, organizational leadership, and community advocacy to her role on the Upstate Education and Innovation Foundation Board. Since 2018, she has served on the Board of Trustees for the School District of Pickens County, where she is currently Vice Chair. In this capacity, she has championed initiatives that improved student achievement, strengthened teacher support, and expanded engagement with community and business partners.</p>\n<p>She also serves as Regional Director of the South Carolina School Boards Association for Anderson, Oconee, and Pickens Counties. Beyond education, Karla has served on the CREW Network Steering Committee, the Red Cross Regional Board, and the Advisory Council for South Carolina DSS, and the International Facilities Management Association (IFMA).</p>\n<p>Since 2005, Karla has been Executive Vice President of Complete Commercial Solutions, a multi-state facility services company supporting commercial entities across North Carolina, South Carolina, and Georgia. The company provides environmental services, industrial services, renovations, staffing, and non-core process management, allowing clients to focus on core operations.</p>\n<p>In her free time, Karla enjoys running, yoga, golf, and “grand-dog sitting” for her adult children</p>\n</div><!-- .entry-content .clear -->\n</div>\n</article><!-- #post-## -->\n </main>",
+  "schema_org": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://scupstatefoundation.org",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/#listItem",
+              "position": 2,
+              "name": "Board Members",
+              "item": "https://scupstatefoundation.org/board-members/",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy/#listItem",
+                "name": "Karla Kelley"
+              },
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org#listItem",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy/#listItem",
+              "position": 3,
+              "name": "Karla Kelley",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://scupstatefoundation.org/#organization",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "url": "https://scupstatefoundation.org/"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy/#webpage",
+          "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy/",
+          "name": "Karla Kelley - Upstate Foundation",
+          "description": "connect@scupstatefoundation.org",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://scupstatefoundation.org/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy/#breadcrumblist"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Karla-Kelley.jpg",
+            "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy/#mainImage",
+            "width": 649,
+            "height": 1024
+          },
+          "primaryImageOfPage": {
+            "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy/#mainImage"
+          },
+          "datePublished": "2025-07-28T19:13:12+00:00",
+          "dateModified": "2025-10-27T23:03:38+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scupstatefoundation.org/#website",
+          "url": "https://scupstatefoundation.org/",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://scupstatefoundation.org/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}

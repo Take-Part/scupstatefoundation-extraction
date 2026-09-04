@@ -1,0 +1,2507 @@
+{
+  "total": 278,
+  "assignments": [
+    {
+      "page": "about",
+      "filename": "copy-of-dsc02630-1.png",
+      "local_path": "downloads/images/copy-of-dsc02630-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "about",
+      "filename": "danny-youngblood.jpg",
+      "local_path": "downloads/images/danny-youngblood.jpg",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "about",
+      "filename": "john-adams-1.jpg",
+      "local_path": "downloads/images/john-adams-1.jpg",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "about",
+      "filename": "layer-63.png",
+      "local_path": "downloads/images/layer-63.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "about",
+      "filename": "carlos-avila-1.jpeg",
+      "local_path": "downloads/images/carlos-avila-1.jpeg",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "about",
+      "filename": "mac-devine-1.webp",
+      "local_path": "downloads/images/mac-devine-1.webp",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "about",
+      "filename": "layer-62.png",
+      "local_path": "downloads/images/layer-62.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "about",
+      "filename": "karla-kelley.jpg",
+      "local_path": "downloads/images/karla-kelley.jpg",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "about",
+      "filename": "jim-liddle-headshot-scaled.jpg",
+      "local_path": "downloads/images/jim-liddle-headshot-scaled.jpg",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "about",
+      "filename": "derek-lunka-scaled.jpg",
+      "local_path": null,
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "about",
+      "filename": "danny-merck-1.png",
+      "local_path": "downloads/images/danny-merck-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "about",
+      "filename": "amy-smith-1.jpeg",
+      "local_path": "downloads/images/amy-smith-1.jpeg",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "about",
+      "filename": "brian_swords.jpg",
+      "local_path": "downloads/images/brian_swords.jpg",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "about",
+      "filename": "bg.png",
+      "local_path": "downloads/images/bg.png",
+      "role": "background",
+      "section_index": 0,
+      "section_type": "content",
+      "section_headline": ""
+    },
+    {
+      "page": "adult-learning-center",
+      "filename": "adult_learning_center_logo.png",
+      "local_path": "downloads/logos/adult_learning_center_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "adult-learning-center",
+      "filename": "group-1.png",
+      "local_path": "downloads/images/group-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "adult-learning-center",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "ambler-elementary-school",
+      "filename": "amblerwildcat-1.png",
+      "local_path": "downloads/images/amblerwildcat-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "ambler-elementary-school",
+      "filename": "ambler-elementary.png",
+      "local_path": "downloads/images/ambler-elementary.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "ambler-elementary-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "central-academy-for-the-arts",
+      "filename": "central_academy_of_the_arts_logo.png",
+      "local_path": "downloads/logos/central_academy_of_the_arts_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "central-academy-for-the-arts",
+      "filename": "central-academy-of-arts.png",
+      "local_path": "downloads/images/central-academy-of-arts.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "central-academy-for-the-arts",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "clemson-elementary-school",
+      "filename": "clemson_elementary_-_tiger_mascot.png",
+      "local_path": "downloads/images/clemson_elementary_-_tiger_mascot.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "clemson-elementary-school",
+      "filename": "clemson-el.png",
+      "local_path": "downloads/images/clemson-el.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "clemson-elementary-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "crosswell-elementary-school",
+      "filename": "crosswell_elementary_school_logo.png",
+      "local_path": "downloads/logos/crosswell_elementary_school_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "crosswell-elementary-school",
+      "filename": "crosswell-el.png",
+      "local_path": "downloads/images/crosswell-el.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "crosswell-elementary-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "dacusville-elementary-school",
+      "filename": "dacusville-el-logo.png",
+      "local_path": "downloads/logos/dacusville-el-logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "dacusville-elementary-school",
+      "filename": "dacusville-el.png",
+      "local_path": "downloads/images/dacusville-el.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "dacusville-elementary-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "dacusville-middle-school",
+      "filename": "dacusville_middle_school_logo.png",
+      "local_path": "downloads/logos/dacusville_middle_school_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "dacusville-middle-school",
+      "filename": "dacusville-middle.png",
+      "local_path": "downloads/images/dacusville-middle.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "dacusville-middle-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "daniel-high",
+      "filename": "daniel-high-school-logo.png",
+      "local_path": "downloads/logos/daniel-high-school-logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "daniel-high",
+      "filename": "daniel-high-school.png",
+      "local_path": "downloads/images/daniel-high-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "daniel-high",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "easley-high-school",
+      "filename": "easley_hs_logo.png",
+      "local_path": "downloads/logos/easley_hs_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "easley-high-school",
+      "filename": "easley-high-school.png",
+      "local_path": "downloads/images/easley-high-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "easley-high-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "east-end-elementary-school",
+      "filename": "east_end_elementary_school_logo.png",
+      "local_path": "downloads/logos/east_end_elementary_school_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "east-end-elementary-school",
+      "filename": "group-1.png",
+      "local_path": "downloads/images/group-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "east-end-elementary-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "edwards-middle-school",
+      "filename": "r.c._edwards_middle_school_logo.png",
+      "local_path": "downloads/logos/r.c._edwards_middle_school_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "edwards-middle-school",
+      "filename": "edwards-high-school.png",
+      "local_path": "downloads/images/edwards-high-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "edwards-middle-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "forest-acres-elementary-school",
+      "filename": "forest_acres_elementary_school_logo.png",
+      "local_path": "downloads/logos/forest_acres_elementary_school_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "forest-acres-elementary-school",
+      "filename": "forest-acres-el.png",
+      "local_path": "downloads/images/forest-acres-el.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "forest-acres-elementary-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "gettys-middle-school",
+      "filename": "new-gms-logo.png",
+      "local_path": "downloads/logos/new-gms-logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "gettys-middle-school",
+      "filename": "gettys-middle.png",
+      "local_path": "downloads/images/gettys-middle.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "gettys-middle-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "hagood-elementary-school",
+      "filename": "hagood_elementary_logo.png",
+      "local_path": "downloads/logos/hagood_elementary_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "hagood-elementary-school",
+      "filename": "hagood-el.png",
+      "local_path": "downloads/images/hagood-el.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "hagood-elementary-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "copy-of-dsc02630-1.png",
+      "local_path": "downloads/images/copy-of-dsc02630-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-51-copy.png",
+      "local_path": "downloads/images/layer-51-copy.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-52.png",
+      "local_path": "downloads/images/layer-52.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-46.png",
+      "local_path": "downloads/images/layer-46.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-53.png",
+      "local_path": "downloads/images/layer-53.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "th-2.png",
+      "local_path": "downloads/images/th-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "th-1.png",
+      "local_path": "downloads/images/th-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "th-4.png",
+      "local_path": "downloads/images/th-4.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "th-3.png",
+      "local_path": "downloads/images/th-3.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "special-education.png",
+      "local_path": "downloads/images/special-education.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "group-1-5.png",
+      "local_path": "downloads/images/group-1-5.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "group-1-3.png",
+      "local_path": "downloads/images/group-1-3.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "winterjubilee2025-155.jpg.png",
+      "local_path": "downloads/images/winterjubilee2025-155.jpg.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "stem-education.jpeg.png",
+      "local_path": "downloads/images/stem-education.jpeg.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "innovative-learning-environments.jpeg.png",
+      "local_path": "downloads/images/innovative-learning-environments.jpeg.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-100.png",
+      "local_path": "downloads/images/layer-100.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-1.png",
+      "local_path": "downloads/images/layer-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-1-2.png",
+      "local_path": "downloads/images/layer-1-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-3.png",
+      "local_path": "downloads/images/layer-3.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-4.png",
+      "local_path": "downloads/images/layer-4.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-5.png",
+      "local_path": "downloads/images/layer-5.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-6.png",
+      "local_path": "downloads/images/layer-6.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-7.png",
+      "local_path": "downloads/images/layer-7.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-8.png",
+      "local_path": "downloads/images/layer-8.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-9.png",
+      "local_path": "downloads/images/layer-9.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-10.png",
+      "local_path": "downloads/images/layer-10.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-11.png",
+      "local_path": "downloads/images/layer-11.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-12.png",
+      "local_path": "downloads/images/layer-12.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-13.png",
+      "local_path": "downloads/images/layer-13.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-14.png",
+      "local_path": "downloads/images/layer-14.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-15.png",
+      "local_path": "downloads/images/layer-15.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-16.png",
+      "local_path": "downloads/images/layer-16.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-17.png",
+      "local_path": "downloads/images/layer-17.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-18.png",
+      "local_path": "downloads/images/layer-18.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-19.png",
+      "local_path": "downloads/images/layer-19.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-20.png",
+      "local_path": "downloads/images/layer-20.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-21.png",
+      "local_path": "downloads/images/layer-21.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "22.png",
+      "local_path": "downloads/images/22.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-23.png",
+      "local_path": "downloads/images/layer-23.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-24.png",
+      "local_path": "downloads/images/layer-24.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-25-1.png",
+      "local_path": "downloads/images/layer-25-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-26-.png",
+      "local_path": "downloads/images/layer-26-.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-1-3.png",
+      "local_path": "downloads/images/layer-1-3.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-79.png",
+      "local_path": "downloads/images/layer-79.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "new-map.png",
+      "local_path": "downloads/images/new-map.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-64-copy-1.png",
+      "local_path": "downloads/images/layer-64-copy-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-94.png",
+      "local_path": "downloads/images/layer-94.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-90.png",
+      "local_path": "downloads/images/layer-90.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-81.png",
+      "local_path": "downloads/images/layer-81.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-76.png",
+      "local_path": "downloads/images/layer-76.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-99.png",
+      "local_path": "downloads/images/layer-99.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-89.png",
+      "local_path": "downloads/images/layer-89.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "11.png",
+      "local_path": "downloads/images/11.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-80.png",
+      "local_path": "downloads/images/layer-80.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "12.png",
+      "local_path": "downloads/images/12.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "13.png",
+      "local_path": "downloads/images/13.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-78.png",
+      "local_path": "downloads/images/layer-78.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "14.png",
+      "local_path": "downloads/images/14.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "15.png",
+      "local_path": "downloads/images/15.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "16.png",
+      "local_path": "downloads/images/16.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "17.png",
+      "local_path": "downloads/images/17.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "18.png",
+      "local_path": "downloads/images/18.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "19.png",
+      "local_path": "downloads/images/19.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "20.png",
+      "local_path": "downloads/images/20.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "21.png",
+      "local_path": "downloads/images/21.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "122-1.png",
+      "local_path": "downloads/images/122-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "23.png",
+      "local_path": "downloads/images/23.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "24.png",
+      "local_path": "downloads/images/24.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "25.png",
+      "local_path": "downloads/images/25.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-77.png",
+      "local_path": "downloads/images/layer-77.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-1-4.png",
+      "local_path": "downloads/images/layer-1-4.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-56.png",
+      "local_path": "downloads/images/layer-56.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-80.png",
+      "local_path": "downloads/images/layer-80.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-82.png",
+      "local_path": "downloads/images/layer-82.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-41.png",
+      "local_path": "downloads/images/layer-41.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-42.png",
+      "local_path": "downloads/images/layer-42.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "layer-43.png",
+      "local_path": "downloads/images/layer-43.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "home",
+      "filename": "about-img-upstate.png",
+      "local_path": "downloads/images/about-img-upstate.png",
+      "role": "background",
+      "section_index": 0,
+      "section_type": "content",
+      "section_headline": ""
+    },
+    {
+      "page": "impact-story",
+      "filename": "th-3.png",
+      "local_path": "downloads/images/th-3.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "impact-story",
+      "filename": "th-4.png",
+      "local_path": "downloads/images/th-4.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "impact-story",
+      "filename": "th-1.png",
+      "local_path": "downloads/images/th-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "impact-story",
+      "filename": "th-2.png",
+      "local_path": "downloads/images/th-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "liberty-elementary-school",
+      "filename": "liberty_elementary_school_logo.png",
+      "local_path": "downloads/logos/liberty_elementary_school_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "liberty-elementary-school",
+      "filename": "liberty-el.png",
+      "local_path": "downloads/images/liberty-el.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "liberty-elementary-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "liberty-high",
+      "filename": "liberty_high_school_logo.png",
+      "local_path": "downloads/logos/liberty_high_school_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "liberty-high",
+      "filename": "liberty-high-school.png",
+      "local_path": "downloads/images/liberty-high-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "liberty-high",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "liberty-middle-school",
+      "filename": "liberty-middle-logo.png",
+      "local_path": "downloads/logos/liberty-middle-logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "liberty-middle-school",
+      "filename": "liberty-middle.png",
+      "local_path": "downloads/images/liberty-middle.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "liberty-middle-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "liberty-primary-school",
+      "filename": "liberty_primary_school_logo.png",
+      "local_path": "downloads/logos/liberty_primary_school_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "liberty-primary-school",
+      "filename": "group-1.png",
+      "local_path": "downloads/images/group-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "liberty-primary-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "mckissick-academy-of-science-and-technology",
+      "filename": "mckissick-logo.png",
+      "local_path": "downloads/logos/mckissick-logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "mckissick-academy-of-science-and-technology",
+      "filename": "mckissick-academy.png",
+      "local_path": "downloads/images/mckissick-academy.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "mckissick-academy-of-science-and-technology",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "special-education.png",
+      "local_path": "downloads/images/special-education.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "group-1-5.png",
+      "local_path": "downloads/images/group-1-5.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "group-1-3.png",
+      "local_path": "downloads/images/group-1-3.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "winterjubilee2025-155.jpg.png",
+      "local_path": "downloads/images/winterjubilee2025-155.jpg.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "stem-education.jpeg.png",
+      "local_path": "downloads/images/stem-education.jpeg.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "innovative-learning-environments.jpeg.png",
+      "local_path": "downloads/images/innovative-learning-environments.jpeg.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-100.png",
+      "local_path": "downloads/images/layer-100.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "adult-learning-center-school.png",
+      "local_path": "downloads/images/adult-learning-center-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "group-1.png",
+      "local_path": "downloads/images/group-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "clemson-elementary-tiger.png",
+      "local_path": "downloads/images/clemson-elementary-tiger.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "central-academy-of-the-arts.png",
+      "local_path": "downloads/images/central-academy-of-the-arts.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "career-technology-center.png",
+      "local_path": "downloads/images/career-technology-center.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "crosswell-elementary-school.png",
+      "local_path": "downloads/images/crosswell-elementary-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "dacusville-middle-school-1.png",
+      "local_path": "downloads/images/dacusville-middle-school-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "dacusville-elementary-school-1.png",
+      "local_path": "downloads/images/dacusville-elementary-school-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "d.w.-daniel-high-school.png",
+      "local_path": "downloads/images/d.w.-daniel-high-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "east-end-elementary-school.png",
+      "local_path": "downloads/images/east-end-elementary-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "easley-high-school.png",
+      "local_path": "downloads/images/easley-high-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "forest-acres-elementary-school.png",
+      "local_path": "downloads/images/forest-acres-elementary-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "hagood-elementary-school.png",
+      "local_path": "downloads/images/hagood-elementary-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "liberty-primary-school.png",
+      "local_path": "downloads/images/liberty-primary-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "liberty-high-school.png",
+      "local_path": "downloads/images/liberty-high-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "untitled-1.jpg",
+      "local_path": "downloads/images/untitled-1.jpg",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "liberty-elementary-school.png",
+      "local_path": "downloads/images/liberty-elementary-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "mckissick-academy.png",
+      "local_path": "downloads/images/mckissick-academy.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "pickens-county-virtual-academy.png",
+      "local_path": "downloads/images/pickens-county-virtual-academy.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "project-go-alternative-program.png",
+      "local_path": "downloads/images/project-go-alternative-program.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "pickens-elementary.png",
+      "local_path": "downloads/images/pickens-elementary.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "pickens-high-school.png",
+      "local_path": "downloads/images/pickens-high-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "pickens-middle-school.png",
+      "local_path": "downloads/images/pickens-middle-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "r.c.-edwards-middle-school.png",
+      "local_path": "downloads/images/r.c.-edwards-middle-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-1-5.png",
+      "local_path": "downloads/images/layer-1-5.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "six-mile-elementary-school.png",
+      "local_path": "downloads/images/six-mile-elementary-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-1.png",
+      "local_path": "downloads/images/layer-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-79.png",
+      "local_path": "downloads/images/layer-79.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "group-9-1.png",
+      "local_path": "downloads/images/group-9-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-78.png",
+      "local_path": "downloads/images/layer-78.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "group-10-1.png",
+      "local_path": "downloads/images/group-10-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-64-copy-1.png",
+      "local_path": "downloads/images/layer-64-copy-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "3-1.png",
+      "local_path": "downloads/images/3-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-90.png",
+      "local_path": "downloads/images/layer-90.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "4-1.png",
+      "local_path": "downloads/images/4-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-94.png",
+      "local_path": "downloads/images/layer-94.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "5-1.png",
+      "local_path": "downloads/images/5-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-81.png",
+      "local_path": "downloads/images/layer-81.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "6.png",
+      "local_path": "downloads/images/6.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-76.png",
+      "local_path": "downloads/images/layer-76.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "7.png",
+      "local_path": "downloads/images/7.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-99.png",
+      "local_path": "downloads/images/layer-99.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "8.png",
+      "local_path": "downloads/images/8.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-89.png",
+      "local_path": "downloads/images/layer-89.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "9.png",
+      "local_path": "downloads/images/9.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-80.png",
+      "local_path": "downloads/images/layer-80.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "10.png",
+      "local_path": "downloads/images/10.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "11.png",
+      "local_path": "downloads/images/11.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "11-1.png",
+      "local_path": "downloads/images/11-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "12.png",
+      "local_path": "downloads/images/12.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "12-1.png",
+      "local_path": "downloads/images/12-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "13.png",
+      "local_path": "downloads/images/13.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "13-1.png",
+      "local_path": "downloads/images/13-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "14.png",
+      "local_path": "downloads/images/14.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "14-1.png",
+      "local_path": "downloads/images/14-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "15.png",
+      "local_path": "downloads/images/15.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "15-1.png",
+      "local_path": "downloads/images/15-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "16.png",
+      "local_path": "downloads/images/16.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "16-1.png",
+      "local_path": "downloads/images/16-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "17.png",
+      "local_path": "downloads/images/17.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "17-1.png",
+      "local_path": "downloads/images/17-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "18.png",
+      "local_path": "downloads/images/18.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "21.png",
+      "local_path": "downloads/images/21.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "21-1.png",
+      "local_path": "downloads/images/21-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "18-1.png",
+      "local_path": "downloads/images/18-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "19.png",
+      "local_path": "downloads/images/19.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "19-1.png",
+      "local_path": "downloads/images/19-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "20.png",
+      "local_path": "downloads/images/20.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "20-1.png",
+      "local_path": "downloads/images/20-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "122-1.png",
+      "local_path": "downloads/images/122-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "22-2.png",
+      "local_path": "downloads/images/22-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "23.png",
+      "local_path": "downloads/images/23.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "23-1.png",
+      "local_path": "downloads/images/23-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "24.png",
+      "local_path": "downloads/images/24.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "24-1.png",
+      "local_path": "downloads/images/24-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "25.png",
+      "local_path": "downloads/images/25.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "25-1.png",
+      "local_path": "downloads/images/25-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-77.png",
+      "local_path": "downloads/images/layer-77.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "26.png",
+      "local_path": "downloads/images/26.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "layer-1-4.png",
+      "local_path": "downloads/images/layer-1-4.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "our-initiatives",
+      "filename": "27.png",
+      "local_path": "downloads/images/27.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-county-career-and-technology-center",
+      "filename": "ctc-png-logo-1.png",
+      "local_path": "downloads/logos/ctc-png-logo-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-county-career-and-technology-center",
+      "filename": "group-1.png",
+      "local_path": "downloads/images/group-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-county-career-and-technology-center",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-county-virtual-academy-360-academy",
+      "filename": "pickens_county_virtual_academy_logo.png",
+      "local_path": "downloads/logos/pickens_county_virtual_academy_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-county-virtual-academy-360-academy",
+      "filename": "360-academy.png",
+      "local_path": "downloads/images/360-academy.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-county-virtual-academy-360-academy",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-elementary-school",
+      "filename": "pickens_elementary_logo-scaled.png",
+      "local_path": "downloads/logos/pickens_elementary_logo-scaled.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-elementary-school",
+      "filename": "pickens-el.png",
+      "local_path": "downloads/images/pickens-el.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-elementary-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-high-school",
+      "filename": "pickens_high_school_logo.png",
+      "local_path": "downloads/logos/pickens_high_school_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-high-school",
+      "filename": "pcikens-high-school.png",
+      "local_path": "downloads/images/pcikens-high-school.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-high-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-middle-school",
+      "filename": "pickens_middle_school_logo.png",
+      "local_path": "downloads/logos/pickens_middle_school_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-middle-school",
+      "filename": "pickens-middle.png",
+      "local_path": "downloads/images/pickens-middle.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "pickens-middle-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "project-go-alternative-school",
+      "filename": "project_go_alternative_program_logo.png",
+      "local_path": "downloads/logos/project_go_alternative_program_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "project-go-alternative-school",
+      "filename": "group-1.png",
+      "local_path": "downloads/images/group-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "project-go-alternative-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "share-your-talent",
+      "filename": "layer-70.pngl_.png",
+      "local_path": "downloads/images/layer-70.pngl_.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "share-your-talent",
+      "filename": "layer-71.pngo_.png",
+      "local_path": "downloads/images/layer-71.pngo_.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "share-your-talent",
+      "filename": "layer-72-1.png",
+      "local_path": "downloads/images/layer-72-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "share-your-talent",
+      "filename": "layer-73.pnghgjg.png",
+      "local_path": "downloads/images/layer-73.pnghgjg.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "share-your-time",
+      "filename": "layer-72.png",
+      "local_path": "downloads/images/layer-72.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "share-your-time",
+      "filename": "layer-74.png",
+      "local_path": "downloads/images/layer-74.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "share-your-time",
+      "filename": "layer-73.png",
+      "local_path": "downloads/images/layer-73.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "share-your-treasure",
+      "filename": "layer-75-1.png",
+      "local_path": "downloads/images/layer-75-1.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "share-your-treasure",
+      "filename": "group-6.png",
+      "local_path": "downloads/images/group-6.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "share-your-treasure",
+      "filename": "group-7.png",
+      "local_path": "downloads/images/group-7.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "share-your-treasure",
+      "filename": "group-1-2.png",
+      "local_path": "downloads/images/group-1-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "six-mile-elementary-school",
+      "filename": "six_mile_elementary_school_logo.png",
+      "local_path": "downloads/logos/six_mile_elementary_school_logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "six-mile-elementary-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "six-mile-elementary-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "west-end-elementary-school",
+      "filename": "west-end-logo.png",
+      "local_path": "downloads/logos/west-end-logo.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "west-end-elementary-school",
+      "filename": "west-and-el.png",
+      "local_path": "downloads/images/west-and-el.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    },
+    {
+      "page": "west-end-elementary-school",
+      "filename": "group-2.png",
+      "local_path": "downloads/images/group-2.png",
+      "role": "image",
+      "section_index": null,
+      "section_type": null,
+      "section_headline": null
+    }
+  ]
+}

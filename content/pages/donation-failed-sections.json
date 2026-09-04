@@ -1,0 +1,17 @@
+{
+  "page": "donation-failed",
+  "section_count": 1,
+  "sections": [
+    {
+      "type": "content",
+      "headline": "",
+      "subheadline": "",
+      "body": "We're sorry, your donation failed to process. Please try again or contact site support.",
+      "list_items": [],
+      "ctas": [],
+      "bg_image": "",
+      "bg_image_url": "",
+      "bg_color": ""
+    }
+  ]
+}

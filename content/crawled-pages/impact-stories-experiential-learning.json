@@ -1,0 +1,120 @@
+{
+  "url": "https://scupstatefoundation.org/impact-stories/experiential-learning",
+  "slug": "impact-stories--experiential-learning",
+  "title": "Experiential Learning - Upstate Foundation",
+  "meta_description": "",
+  "canonical": "https://scupstatefoundation.org/impact-stories/experiential-learning/",
+  "og_title": "Experiential Learning - Upstate Foundation",
+  "og_description": "",
+  "og_image": "",
+  "h1": [
+    "Experiential Learning"
+  ],
+  "h2": [
+    "Quick Links",
+    "Get In Touch",
+    "Join the Building Bridges Newsletter",
+    "Privacy Policy",
+    "|",
+    "Imprint"
+  ],
+  "h3": [],
+  "body_text": "Experiential Learning By admin / July 15, 2025",
+  "content_html": "<main class=\"site-main\" id=\"main\">\n<article class=\"post-312 impact_stories type-impact_stories status-publish has-post-thumbnail hentry ast-article-single\" id=\"post-312\" itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\">\n<div class=\"ast-post-format- single-layout-1\">\n<header class=\"entry-header\">\n<h1 class=\"entry-title\" itemprop=\"headline\">Experiential Learning</h1><div class=\"entry-meta\">By <span class=\"posted-by vcard author\" itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\"> <a class=\"url fn n\" href=\"https://scupstatefoundation.org/author/admin/\" itemprop=\"url\" rel=\"author\" title=\"View all posts by admin\">\n<span class=\"author-name\" itemprop=\"name\">\n\t\t\t\tadmin\t\t\t</span>\n</a>\n</span>\n\n\t\t / <span class=\"posted-on\"><span class=\"published\" itemprop=\"datePublished\"> July 15, 2025 </span></span></div>\n</header><!-- .entry-header -->\n<div class=\"entry-content clear\" itemprop=\"text\">\n</div><!-- .entry-content .clear -->\n</div>\n</article><!-- #post-## -->\n </main>",
+  "schema_org": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://scupstatefoundation.org/impact-stories/experiential-learning/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://scupstatefoundation.org",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                "name": "Impact Stories"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+              "position": 2,
+              "name": "Impact Stories",
+              "item": "https://scupstatefoundation.org/impact-stories/",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/impact-stories/experiential-learning/#listItem",
+                "name": "Experiential Learning"
+              },
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org#listItem",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/impact-stories/experiential-learning/#listItem",
+              "position": 3,
+              "name": "Experiential Learning",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                "name": "Impact Stories"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://scupstatefoundation.org/#organization",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "url": "https://scupstatefoundation.org/"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://scupstatefoundation.org/impact-stories/experiential-learning/#webpage",
+          "url": "https://scupstatefoundation.org/impact-stories/experiential-learning/",
+          "name": "Experiential Learning - Upstate Foundation",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://scupstatefoundation.org/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://scupstatefoundation.org/impact-stories/experiential-learning/#breadcrumblist"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://scupstatefoundation.org/wp-content/uploads/2025/10/Th-2.png",
+            "@id": "https://scupstatefoundation.org/impact-stories/experiential-learning/#mainImage",
+            "width": 586,
+            "height": 456
+          },
+          "primaryImageOfPage": {
+            "@id": "https://scupstatefoundation.org/impact-stories/experiential-learning/#mainImage"
+          },
+          "datePublished": "2025-07-15T21:16:16+00:00",
+          "dateModified": "2025-10-22T19:37:19+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scupstatefoundation.org/#website",
+          "url": "https://scupstatefoundation.org/",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://scupstatefoundation.org/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3983 @@
+{
+  "pages": [
+    {
+      "url": "https://scupstatefoundation.org/six-mile-elementary-school",
+      "title": "Six Mile Elementary School - Upstate Foundation",
+      "meta_description": "Six Mile Elementary School Six Mile Elementary School Community Liaison: Steve Gilstrap Liaison Email: stevegilstrap@pickens.k12.sc.us Community Liaison Phone: 864-397-2411 Principal Name: Mrs. Melissa Terry School's Website: https://sme.pickens.k12.sc.us/ School's Phone Number: 864-397-2400 School's Address: 777 North Main Street, Six Mile, SC 29682 Six Mile Elementary School Facebook-f Twitter Icon-google-plus Linkedin-in Instagram Make a Gift NOTE: If",
+      "canonical": "https://scupstatefoundation.org/six-mile-elementary-school/",
+      "og_title": "Six Mile Elementary School - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/six-mile-elementary-school/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/six-mile-elementary-school/#listItem",
+                    "name": "Six Mile Elementary School"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/six-mile-elementary-school/#listItem",
+                  "position": 2,
+                  "name": "Six Mile Elementary School",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/six-mile-elementary-school/#webpage",
+              "url": "https://scupstatefoundation.org/six-mile-elementary-school/",
+              "name": "Six Mile Elementary School - Upstate Foundation",
+              "description": "Six Mile Elementary School Six Mile Elementary School Community Liaison: Steve Gilstrap Liaison Email: stevegilstrap@pickens.k12.sc.us Community Liaison Phone: 864-397-2411 Principal Name: Mrs. Melissa Terry School's Website: https://sme.pickens.k12.sc.us/ School's Phone Number: 864-397-2400 School's Address: 777 North Main Street, Six Mile, SC 29682 Six Mile Elementary School Facebook-f Twitter Icon-google-plus Linkedin-in Instagram Make a Gift NOTE: If",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/six-mile-elementary-school/#breadcrumblist"
+              },
+              "datePublished": "2025-09-19T22:23:14+00:00",
+              "dateModified": "2026-01-16T19:45:38+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/dacusville-middle-school",
+      "title": "Dacusville Middle School - Upstate Foundation",
+      "meta_description": "Dacusville Middle School Dacusville Middle School Community Liaison: Bob Hendricks Liaison Email: bobhendricks@pickens.k12.sc.us Community Liaison Phone: (864) 397-3500 Principal Name: Mary Cate Garrett Principal Email Address: marycategarrett@pickens.k12.sc.us Assistant Principal's Name (s): Bob Hendricks School's Website: https://dms.pickens.k12.sc.us/ School's Phone Number: 864-397-3500 School's Address: 899 Thomas Mill Road, Easley, SC 29640 Dacusville Middle School Facebook-f Twitter Icon-google-plus",
+      "canonical": "https://scupstatefoundation.org/dacusville-middle-school/",
+      "og_title": "Dacusville Middle School - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/dacusville-middle-school/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/dacusville-middle-school/#listItem",
+                    "name": "Dacusville Middle School"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/dacusville-middle-school/#listItem",
+                  "position": 2,
+                  "name": "Dacusville Middle School",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/dacusville-middle-school/#webpage",
+              "url": "https://scupstatefoundation.org/dacusville-middle-school/",
+              "name": "Dacusville Middle School - Upstate Foundation",
+              "description": "Dacusville Middle School Dacusville Middle School Community Liaison: Bob Hendricks Liaison Email: bobhendricks@pickens.k12.sc.us Community Liaison Phone: (864) 397-3500 Principal Name: Mary Cate Garrett Principal Email Address: marycategarrett@pickens.k12.sc.us Assistant Principal's Name (s): Bob Hendricks School's Website: https://dms.pickens.k12.sc.us/ School's Phone Number: 864-397-3500 School's Address: 899 Thomas Mill Road, Easley, SC 29640 Dacusville Middle School Facebook-f Twitter Icon-google-plus",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/dacusville-middle-school/#breadcrumblist"
+              },
+              "datePublished": "2025-09-19T17:37:52+00:00",
+              "dateModified": "2026-01-16T19:24:12+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/crosswell-elementary-school",
+      "title": "Crosswell Elementary School - Upstate Foundation",
+      "meta_description": "Crosswell Elementary School Crosswell Elementary School Community Liaison: Lindsey McAlister Liaison Email: lindseymcalister@pickens.k12.sc.us Community Liaison Phone: 864-397-1600 Principal Name: Mr. Andrew Shipman Principal Email Address: andrewshipman@pickens.k12.sc.us Assistant Principal's Name (s): Megan Valera School's Website: https://cwe.pickens.k12.sc.us/ School's Phone Number: 864-397-1600 School's Address: 161 School Road, Easley, SC 29640 Crosswell Elementary School Facebook-f Twitter Icon-google-plus Linkedin-in Instagram",
+      "canonical": "https://scupstatefoundation.org/crosswell-elementary-school/",
+      "og_title": "Crosswell Elementary School - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/crosswell-elementary-school/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/crosswell-elementary-school/#listItem",
+                    "name": "Crosswell Elementary School"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/crosswell-elementary-school/#listItem",
+                  "position": 2,
+                  "name": "Crosswell Elementary School",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/crosswell-elementary-school/#webpage",
+              "url": "https://scupstatefoundation.org/crosswell-elementary-school/",
+              "name": "Crosswell Elementary School - Upstate Foundation",
+              "description": "Crosswell Elementary School Crosswell Elementary School Community Liaison: Lindsey McAlister Liaison Email: lindseymcalister@pickens.k12.sc.us Community Liaison Phone: 864-397-1600 Principal Name: Mr. Andrew Shipman Principal Email Address: andrewshipman@pickens.k12.sc.us Assistant Principal's Name (s): Megan Valera School's Website: https://cwe.pickens.k12.sc.us/ School's Phone Number: 864-397-1600 School's Address: 161 School Road, Easley, SC 29640 Crosswell Elementary School Facebook-f Twitter Icon-google-plus Linkedin-in Instagram",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/crosswell-elementary-school/#breadcrumblist"
+              },
+              "datePublished": "2025-09-19T22:34:41+00:00",
+              "dateModified": "2026-01-16T19:24:24+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/pickens-elementary-school",
+      "title": "Pickens Elementary School - Upstate Foundation",
+      "meta_description": "Pickens Elementary School Pickens Elementary School Community Liaison: Sherri Martin Liaison Email: sherrimartin@pickens.k12.sc.us Community Liaison Phone: 864-397-2300 ext. 2354 Principal Name: Mrs. Shannon Lawton Assistant Principal's Name: Anita Richardson and Lacey Rogers Principal Email Address: shannonlawton@pickens.k12.sc.us School's Website: https://pes.pickens.k12.sc.us// School's Phone Number: 864-397-2300 School's Address: 567 Hampton Avenue, Pickens, SC 29671 Pickens Elementary School Facebook-f",
+      "canonical": "https://scupstatefoundation.org/pickens-elementary-school/",
+      "og_title": "Pickens Elementary School - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/pickens-elementary-school/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/pickens-elementary-school/#listItem",
+                    "name": "Pickens Elementary School"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/pickens-elementary-school/#listItem",
+                  "position": 2,
+                  "name": "Pickens Elementary School",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/pickens-elementary-school/#webpage",
+              "url": "https://scupstatefoundation.org/pickens-elementary-school/",
+              "name": "Pickens Elementary School - Upstate Foundation",
+              "description": "Pickens Elementary School Pickens Elementary School Community Liaison: Sherri Martin Liaison Email: sherrimartin@pickens.k12.sc.us Community Liaison Phone: 864-397-2300 ext. 2354 Principal Name: Mrs. Shannon Lawton Assistant Principal's Name: Anita Richardson and Lacey Rogers Principal Email Address: shannonlawton@pickens.k12.sc.us School's Website: https://pes.pickens.k12.sc.us// School's Phone Number: 864-397-2300 School's Address: 567 Hampton Avenue, Pickens, SC 29671 Pickens Elementary School Facebook-f",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/pickens-elementary-school/#breadcrumblist"
+              },
+              "datePublished": "2025-09-19T22:35:32+00:00",
+              "dateModified": "2026-01-16T19:39:23+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/liberty-elementary-school",
+      "title": "Liberty Elementary School - Upstate Foundation",
+      "meta_description": "Liberty Elementary School Liberty Elementary School Community Liaison: Dawn Miller Liaison Email: dawnmiller@pickens.k12.sc.us Community Liaison Phone: 864-397-2100, ext.2134 Principal Name: Dr. Lowell Haynes Principal Email Address: lowellhaynes@pickens.k12.sc.us School's Website: https://les.pickens.k12.sc.us/o/les School's Phone Number: 864-397-2100 School's Address: 251 North Hillcrest Street, Liberty, SC 29657 Liberty Elementary School Facebook-f Twitter Icon-google-plus Linkedin-in Instagram Make a Gift NOTE:",
+      "canonical": "https://scupstatefoundation.org/liberty-elementary-school/",
+      "og_title": "Liberty Elementary School - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/liberty-elementary-school/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/liberty-elementary-school/#listItem",
+                    "name": "Liberty Elementary School"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/liberty-elementary-school/#listItem",
+                  "position": 2,
+                  "name": "Liberty Elementary School",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/liberty-elementary-school/#webpage",
+              "url": "https://scupstatefoundation.org/liberty-elementary-school/",
+              "name": "Liberty Elementary School - Upstate Foundation",
+              "description": "Liberty Elementary School Liberty Elementary School Community Liaison: Dawn Miller Liaison Email: dawnmiller@pickens.k12.sc.us Community Liaison Phone: 864-397-2100, ext.2134 Principal Name: Dr. Lowell Haynes Principal Email Address: lowellhaynes@pickens.k12.sc.us School's Website: https://les.pickens.k12.sc.us/o/les School's Phone Number: 864-397-2100 School's Address: 251 North Hillcrest Street, Liberty, SC 29657 Liberty Elementary School Facebook-f Twitter Icon-google-plus Linkedin-in Instagram Make a Gift NOTE:",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/liberty-elementary-school/#breadcrumblist"
+              },
+              "datePublished": "2025-09-19T23:12:08+00:00",
+              "dateModified": "2026-01-16T19:33:13+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/east-end-elementary-school",
+      "title": "East End Elementary School - Upstate Foundation",
+      "meta_description": "East End Elementary School East End Elementary School Community Liaison: Del Freitag Liaison Email: delfreitag@pickens.k12.sc.us Community Liaison Phone: (864) 397-1700 Principal Name: Mr. Chris Brewington Assistant Principal Name: Kayla scott, Anglea Spearman Principal Email Address: chrisbrewington@pickens.k12.sc.us School's Website: https:/eee.pickens.k12.sc.us/ School's Phone Number: 864-397-1700 School's Address: 505 East Second Avenue, Easley, SC 29640 East End Elementary",
+      "canonical": "https://scupstatefoundation.org/east-end-elementary-school/",
+      "og_title": "East End Elementary School - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/east-end-elementary-school/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/east-end-elementary-school/#listItem",
+                    "name": "East End Elementary School"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/east-end-elementary-school/#listItem",
+                  "position": 2,
+                  "name": "East End Elementary School",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/east-end-elementary-school/#webpage",
+              "url": "https://scupstatefoundation.org/east-end-elementary-school/",
+              "name": "East End Elementary School - Upstate Foundation",
+              "description": "East End Elementary School East End Elementary School Community Liaison: Del Freitag Liaison Email: delfreitag@pickens.k12.sc.us Community Liaison Phone: (864) 397-1700 Principal Name: Mr. Chris Brewington Assistant Principal Name: Kayla scott, Anglea Spearman Principal Email Address: chrisbrewington@pickens.k12.sc.us School's Website: https:/eee.pickens.k12.sc.us/ School's Phone Number: 864-397-1700 School's Address: 505 East Second Avenue, Easley, SC 29640 East End Elementary",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/east-end-elementary-school/#breadcrumblist"
+              },
+              "datePublished": "2025-09-19T23:47:18+00:00",
+              "dateModified": "2026-01-16T19:22:39+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/donor-dashboard",
+      "title": "Donor Dashboard - Upstate Foundation",
+      "meta_description": "[give_donor_dashboard]",
+      "canonical": "https://scupstatefoundation.org/donor-dashboard/",
+      "og_title": "Donor Dashboard - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Donor Dashboard"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/donor-dashboard/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/donor-dashboard/#listItem",
+                    "name": "Donor Dashboard"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/donor-dashboard/#listItem",
+                  "position": 2,
+                  "name": "Donor Dashboard",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/donor-dashboard/#webpage",
+              "url": "https://scupstatefoundation.org/donor-dashboard/",
+              "name": "Donor Dashboard - Upstate Foundation",
+              "description": "[give_donor_dashboard]",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/donor-dashboard/#breadcrumblist"
+              },
+              "datePublished": "2025-07-14T22:46:47+00:00",
+              "dateModified": "2025-07-14T22:46:47+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/share-your-talent",
+      "title": "Share Your Talent - Upstate Foundation",
+      "meta_description": "Share Your Talent Every person has unique gifts, skills, and expertise that can make education richer and more meaningful. When you share your talent, you open doors of opportunity for students and strengthen the entire school community. Ways to Share Your Talent Professional Expertise Present on your field of work or a topic of interest.",
+      "canonical": "https://scupstatefoundation.org/share-your-talent/",
+      "og_title": "Share Your Talent - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/share-your-talent/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/share-your-talent/#listItem",
+                    "name": "Share Your Talent"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/share-your-talent/#listItem",
+                  "position": 2,
+                  "name": "Share Your Talent",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/share-your-talent/#webpage",
+              "url": "https://scupstatefoundation.org/share-your-talent/",
+              "name": "Share Your Talent - Upstate Foundation",
+              "description": "Share Your Talent Every person has unique gifts, skills, and expertise that can make education richer and more meaningful. When you share your talent, you open doors of opportunity for students and strengthen the entire school community. Ways to Share Your Talent Professional Expertise Present on your field of work or a topic of interest.",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/share-your-talent/#breadcrumblist"
+              },
+              "datePublished": "2025-10-03T22:18:26+00:00",
+              "dateModified": "2025-10-17T21:58:31+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/impact-story",
+      "title": "Impact Stories | Changing Lives Through Education",
+      "meta_description": "Read real stories of students, families, and teachers positively impacted by community support and foundation initiatives.",
+      "canonical": "https://scupstatefoundation.org/impact-story/",
+      "og_title": "Impact Stories | Changing Lives Through Education",
+      "og_image": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Group-1-2.png",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/impact-story/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/impact-story/#listItem",
+                    "name": "Impact Stories"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/impact-story/#listItem",
+                  "position": 2,
+                  "name": "Impact Stories",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/impact-story/#webpage",
+              "url": "https://scupstatefoundation.org/impact-story/",
+              "name": "Impact Stories | Changing Lives Through Education",
+              "description": "Read real stories of students, families, and teachers positively impacted by community support and foundation initiatives.",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/impact-story/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Group-1-2.png",
+                "@id": "https://scupstatefoundation.org/impact-story/#mainImage",
+                "width": 676,
+                "height": 456
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/impact-story/#mainImage"
+              },
+              "datePublished": "2025-07-11T19:11:14+00:00",
+              "dateModified": "2026-08-07T14:43:52+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/mckissick-academy-of-science-and-technology",
+      "title": "McKissick Academy of Science and Technology - Upstate Foundation",
+      "meta_description": "McKissick Academy of Science and Technology McKissick Academy of Science and Technology Community Liaison: Whitney Moore Liaison Email: whitneymoore@pickens.k12.sc.us Community Liaison Phone: 864-397-2204 Principal Name: Mrs. Heather Touchberry Assistant Principal's Name : Danny Hall, Anita Richardson Principal Email Address: heathertouchberry@pickens.k12.sc.us School's Website: http://mast.pickens.k12.sc.us/ School's Phone Number: 864-397-2200 School's Address: 156 McKissick Rd. Easley, SC 29640.",
+      "canonical": "https://scupstatefoundation.org/mckissick-academy-of-science-and-technology/",
+      "og_title": "McKissick Academy of Science and Technology - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/mckissick-academy-of-science-and-technology/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/mckissick-academy-of-science-and-technology/#listItem",
+                    "name": "McKissick Academy of Science and Technology"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/mckissick-academy-of-science-and-technology/#listItem",
+                  "position": 2,
+                  "name": "McKissick Academy of Science and Technology",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/mckissick-academy-of-science-and-technology/#webpage",
+              "url": "https://scupstatefoundation.org/mckissick-academy-of-science-and-technology/",
+              "name": "McKissick Academy of Science and Technology - Upstate Foundation",
+              "description": "McKissick Academy of Science and Technology McKissick Academy of Science and Technology Community Liaison: Whitney Moore Liaison Email: whitneymoore@pickens.k12.sc.us Community Liaison Phone: 864-397-2204 Principal Name: Mrs. Heather Touchberry Assistant Principal's Name : Danny Hall, Anita Richardson Principal Email Address: heathertouchberry@pickens.k12.sc.us School's Website: http://mast.pickens.k12.sc.us/ School's Phone Number: 864-397-2200 School's Address: 156 McKissick Rd. Easley, SC 29640.",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/mckissick-academy-of-science-and-technology/#breadcrumblist"
+              },
+              "datePublished": "2025-09-19T22:49:59+00:00",
+              "dateModified": "2026-01-16T19:32:40+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/my-account",
+      "title": "My account - Upstate Foundation",
+      "meta_description": "[woocommerce_my_account]",
+      "canonical": "https://scupstatefoundation.org/my-account/",
+      "og_title": "My account - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "My account"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/my-account/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/my-account/#listItem",
+                    "name": "My account"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/my-account/#listItem",
+                  "position": 2,
+                  "name": "My account",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/my-account/#webpage",
+              "url": "https://scupstatefoundation.org/my-account/",
+              "name": "My account - Upstate Foundation",
+              "description": "[woocommerce_my_account]",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/my-account/#breadcrumblist"
+              },
+              "datePublished": "2025-07-15T23:27:21+00:00",
+              "dateModified": "2025-07-15T23:27:21+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/easley-high-school",
+      "title": "Easley High School - Upstate Foundation",
+      "meta_description": "Easley High School Easley High School Community Liaison: Justus Serina Liaison Email: justusserina@pickens.k12.sc.us Community Liaison Phone: 567-230-0346 Principal Name: Mr. Josh Oxendine Principal Email Address: joshoxendine@pickens.k12.sc.us Assistant Principal's Name (s): Mallor Wade School's Website: https://ehs.pickens.k12.sc.us/ School's Phone Number: 864-397-3100 School's Address: 154 Green Wave Boulevard, Easley, SC 29642 Easley High School Facebook-f Twitter Icon-google-plus Linkedin-in",
+      "canonical": "https://scupstatefoundation.org/easley-high-school/",
+      "og_title": "Easley High School - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/easley-high-school/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/easley-high-school/#listItem",
+                    "name": "Easley High School"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/easley-high-school/#listItem",
+                  "position": 2,
+                  "name": "Easley High School",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/easley-high-school/#webpage",
+              "url": "https://scupstatefoundation.org/easley-high-school/",
+              "name": "Easley High School - Upstate Foundation",
+              "description": "Easley High School Easley High School Community Liaison: Justus Serina Liaison Email: justusserina@pickens.k12.sc.us Community Liaison Phone: 567-230-0346 Principal Name: Mr. Josh Oxendine Principal Email Address: joshoxendine@pickens.k12.sc.us Assistant Principal's Name (s): Mallor Wade School's Website: https://ehs.pickens.k12.sc.us/ School's Phone Number: 864-397-3100 School's Address: 154 Green Wave Boulevard, Easley, SC 29642 Easley High School Facebook-f Twitter Icon-google-plus Linkedin-in",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/easley-high-school/#breadcrumblist"
+              },
+              "datePublished": "2025-09-17T19:34:23+00:00",
+              "dateModified": "2026-01-16T19:26:33+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/cart",
+      "title": "Cart - Upstate Foundation",
+      "meta_description": "[woocommerce_cart]",
+      "canonical": "https://scupstatefoundation.org/cart/",
+      "og_title": "Cart - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Cart"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/cart/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/cart/#listItem",
+                    "name": "Cart"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/cart/#listItem",
+                  "position": 2,
+                  "name": "Cart",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/cart/#webpage",
+              "url": "https://scupstatefoundation.org/cart/",
+              "name": "Cart - Upstate Foundation",
+              "description": "[woocommerce_cart]",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/cart/#breadcrumblist"
+              },
+              "datePublished": "2025-07-15T23:27:21+00:00",
+              "dateModified": "2025-07-15T23:31:54+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/edwards-middle-school",
+      "title": "Edwards Middle School - Upstate Foundation",
+      "meta_description": "Edwards Middle School Edwards Middle School Community Liaison: Cora Wichelns Liaison Email: corawichelns@pickens.k12.sc.us Community Liaison Phone: 864-397-4292 Principal Name: Mr. Thomas Preisig Principal Email Address: thomaspreisig@pickens.k12.sc.us Assistant Principal's Name (s): Justin Petersen, Erin Driggers School's Website: https://rce.pickens.k12.sc.us/ School's Phone Number: 864-397-4200 School's Address: 1157 Madden Bridge Road, Central, SC 29630 R.C. Edwards Middle School Facebook-f",
+      "canonical": "https://scupstatefoundation.org/edwards-middle-school/",
+      "og_title": "Edwards Middle School - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/edwards-middle-school/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/edwards-middle-school/#listItem",
+                    "name": "Edwards Middle School"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/edwards-middle-school/#listItem",
+                  "position": 2,
+                  "name": "Edwards Middle School",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/edwards-middle-school/#webpage",
+              "url": "https://scupstatefoundation.org/edwards-middle-school/",
+              "name": "Edwards Middle School - Upstate Foundation",
+              "description": "Edwards Middle School Edwards Middle School Community Liaison: Cora Wichelns Liaison Email: corawichelns@pickens.k12.sc.us Community Liaison Phone: 864-397-4292 Principal Name: Mr. Thomas Preisig Principal Email Address: thomaspreisig@pickens.k12.sc.us Assistant Principal's Name (s): Justin Petersen, Erin Driggers School's Website: https://rce.pickens.k12.sc.us/ School's Phone Number: 864-397-4200 School's Address: 1157 Madden Bridge Road, Central, SC 29630 R.C. Edwards Middle School Facebook-f",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/edwards-middle-school/#breadcrumblist"
+              },
+              "datePublished": "2025-09-19T17:53:33+00:00",
+              "dateModified": "2026-01-16T19:41:17+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/liberty-high",
+      "title": "Liberty High - Upstate Foundation",
+      "meta_description": "Liberty High School Liberty High School Community Liaison: Danielle Serina, Zach Arms Liaison Email: danielleserina@pickens.k12.sc.us, zacharyarms@pickens.k12.sc.us Community Liaison Phone: 631-338-6161, 864-770-3351 Principal Name: Mr. Johnny Garrett Principal Email Address: johnnygarrett@pickens.k12.sc.us Assistant Principal's Name (s): Patrick Canterbury, Amanda Thompson School's Website: https://lhs.pickens.k12.sc.us/ School's Phone Number: 864-397-2600 School's Address: 124 Red Devil Drive, Liberty, SC 29657 Liberty",
+      "canonical": "https://scupstatefoundation.org/liberty-high/",
+      "og_title": "Liberty High - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/liberty-high/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/liberty-high/#listItem",
+                    "name": "Liberty High"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/liberty-high/#listItem",
+                  "position": 2,
+                  "name": "Liberty High",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/liberty-high/#webpage",
+              "url": "https://scupstatefoundation.org/liberty-high/",
+              "name": "Liberty High - Upstate Foundation",
+              "description": "Liberty High School Liberty High School Community Liaison: Danielle Serina, Zach Arms Liaison Email: danielleserina@pickens.k12.sc.us, zacharyarms@pickens.k12.sc.us Community Liaison Phone: 631-338-6161, 864-770-3351 Principal Name: Mr. Johnny Garrett Principal Email Address: johnnygarrett@pickens.k12.sc.us Assistant Principal's Name (s): Patrick Canterbury, Amanda Thompson School's Website: https://lhs.pickens.k12.sc.us/ School's Phone Number: 864-397-2600 School's Address: 124 Red Devil Drive, Liberty, SC 29657 Liberty",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/liberty-high/#breadcrumblist"
+              },
+              "datePublished": "2025-09-17T00:14:02+00:00",
+              "dateModified": "2026-01-16T19:27:24+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/daniel-high",
+      "title": "Daniel High - Upstate Foundation",
+      "meta_description": "Daniel High School Daniel High School Community Liaison: Ben Touchberry Liaison Email: bentouchberry@pickens.k12.sc.us Community Liaison Phone: 864-397-2900 Principal Name: Mr. Adam Russell Principal Email Address: adamrussell@pickens.k12.sc.us Assistant Principal's Name (s): Lucius Culpepper, Sam Lepa, Shea Martin. School's Website: https://dhs.pickens.k12.sc.us/ School's Phone Number: 864-397-2900 School's Address: 140 Blue and Gold Boulevard, Central, SC 29630 D.W. Daniel",
+      "canonical": "https://scupstatefoundation.org/daniel-high/",
+      "og_title": "Daniel High - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/daniel-high/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/daniel-high/#listItem",
+                    "name": "Daniel High"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/daniel-high/#listItem",
+                  "position": 2,
+                  "name": "Daniel High",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/daniel-high/#webpage",
+              "url": "https://scupstatefoundation.org/daniel-high/",
+              "name": "Daniel High - Upstate Foundation",
+              "description": "Daniel High School Daniel High School Community Liaison: Ben Touchberry Liaison Email: bentouchberry@pickens.k12.sc.us Community Liaison Phone: 864-397-2900 Principal Name: Mr. Adam Russell Principal Email Address: adamrussell@pickens.k12.sc.us Assistant Principal's Name (s): Lucius Culpepper, Sam Lepa, Shea Martin. School's Website: https://dhs.pickens.k12.sc.us/ School's Phone Number: 864-397-2900 School's Address: 140 Blue and Gold Boulevard, Central, SC 29630 D.W. Daniel",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/daniel-high/#breadcrumblist"
+              },
+              "datePublished": "2025-09-16T23:22:56+00:00",
+              "dateModified": "2026-01-16T19:23:37+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/checkout",
+      "title": "Checkout - Upstate Foundation",
+      "meta_description": "[woocommerce_checkout]",
+      "canonical": "https://scupstatefoundation.org/checkout/",
+      "og_title": "Checkout - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Checkout"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/checkout/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/checkout/#listItem",
+                    "name": "Checkout"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/checkout/#listItem",
+                  "position": 2,
+                  "name": "Checkout",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/checkout/#webpage",
+              "url": "https://scupstatefoundation.org/checkout/",
+              "name": "Checkout - Upstate Foundation",
+              "description": "[woocommerce_checkout]",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/checkout/#breadcrumblist"
+              },
+              "datePublished": "2025-07-15T23:27:21+00:00",
+              "dateModified": "2025-07-15T23:27:21+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/pickens-county-virtual-academy-360-academy",
+      "title": "Pickens County Virtual Academy + 360 Academy - Upstate Foundation",
+      "meta_description": "Pickens County Virtual Academy + 360 Academy Pickens County Virtual Academy + 360 Academy Community Liaison’s:Rene Barrow Liaison’s Email: Renebarrow@pickens.k12.sc.us Community Liaison’s Phone: 864-397-3310 Principal Name: Mrs. Lori Gwinn Principal Email Address: LoriGwinn@pickens.k12.sc.us School's Website: https://pcva.pickens.k12.sc.us/o/pva, https://www.pickens.k12.sc.us/page/360-academy School's Phone Number: 864-397-3310 School's Address: 899 Thomas Mill Road, Easley, SC 29640 Pickens County Virtual Academy Facebook-f",
+      "canonical": "https://scupstatefoundation.org/pickens-county-virtual-academy-360-academy/",
+      "og_title": "Pickens County Virtual Academy + 360 Academy - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/pickens-county-virtual-academy-360-academy/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/pickens-county-virtual-academy-360-academy/#listItem",
+                    "name": "Pickens County Virtual Academy + 360 Academy"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/pickens-county-virtual-academy-360-academy/#listItem",
+                  "position": 2,
+                  "name": "Pickens County Virtual Academy + 360 Academy",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/pickens-county-virtual-academy-360-academy/#webpage",
+              "url": "https://scupstatefoundation.org/pickens-county-virtual-academy-360-academy/",
+              "name": "Pickens County Virtual Academy + 360 Academy - Upstate Foundation",
+              "description": "Pickens County Virtual Academy + 360 Academy Pickens County Virtual Academy + 360 Academy Community Liaison’s:Rene Barrow Liaison’s Email: Renebarrow@pickens.k12.sc.us Community Liaison’s Phone: 864-397-3310 Principal Name: Mrs. Lori Gwinn Principal Email Address: LoriGwinn@pickens.k12.sc.us School's Website: https://pcva.pickens.k12.sc.us/o/pva, https://www.pickens.k12.sc.us/page/360-academy School's Phone Number: 864-397-3310 School's Address: 899 Thomas Mill Road, Easley, SC 29640 Pickens County Virtual Academy Facebook-f",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/pickens-county-virtual-academy-360-academy/#breadcrumblist"
+              },
+              "datePublished": "2025-09-17T22:46:29+00:00",
+              "dateModified": "2026-01-16T19:32:26+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/sample-page",
+      "title": "Sample Page - Upstate Foundation",
+      "meta_description": "This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I'm a bike messenger",
+      "canonical": "https://scupstatefoundation.org/sample-page/",
+      "og_title": "Sample Page - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Sample Page"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/sample-page/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/sample-page/#listItem",
+                    "name": "Sample Page"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/sample-page/#listItem",
+                  "position": 2,
+                  "name": "Sample Page",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/sample-page/#webpage",
+              "url": "https://scupstatefoundation.org/sample-page/",
+              "name": "Sample Page - Upstate Foundation",
+              "description": "This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I'm a bike messenger",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/sample-page/#breadcrumblist"
+              },
+              "datePublished": "2025-07-11T17:06:04+00:00",
+              "dateModified": "2025-07-11T17:06:04+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/",
+      "title": "Upstate Education & Opportunity Foundation",
+      "meta_description": "Investing in education and community to uplift children and families across Pickens County, South Carolina through innovative programs and support.",
+      "canonical": "https://scupstatefoundation.org/",
+      "og_title": "Upstate Education & Opportunity Foundation",
+      "og_image": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Layer-52.png",
+      "h1": [
+        "Investing in Students Across Pickens County Schools"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home"
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/#webpage",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Education & Opportunity Foundation",
+              "description": "Investing in education and community to uplift children and families across Pickens County, South Carolina through innovative programs and support.",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Layer-52.png",
+                "@id": "https://scupstatefoundation.org/#mainImage",
+                "width": 396,
+                "height": 314
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/#mainImage"
+              },
+              "datePublished": "2025-07-11T19:09:28+00:00",
+              "dateModified": "2026-08-03T14:15:07+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org",
+      "title": "Upstate Education & Opportunity Foundation",
+      "meta_description": "Investing in education and community to uplift children and families across Pickens County, South Carolina through innovative programs and support.",
+      "canonical": "https://scupstatefoundation.org/",
+      "og_title": "Upstate Education & Opportunity Foundation",
+      "og_image": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Layer-52.png",
+      "h1": [
+        "Investing in Students Across Pickens County Schools"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home"
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/#webpage",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Education & Opportunity Foundation",
+              "description": "Investing in education and community to uplift children and families across Pickens County, South Carolina through innovative programs and support.",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Layer-52.png",
+                "@id": "https://scupstatefoundation.org/#mainImage",
+                "width": 396,
+                "height": 314
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/#mainImage"
+              },
+              "datePublished": "2025-07-11T19:09:28+00:00",
+              "dateModified": "2026-08-03T14:15:07+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/?elementskit_template=header",
+      "title": "Header - Upstate Foundation",
+      "meta_description": "Home About Our Initiatives Impact Stories X Give Home About Our Initiatives Impact Stories X Give",
+      "canonical": "https://scupstatefoundation.org/?elementskit_template=header",
+      "og_title": "Header - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/?elementskit_template=header#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/?elementskit_template=header#listItem",
+                    "name": "Header"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/?elementskit_template=header#listItem",
+                  "position": 2,
+                  "name": "Header",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/?elementskit_template=header#webpage",
+              "url": "https://scupstatefoundation.org/?elementskit_template=header",
+              "name": "Header - Upstate Foundation",
+              "description": "Home About Our Initiatives Impact Stories X Give Home About Our Initiatives Impact Stories X Give",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/?elementskit_template=header#breadcrumblist"
+              },
+              "datePublished": "2025-07-11T19:13:54+00:00",
+              "dateModified": "2026-08-07T14:45:21+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/?elementskit_template=footer",
+      "title": "footer - Upstate Foundation",
+      "meta_description": "Facebook-f Linkedin-in Instagram Tiktok Quick Links Share your talent Share your time Share your treasure Get In Touch 1348 Griffin Mill Rd Easley, SC 29640, USA 864-397-1000 connect@scUpstateFoundation.org Upstate Education + Opportunity Foundation is a 501(c)(3) supporting the School District of Pickens County. EIN 46-3113620 Join the Building Bridges Newsletter Copyrights © 2025 Upstate Education & Opportunity",
+      "canonical": "https://scupstatefoundation.org/?elementskit_template=footer",
+      "og_title": "footer - Upstate Foundation",
+      "og_image": "",
+      "h1": [],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/?elementskit_template=footer#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/?elementskit_template=footer#listItem",
+                    "name": "footer"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/?elementskit_template=footer#listItem",
+                  "position": 2,
+                  "name": "footer",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/?elementskit_template=footer#webpage",
+              "url": "https://scupstatefoundation.org/?elementskit_template=footer",
+              "name": "footer - Upstate Foundation",
+              "description": "Facebook-f Linkedin-in Instagram Tiktok Quick Links Share your talent Share your time Share your treasure Get In Touch 1348 Griffin Mill Rd Easley, SC 29640, USA 864-397-1000 connect@scUpstateFoundation.org Upstate Education + Opportunity Foundation is a 501(c)(3) supporting the School District of Pickens County. EIN 46-3113620 Join the Building Bridges Newsletter Copyrights © 2025 Upstate Education & Opportunity",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/?elementskit_template=footer#breadcrumblist"
+              },
+              "datePublished": "2025-07-14T17:51:49+00:00",
+              "dateModified": "2025-12-08T17:57:49+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2",
+      "title": "Lauren Fox - Upstate Foundation",
+      "meta_description": "connect@scupstatefoundation.org",
+      "canonical": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/",
+      "og_title": "Lauren Fox - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Lauren  Fox"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                  "position": 2,
+                  "name": "Board Members",
+                  "item": "https://scupstatefoundation.org/board-members/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/#listItem",
+                    "name": "Lauren  Fox"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/#listItem",
+                  "position": 3,
+                  "name": "Lauren  Fox",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/#webpage",
+              "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/",
+              "name": "Lauren Fox - Upstate Foundation",
+              "description": "connect@scupstatefoundation.org",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Layer-62.png",
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/#mainImage",
+                "width": 337,
+                "height": 349
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/#mainImage"
+              },
+              "datePublished": "2025-07-28T19:13:16+00:00",
+              "dateModified": "2025-11-12T21:14:23+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/board-members/lauren-foxpresident",
+      "title": "Dr. Brian Swords - Upstate Foundation",
+      "meta_description": "connect@scupstatefoundation.org",
+      "canonical": "https://scupstatefoundation.org/board-members/lauren-foxpresident/",
+      "og_title": "Dr. Brian Swords - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Dr. Brian  Swords"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                  "position": 2,
+                  "name": "Board Members",
+                  "item": "https://scupstatefoundation.org/board-members/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident/#listItem",
+                    "name": "Dr. Brian  Swords"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident/#listItem",
+                  "position": 3,
+                  "name": "Dr. Brian  Swords",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident/#webpage",
+              "url": "https://scupstatefoundation.org/board-members/lauren-foxpresident/",
+              "name": "Dr. Brian Swords - Upstate Foundation",
+              "description": "connect@scupstatefoundation.org",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/brian_swords.jpg",
+                "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident/#mainImage",
+                "width": 1843,
+                "height": 1843
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident/#mainImage"
+              },
+              "datePublished": "2025-07-15T17:53:13+00:00",
+              "dateModified": "2025-10-27T23:06:55+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/board-members/derek-lunka",
+      "title": "Amy Smith - Upstate Foundation",
+      "meta_description": "connect@scupstatefoundation.org",
+      "canonical": "https://scupstatefoundation.org/board-members/derek-lunka/",
+      "og_title": "Amy Smith - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Amy  Smith"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/board-members/derek-lunka/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                  "position": 2,
+                  "name": "Board Members",
+                  "item": "https://scupstatefoundation.org/board-members/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/derek-lunka/#listItem",
+                    "name": "Amy  Smith"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/derek-lunka/#listItem",
+                  "position": 3,
+                  "name": "Amy  Smith",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/board-members/derek-lunka/#webpage",
+              "url": "https://scupstatefoundation.org/board-members/derek-lunka/",
+              "name": "Amy Smith - Upstate Foundation",
+              "description": "connect@scupstatefoundation.org",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/board-members/derek-lunka/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/amy-smith-1.jpeg",
+                "@id": "https://scupstatefoundation.org/board-members/derek-lunka/#mainImage",
+                "width": 960,
+                "height": 540
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/board-members/derek-lunka/#mainImage"
+              },
+              "datePublished": "2025-07-15T17:53:42+00:00",
+              "dateModified": "2025-10-27T23:06:21+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/board-members/brian-swords",
+      "title": "Dr. Danny Merck - Upstate Foundation",
+      "meta_description": "connect@scupstatefoundation.org",
+      "canonical": "https://scupstatefoundation.org/board-members/brian-swords/",
+      "og_title": "Dr. Danny Merck - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Dr. Danny  Merck"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/board-members/brian-swords/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                  "position": 2,
+                  "name": "Board Members",
+                  "item": "https://scupstatefoundation.org/board-members/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/brian-swords/#listItem",
+                    "name": "Dr. Danny  Merck"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/brian-swords/#listItem",
+                  "position": 3,
+                  "name": "Dr. Danny  Merck",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/board-members/brian-swords/#webpage",
+              "url": "https://scupstatefoundation.org/board-members/brian-swords/",
+              "name": "Dr. Danny Merck - Upstate Foundation",
+              "description": "connect@scupstatefoundation.org",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/board-members/brian-swords/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/danny-merck-1.png",
+                "@id": "https://scupstatefoundation.org/board-members/brian-swords/#mainImage",
+                "width": 680,
+                "height": 680
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/board-members/brian-swords/#mainImage"
+              },
+              "datePublished": "2025-07-15T17:55:56+00:00",
+              "dateModified": "2025-10-27T23:04:36+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/board-members/mac-devine",
+      "title": "Derek Lunka - Upstate Foundation",
+      "meta_description": "connect@scupstatefoundation.org",
+      "canonical": "https://scupstatefoundation.org/board-members/mac-devine/",
+      "og_title": "Derek Lunka - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Derek Lunka"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/board-members/mac-devine/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                  "position": 2,
+                  "name": "Board Members",
+                  "item": "https://scupstatefoundation.org/board-members/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/mac-devine/#listItem",
+                    "name": "Derek Lunka"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/mac-devine/#listItem",
+                  "position": 3,
+                  "name": "Derek Lunka",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/board-members/mac-devine/#webpage",
+              "url": "https://scupstatefoundation.org/board-members/mac-devine/",
+              "name": "Derek Lunka - Upstate Foundation",
+              "description": "connect@scupstatefoundation.org",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/board-members/mac-devine/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Derek-Lunka-scaled.jpg",
+                "@id": "https://scupstatefoundation.org/board-members/mac-devine/#mainImage",
+                "width": 2057,
+                "height": 2560
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/board-members/mac-devine/#mainImage"
+              },
+              "datePublished": "2025-07-15T17:58:29+00:00",
+              "dateModified": "2025-10-27T23:04:13+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy",
+      "title": "Karla Kelley - Upstate Foundation",
+      "meta_description": "connect@scupstatefoundation.org",
+      "canonical": "https://scupstatefoundation.org/board-members/lauren-fox-copy/",
+      "og_title": "Karla Kelley - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Karla Kelley"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                  "position": 2,
+                  "name": "Board Members",
+                  "item": "https://scupstatefoundation.org/board-members/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy/#listItem",
+                    "name": "Karla Kelley"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy/#listItem",
+                  "position": 3,
+                  "name": "Karla Kelley",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy/#webpage",
+              "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy/",
+              "name": "Karla Kelley - Upstate Foundation",
+              "description": "connect@scupstatefoundation.org",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Karla-Kelley.jpg",
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy/#mainImage",
+                "width": 649,
+                "height": 1024
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy/#mainImage"
+              },
+              "datePublished": "2025-07-28T19:13:12+00:00",
+              "dateModified": "2025-10-27T23:03:38+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/board-members/lauren-foxpresident-2",
+      "title": "Jim Liddle - Upstate Foundation",
+      "meta_description": "connect@scupstatefoundation.org",
+      "canonical": "https://scupstatefoundation.org/board-members/lauren-foxpresident-2/",
+      "og_title": "Jim Liddle - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Jim  Liddle"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident-2/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                  "position": 2,
+                  "name": "Board Members",
+                  "item": "https://scupstatefoundation.org/board-members/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident-2/#listItem",
+                    "name": "Jim  Liddle"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident-2/#listItem",
+                  "position": 3,
+                  "name": "Jim  Liddle",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident-2/#webpage",
+              "url": "https://scupstatefoundation.org/board-members/lauren-foxpresident-2/",
+              "name": "Jim Liddle - Upstate Foundation",
+              "description": "connect@scupstatefoundation.org",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident-2/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Jim-Liddle-Headshot-scaled.jpg",
+                "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident-2/#mainImage",
+                "width": 1829,
+                "height": 2560
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-foxpresident-2/#mainImage"
+              },
+              "datePublished": "2025-07-15T18:39:56+00:00",
+              "dateModified": "2025-10-27T23:03:20+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4",
+      "title": "Mac Devine - Upstate Foundation",
+      "meta_description": "connect@scupstatefoundation.org",
+      "canonical": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/",
+      "og_title": "Mac Devine - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Mac  Devine"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                  "position": 2,
+                  "name": "Board Members",
+                  "item": "https://scupstatefoundation.org/board-members/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/#listItem",
+                    "name": "Mac  Devine"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/#listItem",
+                  "position": 3,
+                  "name": "Mac  Devine",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/#webpage",
+              "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/",
+              "name": "Mac Devine - Upstate Foundation",
+              "description": "connect@scupstatefoundation.org",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/mac-devine-1.webp",
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/#mainImage",
+                "width": 800,
+                "height": 800
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-4/#mainImage"
+              },
+              "datePublished": "2025-07-28T19:13:26+00:00",
+              "dateModified": "2025-10-27T22:59:28+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-5",
+      "title": "Carlos Avila - Upstate Foundation",
+      "meta_description": "connect@scupstatefoundation.org",
+      "canonical": "https://scupstatefoundation.org/board-members/lauren-fox-copy-5/",
+      "og_title": "Carlos Avila - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Carlos  Avila"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-5/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                  "position": 2,
+                  "name": "Board Members",
+                  "item": "https://scupstatefoundation.org/board-members/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-5/#listItem",
+                    "name": "Carlos  Avila"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-5/#listItem",
+                  "position": 3,
+                  "name": "Carlos  Avila",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-5/#webpage",
+              "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-5/",
+              "name": "Carlos Avila - Upstate Foundation",
+              "description": "connect@scupstatefoundation.org",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-5/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Carlos-Avila-1.jpeg",
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-5/#mainImage",
+                "width": 400,
+                "height": 600
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-5/#mainImage"
+              },
+              "datePublished": "2025-07-28T19:13:31+00:00",
+              "dateModified": "2025-10-27T22:59:02+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6",
+      "title": "John D. Adams - Upstate Foundation",
+      "meta_description": "connect@scupstatefoundation.org",
+      "canonical": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/",
+      "og_title": "John D. Adams - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "John D.  Adams"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                  "position": 2,
+                  "name": "Board Members",
+                  "item": "https://scupstatefoundation.org/board-members/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/#listItem",
+                    "name": "John D.  Adams"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/#listItem",
+                  "position": 3,
+                  "name": "John D.  Adams",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/#webpage",
+              "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/",
+              "name": "John D. Adams - Upstate Foundation",
+              "description": "connect@scupstatefoundation.org",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Layer-63.png",
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/#mainImage",
+                "width": 277,
+                "height": 319
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-6/#mainImage"
+              },
+              "datePublished": "2025-07-28T19:13:38+00:00",
+              "dateModified": "2025-10-27T22:56:52+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/board-members/danny-youngblood",
+      "title": "Danny Youngblood - Upstate Foundation",
+      "meta_description": "connect@scupstatefoundation.org",
+      "canonical": "https://scupstatefoundation.org/board-members/danny-youngblood/",
+      "og_title": "Danny Youngblood - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Danny  Youngblood"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/board-members/danny-youngblood/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                  "position": 2,
+                  "name": "Board Members",
+                  "item": "https://scupstatefoundation.org/board-members/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/danny-youngblood/#listItem",
+                    "name": "Danny  Youngblood"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/danny-youngblood/#listItem",
+                  "position": 3,
+                  "name": "Danny  Youngblood",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/board-members/danny-youngblood/#webpage",
+              "url": "https://scupstatefoundation.org/board-members/danny-youngblood/",
+              "name": "Danny Youngblood - Upstate Foundation",
+              "description": "connect@scupstatefoundation.org",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/board-members/danny-youngblood/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/10/Danny-Youngblood.jpg",
+                "@id": "https://scupstatefoundation.org/board-members/danny-youngblood/#mainImage",
+                "width": 988,
+                "height": 1318
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/board-members/danny-youngblood/#mainImage"
+              },
+              "datePublished": "2025-10-09T00:24:08+00:00",
+              "dateModified": "2025-10-27T22:55:37+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-copy",
+      "title": "Pastor John Adams - Upstate Foundation",
+      "meta_description": "connect@scupstatefoundation.org",
+      "canonical": "https://scupstatefoundation.org/board-members/lauren-fox-copy-copy/",
+      "og_title": "Pastor John Adams - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Pastor John  Adams"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-copy/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                  "position": 2,
+                  "name": "Board Members",
+                  "item": "https://scupstatefoundation.org/board-members/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-copy/#listItem",
+                    "name": "Pastor John  Adams"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-copy/#listItem",
+                  "position": 3,
+                  "name": "Pastor John  Adams",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Board Members"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-copy/#webpage",
+              "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-copy/",
+              "name": "Pastor John Adams - Upstate Foundation",
+              "description": "connect@scupstatefoundation.org",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-copy/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/John-Adams-1.jpg",
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-copy/#mainImage",
+                "width": 500,
+                "height": 623
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-copy/#mainImage"
+              },
+              "datePublished": "2025-07-28T19:14:22+00:00",
+              "dateModified": "2025-10-27T22:54:58+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/impact-stories/experiential-learning",
+      "title": "Experiential Learning - Upstate Foundation",
+      "meta_description": "",
+      "canonical": "https://scupstatefoundation.org/impact-stories/experiential-learning/",
+      "og_title": "Experiential Learning - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Experiential Learning"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/impact-stories/experiential-learning/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                    "name": "Impact Stories"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                  "position": 2,
+                  "name": "Impact Stories",
+                  "item": "https://scupstatefoundation.org/impact-stories/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/impact-stories/experiential-learning/#listItem",
+                    "name": "Experiential Learning"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/impact-stories/experiential-learning/#listItem",
+                  "position": 3,
+                  "name": "Experiential Learning",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                    "name": "Impact Stories"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/impact-stories/experiential-learning/#webpage",
+              "url": "https://scupstatefoundation.org/impact-stories/experiential-learning/",
+              "name": "Experiential Learning - Upstate Foundation",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/impact-stories/experiential-learning/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/10/Th-2.png",
+                "@id": "https://scupstatefoundation.org/impact-stories/experiential-learning/#mainImage",
+                "width": 586,
+                "height": 456
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/impact-stories/experiential-learning/#mainImage"
+              },
+              "datePublished": "2025-07-15T21:16:16+00:00",
+              "dateModified": "2025-10-22T19:37:19+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/impact-stories/all-means-all",
+      "title": "All Means All - Upstate Foundation",
+      "meta_description": "",
+      "canonical": "https://scupstatefoundation.org/impact-stories/all-means-all/",
+      "og_title": "All Means All - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "All Means All"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/impact-stories/all-means-all/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                    "name": "Impact Stories"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                  "position": 2,
+                  "name": "Impact Stories",
+                  "item": "https://scupstatefoundation.org/impact-stories/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/impact-stories/all-means-all/#listItem",
+                    "name": "All Means All"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/impact-stories/all-means-all/#listItem",
+                  "position": 3,
+                  "name": "All Means All",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                    "name": "Impact Stories"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/impact-stories/all-means-all/#webpage",
+              "url": "https://scupstatefoundation.org/impact-stories/all-means-all/",
+              "name": "All Means All - Upstate Foundation",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/impact-stories/all-means-all/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Layer-25.png",
+                "@id": "https://scupstatefoundation.org/impact-stories/all-means-all/#mainImage",
+                "width": 367,
+                "height": 206
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/impact-stories/all-means-all/#mainImage"
+              },
+              "datePublished": "2025-07-15T21:21:40+00:00",
+              "dateModified": "2025-09-26T23:27:32+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/impact-stories/volunteering-time",
+      "title": "Volunteering time - Upstate Foundation",
+      "meta_description": "",
+      "canonical": "https://scupstatefoundation.org/impact-stories/volunteering-time/",
+      "og_title": "Volunteering time - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Volunteering time"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/impact-stories/volunteering-time/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                    "name": "Impact Stories"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                  "position": 2,
+                  "name": "Impact Stories",
+                  "item": "https://scupstatefoundation.org/impact-stories/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/impact-stories/volunteering-time/#listItem",
+                    "name": "Volunteering time"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/impact-stories/volunteering-time/#listItem",
+                  "position": 3,
+                  "name": "Volunteering time",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                    "name": "Impact Stories"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/impact-stories/volunteering-time/#webpage",
+              "url": "https://scupstatefoundation.org/impact-stories/volunteering-time/",
+              "name": "Volunteering time - Upstate Foundation",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/impact-stories/volunteering-time/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Layer-55.png",
+                "@id": "https://scupstatefoundation.org/impact-stories/volunteering-time/#mainImage",
+                "width": 367,
+                "height": 206
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/impact-stories/volunteering-time/#mainImage"
+              },
+              "datePublished": "2025-07-15T21:22:08+00:00",
+              "dateModified": "2025-09-26T23:26:35+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/impact-stories/special-education",
+      "title": "Special Education - Upstate Foundation",
+      "meta_description": "",
+      "canonical": "https://scupstatefoundation.org/impact-stories/special-education/",
+      "og_title": "Special Education - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Special Education"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/impact-stories/special-education/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                    "name": "Impact Stories"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                  "position": 2,
+                  "name": "Impact Stories",
+                  "item": "https://scupstatefoundation.org/impact-stories/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/impact-stories/special-education/#listItem",
+                    "name": "Special Education"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/impact-stories/special-education/#listItem",
+                  "position": 3,
+                  "name": "Special Education",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                    "name": "Impact Stories"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scupstatefoundation.org/impact-stories/special-education/#webpage",
+              "url": "https://scupstatefoundation.org/impact-stories/special-education/",
+              "name": "Special Education - Upstate Foundation",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/impact-stories/special-education/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Layer-30.png",
+                "@id": "https://scupstatefoundation.org/impact-stories/special-education/#mainImage",
+                "width": 367,
+                "height": 206
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scupstatefoundation.org/impact-stories/special-education/#mainImage"
+              },
+              "datePublished": "2025-07-15T21:21:21+00:00",
+              "dateModified": "2025-07-15T21:21:21+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/board-members",
+      "title": "Board Members - Upstate Foundation",
+      "meta_description": "",
+      "canonical": "https://scupstatefoundation.org/board-members/",
+      "og_title": "Board Members - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Board Members"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/board-members/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Archives for "
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                  "position": 2,
+                  "name": "Archives for ",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://scupstatefoundation.org/board-members/#collectionpage",
+              "url": "https://scupstatefoundation.org/board-members/",
+              "name": "Board Members - Upstate Foundation",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/board-members/#breadcrumblist"
+              }
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/impact-stories",
+      "title": "Impact Stories - Upstate Foundation",
+      "meta_description": "",
+      "canonical": "https://scupstatefoundation.org/impact-stories/",
+      "og_title": "Impact Stories - Upstate Foundation",
+      "og_image": "",
+      "h1": [
+        "Impact Stories"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/impact-stories/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                    "name": "Archives for "
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                  "position": 2,
+                  "name": "Archives for ",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://scupstatefoundation.org/impact-stories/#collectionpage",
+              "url": "https://scupstatefoundation.org/impact-stories/",
+              "name": "Impact Stories - Upstate Foundation",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/impact-stories/#breadcrumblist"
+              }
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/category/uncategorized",
+      "title": "Uncategorized - Upstate Foundation",
+      "meta_description": "",
+      "canonical": "https://scupstatefoundation.org/category/uncategorized/",
+      "og_title": "",
+      "og_image": "",
+      "h1": [
+        "Uncategorized"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/category/uncategorized/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/category/uncategorized/#listItem",
+                    "name": "Uncategorized"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/category/uncategorized/#listItem",
+                  "position": 2,
+                  "name": "Uncategorized",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://scupstatefoundation.org/category/uncategorized/#collectionpage",
+              "url": "https://scupstatefoundation.org/category/uncategorized/",
+              "name": "Uncategorized - Upstate Foundation",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/category/uncategorized/#breadcrumblist"
+              }
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/author/admin",
+      "title": "admin - Upstate Foundation",
+      "meta_description": "",
+      "canonical": "https://scupstatefoundation.org/author/admin/",
+      "og_title": "",
+      "og_image": "",
+      "h1": [
+        "Author name: admin"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/author/admin/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/author/admin/#listItem",
+                    "name": "admin"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/author/admin/#listItem",
+                  "position": 2,
+                  "name": "admin",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://scupstatefoundation.org/author/admin/#author",
+              "url": "https://scupstatefoundation.org/author/admin/",
+              "name": "admin",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://scupstatefoundation.org/author/admin/#authorImage",
+                "url": "https://secure.gravatar.com/avatar/0f9feeddfe460dee938514e6dc93c99bd8b302b4311ad8a5d70c00efc5a93620?s=96&d=mm&r=g",
+                "width": 96,
+                "height": 96,
+                "caption": "admin"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://scupstatefoundation.org/author/admin/#profilepage"
+              }
+            },
+            {
+              "@type": "ProfilePage",
+              "@id": "https://scupstatefoundation.org/author/admin/#profilepage",
+              "url": "https://scupstatefoundation.org/author/admin/",
+              "name": "admin - Upstate Foundation",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/author/admin/#breadcrumblist"
+              },
+              "dateCreated": "2025-07-11T17:06:04+00:00",
+              "mainEntity": {
+                "@id": "https://scupstatefoundation.org/author/admin/#author"
+              }
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://scupstatefoundation.org/board-members/page/2",
+      "title": "Board Members - Upstate Foundation - Page 2",
+      "meta_description": "",
+      "canonical": "https://scupstatefoundation.org/board-members/page/2/",
+      "og_title": "Board Members - Upstate Foundation - Page 2",
+      "og_image": "",
+      "h1": [
+        "Board Members"
+      ],
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scupstatefoundation.org/board-members/page/2/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scupstatefoundation.org",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Archives for "
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                  "position": 2,
+                  "name": "Archives for ",
+                  "item": "https://scupstatefoundation.org/board-members/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/page/2#listItem",
+                    "name": "Page 2"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://scupstatefoundation.org/board-members/page/2#listItem",
+                  "position": 3,
+                  "name": "Page 2",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                    "name": "Archives for "
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://scupstatefoundation.org/board-members/page/2/#collectionpage",
+              "url": "https://scupstatefoundation.org/board-members/page/2/",
+              "name": "Board Members - Upstate Foundation - Page 2",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://scupstatefoundation.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://scupstatefoundation.org/board-members/page/2/#breadcrumblist"
+              }
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scupstatefoundation.org/#organization",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "url": "https://scupstatefoundation.org/"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scupstatefoundation.org/#website",
+              "url": "https://scupstatefoundation.org/",
+              "name": "Upstate Foundation",
+              "description": "Education & Opportunity",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://scupstatefoundation.org/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

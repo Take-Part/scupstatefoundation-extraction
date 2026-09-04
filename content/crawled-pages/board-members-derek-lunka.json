@@ -1,0 +1,121 @@
+{
+  "url": "https://scupstatefoundation.org/board-members/derek-lunka",
+  "slug": "board-members--derek-lunka",
+  "title": "Amy Smith - Upstate Foundation",
+  "meta_description": "connect@scupstatefoundation.org",
+  "canonical": "https://scupstatefoundation.org/board-members/derek-lunka/",
+  "og_title": "Amy Smith - Upstate Foundation",
+  "og_description": "connect@scupstatefoundation.org",
+  "og_image": "",
+  "h1": [
+    "Amy  Smith"
+  ],
+  "h2": [
+    "Quick Links",
+    "Get In Touch",
+    "Join the Building Bridges Newsletter",
+    "Privacy Policy",
+    "|",
+    "Imprint"
+  ],
+  "h3": [],
+  "body_text": "Amy  Smith By admin / July 15, 2025 Amy has led marketing and communications at flagship universities and for Global Fortune 500 companies. At Vianovo, she counsels management teams, boards, and public leaders on strategy, brand positioning, communications campaigns, media engagement, issue management, and crisis response. Amy previously served as Chief Marketing and Communications Officer at Clemson and, before that at Texas A&M. Her time at each university contributed to record-breaking brand awareness, enrollment demand, media engagement, student success, fundraising, and research grants. Earlier in her career, Amy held leadership roles at companies in the defense and technology sectors, serving as vice president at Raytheon (now RTX), a Fortune 100 company, and at Invensys plc, a U.K. FTSE 100/Fortune 500 company. In 2004, Amy served a one-year appointment at the U.S. Department of Defense as Director of Communications for the U.S. Army’s Program Management Office in Iraq, for which she was awarded the Joint Civilian Meritorious Medal. Amy is a guest lecturer at Columbia Journalism School and serves on the boards of the Legacy Mission, a nonprofit that creates hopeful videos for those facing illnesses at no charge to families, and the Washington Political Film Foundation, a nonpartisan organization which serves to advance the cause of civil discourse through the medium of film. Amy earned a bachelor’s degree in political science from Clemson University, a Master of International Management from Thunderbird Global Graduate School, a Master of Public Service Administration at Texas A&M University, and a Channels-to-Market certificate from Harvard Business School.",
+  "content_html": "<main class=\"site-main\" id=\"main\">\n<article class=\"post-244 board_members type-board_members status-publish has-post-thumbnail hentry ast-article-single\" id=\"post-244\" itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\">\n<div class=\"ast-post-format- single-layout-1\">\n<header class=\"entry-header\">\n<h1 class=\"entry-title\" itemprop=\"headline\">Amy  Smith</h1><div class=\"entry-meta\">By <span class=\"posted-by vcard author\" itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\"> <a class=\"url fn n\" href=\"https://scupstatefoundation.org/author/admin/\" itemprop=\"url\" rel=\"author\" title=\"View all posts by admin\">\n<span class=\"author-name\" itemprop=\"name\">\n\t\t\t\tadmin\t\t\t</span>\n</a>\n</span>\n\n\t\t / <span class=\"posted-on\"><span class=\"published\" itemprop=\"datePublished\"> July 15, 2025 </span></span></div>\n</header><!-- .entry-header -->\n<div class=\"entry-content clear\" itemprop=\"text\">\n<p>Amy has led marketing and communications at flagship universities and for Global Fortune 500 companies. At Vianovo, she counsels management teams, boards, and public leaders on strategy, brand positioning, communications campaigns, media engagement, issue management, and crisis response.</p>\n<p>Amy previously served as Chief Marketing and Communications Officer at Clemson and, before that at Texas A&amp;M. Her time at each university contributed to record-breaking brand awareness, enrollment demand, media engagement, student success, fundraising, and research grants.</p>\n<p>Earlier in her career, Amy held leadership roles at companies in the defense and technology sectors, serving as vice president at Raytheon (now RTX), a Fortune 100 company, and at Invensys plc, a U.K. FTSE 100/Fortune 500 company.</p>\n<p>In 2004, Amy served a one-year appointment at the U.S. Department of Defense as Director of Communications for the U.S. Army’s Program Management Office in Iraq, for which she was awarded the Joint Civilian Meritorious Medal.</p>\n<p>Amy is a guest lecturer at Columbia Journalism School and serves on the boards of the Legacy Mission, a nonprofit that creates hopeful videos for those facing illnesses at no charge to families, and the Washington Political Film Foundation, a nonpartisan organization which serves to advance the cause of civil discourse through the medium of film.</p>\n<p>Amy earned a bachelor’s degree in political science from Clemson University, a Master of International Management from Thunderbird Global Graduate School, a Master of Public Service Administration at Texas A&amp;M University, and a Channels-to-Market certificate from Harvard Business School.</p>\n</div><!-- .entry-content .clear -->\n</div>\n</article><!-- #post-## -->\n </main>",
+  "schema_org": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://scupstatefoundation.org/board-members/derek-lunka/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://scupstatefoundation.org",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/#listItem",
+              "position": 2,
+              "name": "Board Members",
+              "item": "https://scupstatefoundation.org/board-members/",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/derek-lunka/#listItem",
+                "name": "Amy  Smith"
+              },
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org#listItem",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/derek-lunka/#listItem",
+              "position": 3,
+              "name": "Amy  Smith",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://scupstatefoundation.org/#organization",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "url": "https://scupstatefoundation.org/"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://scupstatefoundation.org/board-members/derek-lunka/#webpage",
+          "url": "https://scupstatefoundation.org/board-members/derek-lunka/",
+          "name": "Amy Smith - Upstate Foundation",
+          "description": "connect@scupstatefoundation.org",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://scupstatefoundation.org/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://scupstatefoundation.org/board-members/derek-lunka/#breadcrumblist"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/amy-smith-1.jpeg",
+            "@id": "https://scupstatefoundation.org/board-members/derek-lunka/#mainImage",
+            "width": 960,
+            "height": 540
+          },
+          "primaryImageOfPage": {
+            "@id": "https://scupstatefoundation.org/board-members/derek-lunka/#mainImage"
+          },
+          "datePublished": "2025-07-15T17:53:42+00:00",
+          "dateModified": "2025-10-27T23:06:21+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scupstatefoundation.org/#website",
+          "url": "https://scupstatefoundation.org/",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://scupstatefoundation.org/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}

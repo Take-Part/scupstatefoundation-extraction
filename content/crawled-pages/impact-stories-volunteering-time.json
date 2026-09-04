@@ -1,0 +1,120 @@
+{
+  "url": "https://scupstatefoundation.org/impact-stories/volunteering-time",
+  "slug": "impact-stories--volunteering-time",
+  "title": "Volunteering time - Upstate Foundation",
+  "meta_description": "",
+  "canonical": "https://scupstatefoundation.org/impact-stories/volunteering-time/",
+  "og_title": "Volunteering time - Upstate Foundation",
+  "og_description": "",
+  "og_image": "",
+  "h1": [
+    "Volunteering time"
+  ],
+  "h2": [
+    "Quick Links",
+    "Get In Touch",
+    "Join the Building Bridges Newsletter",
+    "Privacy Policy",
+    "|",
+    "Imprint"
+  ],
+  "h3": [],
+  "body_text": "Volunteering time By admin / July 15, 2025",
+  "content_html": "<main class=\"site-main\" id=\"main\">\n<article class=\"post-321 impact_stories type-impact_stories status-publish has-post-thumbnail hentry ast-article-single\" id=\"post-321\" itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\">\n<div class=\"ast-post-format- single-layout-1\">\n<header class=\"entry-header\">\n<h1 class=\"entry-title\" itemprop=\"headline\">Volunteering time</h1><div class=\"entry-meta\">By <span class=\"posted-by vcard author\" itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\"> <a class=\"url fn n\" href=\"https://scupstatefoundation.org/author/admin/\" itemprop=\"url\" rel=\"author\" title=\"View all posts by admin\">\n<span class=\"author-name\" itemprop=\"name\">\n\t\t\t\tadmin\t\t\t</span>\n</a>\n</span>\n\n\t\t / <span class=\"posted-on\"><span class=\"published\" itemprop=\"datePublished\"> July 15, 2025 </span></span></div>\n</header><!-- .entry-header -->\n<div class=\"entry-content clear\" itemprop=\"text\">\n</div><!-- .entry-content .clear -->\n</div>\n</article><!-- #post-## -->\n </main>",
+  "schema_org": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://scupstatefoundation.org/impact-stories/volunteering-time/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://scupstatefoundation.org",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                "name": "Impact Stories"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+              "position": 2,
+              "name": "Impact Stories",
+              "item": "https://scupstatefoundation.org/impact-stories/",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/impact-stories/volunteering-time/#listItem",
+                "name": "Volunteering time"
+              },
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org#listItem",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/impact-stories/volunteering-time/#listItem",
+              "position": 3,
+              "name": "Volunteering time",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/impact-stories/#listItem",
+                "name": "Impact Stories"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://scupstatefoundation.org/#organization",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "url": "https://scupstatefoundation.org/"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://scupstatefoundation.org/impact-stories/volunteering-time/#webpage",
+          "url": "https://scupstatefoundation.org/impact-stories/volunteering-time/",
+          "name": "Volunteering time - Upstate Foundation",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://scupstatefoundation.org/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://scupstatefoundation.org/impact-stories/volunteering-time/#breadcrumblist"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Layer-55.png",
+            "@id": "https://scupstatefoundation.org/impact-stories/volunteering-time/#mainImage",
+            "width": 367,
+            "height": 206
+          },
+          "primaryImageOfPage": {
+            "@id": "https://scupstatefoundation.org/impact-stories/volunteering-time/#mainImage"
+          },
+          "datePublished": "2025-07-15T21:22:08+00:00",
+          "dateModified": "2025-09-26T23:26:35+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scupstatefoundation.org/#website",
+          "url": "https://scupstatefoundation.org/",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://scupstatefoundation.org/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}

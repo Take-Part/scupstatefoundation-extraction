@@ -1,0 +1,92 @@
+{
+  "url": "https://scupstatefoundation.org/?elementskit_template=footer",
+  "slug": "home",
+  "title": "footer - Upstate Foundation",
+  "meta_description": "Facebook-f Linkedin-in Instagram Tiktok Quick Links Share your talent Share your time Share your treasure Get In Touch 1348 Griffin Mill Rd Easley, SC 29640, USA 864-397-1000 connect@scUpstateFoundation.org Upstate Education + Opportunity Foundation is a 501(c)(3) supporting the School District of Pickens County. EIN 46-3113620 Join the Building Bridges Newsletter Copyrights © 2025 Upstate Education & Opportunity",
+  "canonical": "https://scupstatefoundation.org/?elementskit_template=footer",
+  "og_title": "footer - Upstate Foundation",
+  "og_description": "Facebook-f Linkedin-in Instagram Tiktok Quick Links Share your talent Share your time Share your treasure Get In Touch 1348 Griffin Mill Rd Easley, SC 29640, USA 864-397-1000 connect@scUpstateFoundation.org Upstate Education + Opportunity Foundation is a 501(c)(3) supporting the School District of Pickens County. EIN 46-3113620 Join the Building Bridges Newsletter Copyrights © 2025 Upstate Education & Opportunity",
+  "og_image": "",
+  "h1": [],
+  "h2": [
+    "Quick Links",
+    "Get In Touch",
+    "Join the Building Bridges Newsletter",
+    "Privacy Policy",
+    "|",
+    "Imprint"
+  ],
+  "h3": [],
+  "body_text": "Facebook-f Linkedin-in Instagram Tiktok Quick Links Share your talent Share your time Share your treasure Get In Touch 1348 Griffin Mill Rd Easley, SC 29640, USA 864-397-1000 connect@scUpstateFoundation.org Upstate Education + Opportunity Foundation is a 501(c)(3) supporting the School District of Pickens County. EIN 46-3113620 Join the Building Bridges Newsletter Copyrights © 2025 Upstate Education & Opportunity Foundation | All Rights Reserved Privacy Policy | Imprint",
+  "content_html": "",
+  "schema_org": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://scupstatefoundation.org/?elementskit_template=footer#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://scupstatefoundation.org",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/?elementskit_template=footer#listItem",
+                "name": "footer"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/?elementskit_template=footer#listItem",
+              "position": 2,
+              "name": "footer",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org#listItem",
+                "name": "Home"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://scupstatefoundation.org/#organization",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "url": "https://scupstatefoundation.org/"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://scupstatefoundation.org/?elementskit_template=footer#webpage",
+          "url": "https://scupstatefoundation.org/?elementskit_template=footer",
+          "name": "footer - Upstate Foundation",
+          "description": "Facebook-f Linkedin-in Instagram Tiktok Quick Links Share your talent Share your time Share your treasure Get In Touch 1348 Griffin Mill Rd Easley, SC 29640, USA 864-397-1000 connect@scUpstateFoundation.org Upstate Education + Opportunity Foundation is a 501(c)(3) supporting the School District of Pickens County. EIN 46-3113620 Join the Building Bridges Newsletter Copyrights © 2025 Upstate Education & Opportunity",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://scupstatefoundation.org/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://scupstatefoundation.org/?elementskit_template=footer#breadcrumblist"
+          },
+          "datePublished": "2025-07-14T17:51:49+00:00",
+          "dateModified": "2025-12-08T17:57:49+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scupstatefoundation.org/#website",
+          "url": "https://scupstatefoundation.org/",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://scupstatefoundation.org/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}

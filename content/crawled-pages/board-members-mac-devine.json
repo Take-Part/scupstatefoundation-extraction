@@ -1,0 +1,121 @@
+{
+  "url": "https://scupstatefoundation.org/board-members/mac-devine",
+  "slug": "board-members--mac-devine",
+  "title": "Derek Lunka - Upstate Foundation",
+  "meta_description": "connect@scupstatefoundation.org",
+  "canonical": "https://scupstatefoundation.org/board-members/mac-devine/",
+  "og_title": "Derek Lunka - Upstate Foundation",
+  "og_description": "connect@scupstatefoundation.org",
+  "og_image": "",
+  "h1": [
+    "Derek Lunka"
+  ],
+  "h2": [
+    "Quick Links",
+    "Get In Touch",
+    "Join the Building Bridges Newsletter",
+    "Privacy Policy",
+    "|",
+    "Imprint"
+  ],
+  "h3": [],
+  "body_text": "Derek Lunka By admin / July 15, 2025 Derek is the principal and co-founder of Lakenorth Investment Group, a boutique financial services firm based in Six Mile. A 2008 graduate of Baylor University, he earned his CFP® certification in 2016. As Pickens County residents with two children in local schools, Derek and his wife, Lauren, are deeply committed to cultivating lifelong opportunity for our region’s youth by investing in their education.",
+  "content_html": "<main class=\"site-main\" id=\"main\">\n<article class=\"post-248 board_members type-board_members status-publish has-post-thumbnail hentry ast-article-single\" id=\"post-248\" itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\">\n<div class=\"ast-post-format- single-layout-1\">\n<header class=\"entry-header\">\n<h1 class=\"entry-title\" itemprop=\"headline\">Derek Lunka</h1><div class=\"entry-meta\">By <span class=\"posted-by vcard author\" itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\"> <a class=\"url fn n\" href=\"https://scupstatefoundation.org/author/admin/\" itemprop=\"url\" rel=\"author\" title=\"View all posts by admin\">\n<span class=\"author-name\" itemprop=\"name\">\n\t\t\t\tadmin\t\t\t</span>\n</a>\n</span>\n\n\t\t / <span class=\"posted-on\"><span class=\"published\" itemprop=\"datePublished\"> July 15, 2025 </span></span></div>\n</header><!-- .entry-header -->\n<div class=\"entry-content clear\" itemprop=\"text\">\n<p>Derek is the principal and co-founder of Lakenorth Investment Group, a boutique financial services firm based in Six Mile.</p>\n<p>A 2008 graduate of Baylor University, he earned his CFP® certification in 2016.</p>\n<p>As Pickens County residents with two children in local schools, Derek and his wife, Lauren, are deeply committed to cultivating lifelong opportunity for our region’s youth by investing in their education.</p>\n</div><!-- .entry-content .clear -->\n</div>\n</article><!-- #post-## -->\n </main>",
+  "schema_org": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://scupstatefoundation.org/board-members/mac-devine/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://scupstatefoundation.org",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/#listItem",
+              "position": 2,
+              "name": "Board Members",
+              "item": "https://scupstatefoundation.org/board-members/",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/mac-devine/#listItem",
+                "name": "Derek Lunka"
+              },
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org#listItem",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/mac-devine/#listItem",
+              "position": 3,
+              "name": "Derek Lunka",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://scupstatefoundation.org/#organization",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "url": "https://scupstatefoundation.org/"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://scupstatefoundation.org/board-members/mac-devine/#webpage",
+          "url": "https://scupstatefoundation.org/board-members/mac-devine/",
+          "name": "Derek Lunka - Upstate Foundation",
+          "description": "connect@scupstatefoundation.org",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://scupstatefoundation.org/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://scupstatefoundation.org/board-members/mac-devine/#breadcrumblist"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Derek-Lunka-scaled.jpg",
+            "@id": "https://scupstatefoundation.org/board-members/mac-devine/#mainImage",
+            "width": 2057,
+            "height": 2560
+          },
+          "primaryImageOfPage": {
+            "@id": "https://scupstatefoundation.org/board-members/mac-devine/#mainImage"
+          },
+          "datePublished": "2025-07-15T17:58:29+00:00",
+          "dateModified": "2025-10-27T23:04:13+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scupstatefoundation.org/#website",
+          "url": "https://scupstatefoundation.org/",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://scupstatefoundation.org/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}

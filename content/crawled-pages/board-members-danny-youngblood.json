@@ -1,0 +1,121 @@
+{
+  "url": "https://scupstatefoundation.org/board-members/danny-youngblood",
+  "slug": "board-members--danny-youngblood",
+  "title": "Danny Youngblood - Upstate Foundation",
+  "meta_description": "connect@scupstatefoundation.org",
+  "canonical": "https://scupstatefoundation.org/board-members/danny-youngblood/",
+  "og_title": "Danny Youngblood - Upstate Foundation",
+  "og_description": "connect@scupstatefoundation.org",
+  "og_image": "",
+  "h1": [
+    "Danny  Youngblood"
+  ],
+  "h2": [
+    "Quick Links",
+    "Get In Touch",
+    "Join the Building Bridges Newsletter",
+    "Privacy Policy",
+    "|",
+    "Imprint"
+  ],
+  "h3": [],
+  "body_text": "Danny  Youngblood By admin / October 9, 2025 Danny is a Pickens County native and a 1977 Graduate of Clemson University. He started Century 21 YoungbloodCompany in 1978, grew it into five offices with over 200 agents in Upstate South Carolina, and sold it in 1998. He started Youngblood Development in 1981 and has developed over 40 residential communities plus several commercial and medical properties. He is currently the chairman of Youngblood Corporation. Danny serves on the Tri County Tech Foundation Board. He previously served on the Clemson Board of Visitors, is past president of South Carolina Association of Realtors, and was the founding chairman of Alliance Pickens. Most importantly he is married to Lynn Youngblood, has four children and three grandchildren",
+  "content_html": "<main class=\"site-main\" id=\"main\">\n<article class=\"post-3414 board_members type-board_members status-publish has-post-thumbnail hentry ast-article-single\" id=\"post-3414\" itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\">\n<div class=\"ast-post-format- single-layout-1\">\n<header class=\"entry-header\">\n<h1 class=\"entry-title\" itemprop=\"headline\">Danny  Youngblood</h1><div class=\"entry-meta\">By <span class=\"posted-by vcard author\" itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\"> <a class=\"url fn n\" href=\"https://scupstatefoundation.org/author/admin/\" itemprop=\"url\" rel=\"author\" title=\"View all posts by admin\">\n<span class=\"author-name\" itemprop=\"name\">\n\t\t\t\tadmin\t\t\t</span>\n</a>\n</span>\n\n\t\t / <span class=\"posted-on\"><span class=\"published\" itemprop=\"datePublished\"> October 9, 2025 </span></span></div>\n</header><!-- .entry-header -->\n<div class=\"entry-content clear\" itemprop=\"text\">\n<p>Danny is a Pickens County native and a 1977 Graduate of Clemson University. He started Century 21 YoungbloodCompany in 1978, grew it into five offices with over 200 agents in Upstate South Carolina, and sold it in 1998. He started Youngblood Development in 1981 and has developed over 40 residential communities plus several commercial and medical properties. He is currently the chairman of Youngblood Corporation.</p>\n<p>Danny serves on the Tri County Tech Foundation Board. He previously served on the Clemson Board of Visitors, is past president of South Carolina Association of Realtors, and was the founding chairman of Alliance Pickens.</p>\n<p>Most importantly he is married to Lynn Youngblood, has four children and three grandchildren</p>\n</div><!-- .entry-content .clear -->\n</div>\n</article><!-- #post-## -->\n </main>",
+  "schema_org": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://scupstatefoundation.org/board-members/danny-youngblood/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://scupstatefoundation.org",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/#listItem",
+              "position": 2,
+              "name": "Board Members",
+              "item": "https://scupstatefoundation.org/board-members/",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/danny-youngblood/#listItem",
+                "name": "Danny  Youngblood"
+              },
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org#listItem",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/danny-youngblood/#listItem",
+              "position": 3,
+              "name": "Danny  Youngblood",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://scupstatefoundation.org/#organization",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "url": "https://scupstatefoundation.org/"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://scupstatefoundation.org/board-members/danny-youngblood/#webpage",
+          "url": "https://scupstatefoundation.org/board-members/danny-youngblood/",
+          "name": "Danny Youngblood - Upstate Foundation",
+          "description": "connect@scupstatefoundation.org",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://scupstatefoundation.org/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://scupstatefoundation.org/board-members/danny-youngblood/#breadcrumblist"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://scupstatefoundation.org/wp-content/uploads/2025/10/Danny-Youngblood.jpg",
+            "@id": "https://scupstatefoundation.org/board-members/danny-youngblood/#mainImage",
+            "width": 988,
+            "height": 1318
+          },
+          "primaryImageOfPage": {
+            "@id": "https://scupstatefoundation.org/board-members/danny-youngblood/#mainImage"
+          },
+          "datePublished": "2025-10-09T00:24:08+00:00",
+          "dateModified": "2025-10-27T22:55:37+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scupstatefoundation.org/#website",
+          "url": "https://scupstatefoundation.org/",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://scupstatefoundation.org/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}

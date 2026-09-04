@@ -1,0 +1,424 @@
+{
+  "total_colors": 78,
+  "confirmed_brand_colors": 22,
+  "review_recommended": 43,
+  "possible_artifacts": 9,
+  "unverified": 4,
+  "screenshot_palette_size": 413,
+  "tolerance_used": 30.0,
+  "confirmed": [
+    {
+      "hex": "#fff",
+      "occurrences": 1023
+    },
+    {
+      "hex": "#85b559",
+      "occurrences": 757
+    },
+    {
+      "hex": "#000",
+      "occurrences": 515
+    },
+    {
+      "hex": "#87b55e",
+      "occurrences": 359
+    },
+    {
+      "hex": "#999",
+      "occurrences": 228
+    },
+    {
+      "hex": "#666",
+      "occurrences": 184
+    },
+    {
+      "hex": "#475569",
+      "occurrences": 180
+    },
+    {
+      "hex": "#001e53",
+      "occurrences": 148
+    },
+    {
+      "hex": "#334155",
+      "occurrences": 90
+    },
+    {
+      "hex": "#79a354",
+      "occurrences": 90
+    },
+    {
+      "hex": "#435c3d",
+      "occurrences": 90
+    },
+    {
+      "hex": "#ccc",
+      "occurrences": 69
+    },
+    {
+      "hex": "#eee",
+      "occurrences": 49
+    },
+    {
+      "hex": "#fff5cb",
+      "occurrences": 45
+    },
+    {
+      "hex": "#001740",
+      "occurrences": 21
+    },
+    {
+      "hex": "#425770",
+      "occurrences": 12
+    },
+    {
+      "hex": "#ddd",
+      "occurrences": 9
+    },
+    {
+      "hex": "#777",
+      "occurrences": 9
+    },
+    {
+      "hex": "#333",
+      "occurrences": 5
+    },
+    {
+      "hex": "#5cb85c",
+      "occurrences": 3
+    },
+    {
+      "hex": "#0d3a4f",
+      "occurrences": 3
+    },
+    {
+      "hex": "#123075",
+      "occurrences": 3
+    }
+  ],
+  "borderline": [
+    {
+      "hex": "#046bd2",
+      "closest_screenshot_color": "#3f5a69",
+      "distance": 49.7,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#ff6900",
+      "closest_screenshot_color": "#af7159",
+      "distance": 53.4,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#0693e3",
+      "closest_screenshot_color": "#67878c",
+      "distance": 61.3,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#045cb4",
+      "closest_screenshot_color": "#105844",
+      "distance": 38.5,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#cf2e2e",
+      "closest_screenshot_color": "#9f6947",
+      "distance": 52.9,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#fcb900",
+      "closest_screenshot_color": "#dcc3a7",
+      "distance": 59.5,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#9b51e0",
+      "closest_screenshot_color": "#85776f",
+      "distance": 49.5,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#8e0e12",
+      "closest_screenshot_color": "#770b17",
+      "distance": 12.9,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#00d084",
+      "closest_screenshot_color": "#6fba68",
+      "distance": 63.7,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#020381",
+      "closest_screenshot_color": "#00184f",
+      "distance": 23.3,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#2874fc",
+      "closest_screenshot_color": "#506a72",
+      "distance": 52.0,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#dc2626",
+      "closest_screenshot_color": "#770b17",
+      "distance": 59.2,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#f78da7",
+      "closest_screenshot_color": "#c5a693",
+      "distance": 34.1,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#7bdcb5",
+      "closest_screenshot_color": "#9ebfa2",
+      "distance": 30.0,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#8ed1fc",
+      "closest_screenshot_color": "#9ebfa2",
+      "distance": 34.5,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#7adcb4",
+      "closest_screenshot_color": "#9ebfa2",
+      "distance": 30.3,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#00d082",
+      "closest_screenshot_color": "#6fba68",
+      "distance": 63.6,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#4aeadc",
+      "closest_screenshot_color": "#6fba68",
+      "distance": 57.4,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#9778d1",
+      "closest_screenshot_color": "#838385",
+      "distance": 29.1,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#cf2aba",
+      "closest_screenshot_color": "#af7159",
+      "distance": 65.9,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#ee2c82",
+      "closest_screenshot_color": "#af7159",
+      "distance": 64.6,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#fb6962",
+      "closest_screenshot_color": "#af7159",
+      "distance": 42.1,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#fef84c",
+      "closest_screenshot_color": "#ffefc8",
+      "distance": 42.4,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#ffceec",
+      "closest_screenshot_color": "#e0dfdf",
+      "distance": 21.8,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#9896f0",
+      "closest_screenshot_color": "#a0a09f",
+      "distance": 28.7,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#fecda5",
+      "closest_screenshot_color": "#dcc3a7",
+      "distance": 20.1,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#fe2d2d",
+      "closest_screenshot_color": "#af7159",
+      "distance": 69.3,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#6b003e",
+      "closest_screenshot_color": "#74000e",
+      "distance": 16.9,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#ffcb70",
+      "closest_screenshot_color": "#dcc3a7",
+      "distance": 27.4,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#c751c0",
+      "closest_screenshot_color": "#af7159",
+      "distance": 44.5,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#4158d0",
+      "closest_screenshot_color": "#52616f",
+      "distance": 34.7,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#b6e3d4",
+      "closest_screenshot_color": "#cdd3c9",
+      "distance": 18.0,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#33a7b5",
+      "closest_screenshot_color": "#67878c",
+      "distance": 40.0,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#caf880",
+      "closest_screenshot_color": "#dce5d5",
+      "distance": 33.7,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#71ce7e",
+      "closest_screenshot_color": "#6fba68",
+      "distance": 17.1,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#c2373b",
+      "closest_screenshot_color": "#9f6947",
+      "distance": 43.0,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#456723",
+      "closest_screenshot_color": "#476346",
+      "distance": 12.3,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#253f8e",
+      "closest_screenshot_color": "#1c375f",
+      "distance": 17.7,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#0c5adb",
+      "closest_screenshot_color": "#3f5a69",
+      "distance": 47.5,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#0274be",
+      "closest_screenshot_color": "#105844",
+      "distance": 47.1,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#2575fc",
+      "closest_screenshot_color": "#506a72",
+      "distance": 52.9,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#d9534f",
+      "closest_screenshot_color": "#af7159",
+      "distance": 32.7,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    },
+    {
+      "hex": "#5eead4",
+      "closest_screenshot_color": "#9ebfa2",
+      "distance": 50.9,
+      "note": "May be a small element (button, badge) not captured in quantization \u2014 verify manually"
+    }
+  ],
+  "flagged_artifacts": [
+    {
+      "hex": "#4b3fe1",
+      "closest_screenshot_color": "#3f5a69",
+      "distance": 46.0,
+      "occurrences": 4,
+      "note": "Not visible in any screenshot \u2014 likely plugin/admin/theme default"
+    },
+    {
+      "hex": "#07b787",
+      "closest_screenshot_color": "#6fba68",
+      "distance": 57.9,
+      "occurrences": 4,
+      "note": "Not visible in any screenshot \u2014 likely plugin/admin/theme default"
+    },
+    {
+      "hex": "#7ed500",
+      "closest_screenshot_color": "#87b759",
+      "distance": 38.2,
+      "occurrences": 4,
+      "note": "Not visible in any screenshot \u2014 likely plugin/admin/theme default"
+    },
+    {
+      "hex": "#21759b",
+      "closest_screenshot_color": "#506a72",
+      "distance": 30.4,
+      "occurrences": 3,
+      "note": "Not visible in any screenshot \u2014 likely plugin/admin/theme default"
+    },
+    {
+      "hex": "#4d68ff",
+      "closest_screenshot_color": "#506a72",
+      "distance": 47.7,
+      "occurrences": 3,
+      "note": "Not visible in any screenshot \u2014 likely plugin/admin/theme default"
+    },
+    {
+      "hex": "#dc3232",
+      "closest_screenshot_color": "#9f6947",
+      "distance": 54.2,
+      "occurrences": 3,
+      "note": "Not visible in any screenshot \u2014 likely plugin/admin/theme default"
+    },
+    {
+      "hex": "#ff4500",
+      "closest_screenshot_color": "#af7159",
+      "distance": 62.9,
+      "occurrences": 3,
+      "note": "Not visible in any screenshot \u2014 likely plugin/admin/theme default"
+    },
+    {
+      "hex": "#1da1f2",
+      "closest_screenshot_color": "#67878c",
+      "distance": 56.7,
+      "occurrences": 3,
+      "note": "Not visible in any screenshot \u2014 likely plugin/admin/theme default"
+    },
+    {
+      "hex": "#25d366",
+      "closest_screenshot_color": "#6fba68",
+      "distance": 44.8,
+      "occurrences": 3,
+      "note": "Not visible in any screenshot \u2014 likely plugin/admin/theme default"
+    }
+  ]
+}

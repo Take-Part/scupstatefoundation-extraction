@@ -1,0 +1,18 @@
+{
+  "domain": "scupstatefoundation.org",
+  "confirmed_at": "2026-09-01",
+  "palette": [
+    {
+      "hex": "#85b559",
+      "role": "Primary green"
+    },
+    {
+      "hex": "#87b55e",
+      "role": "Secondary green"
+    },
+    {
+      "hex": "#001e53",
+      "role": "Navy"
+    }
+  ]
+}

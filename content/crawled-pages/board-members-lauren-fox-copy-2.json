@@ -1,0 +1,121 @@
+{
+  "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2",
+  "slug": "board-members--lauren-fox-copy-2",
+  "title": "Lauren Fox - Upstate Foundation",
+  "meta_description": "connect@scupstatefoundation.org",
+  "canonical": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/",
+  "og_title": "Lauren Fox - Upstate Foundation",
+  "og_description": "connect@scupstatefoundation.org",
+  "og_image": "",
+  "h1": [
+    "Lauren  Fox"
+  ],
+  "h2": [
+    "Quick Links",
+    "Get In Touch",
+    "Join the Building Bridges Newsletter",
+    "Privacy Policy",
+    "|",
+    "Imprint"
+  ],
+  "h3": [],
+  "body_text": "Lauren  Fox By admin / July 28, 2025 Lauren is the President of the Upstate Education + Opportunity Foundation and the Director of Community Engagement for the School District of Pickens County. She collaborates with leaders throughout the Upstate to drive transformational educational growth, research, and community engagement. Before transitioning into to K-12 education, Lauren worked for Clemson University to support the implementation of its strategic plan, Clemson Elevate. Prior to relocating to the Upstate, she spent 13 years at the University of Notre Dame in a variety of roles that helped further its mission to “Be a Force for Good in the World.” Lauren’s educational journey has been enriched by diverse experiences across multiple institutions. She studied at Franciscan University of Steubenville, the University of Hawaii at Manoa, and internationally in Gaming, Austria before earning her degree from Indiana University. She serves on the boards of the Easley Chamber of Commerce and is a graduate of Leadership Pickens Cohort XXXIII. Lauren and her husband, Joel, are high school sweethearts and have four young children – Charlotte, Finn, Stella, and Henry. Their family enjoys spending time outdoors and embracing the incredible natural beauty of South Carolina",
+  "content_html": "<main class=\"site-main\" id=\"main\">\n<article class=\"post-1689 board_members type-board_members status-publish has-post-thumbnail hentry ast-article-single\" id=\"post-1689\" itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\">\n<div class=\"ast-post-format- single-layout-1\">\n<header class=\"entry-header\">\n<h1 class=\"entry-title\" itemprop=\"headline\">Lauren  Fox</h1><div class=\"entry-meta\">By <span class=\"posted-by vcard author\" itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\"> <a class=\"url fn n\" href=\"https://scupstatefoundation.org/author/admin/\" itemprop=\"url\" rel=\"author\" title=\"View all posts by admin\">\n<span class=\"author-name\" itemprop=\"name\">\n\t\t\t\tadmin\t\t\t</span>\n</a>\n</span>\n\n\t\t / <span class=\"posted-on\"><span class=\"published\" itemprop=\"datePublished\"> July 28, 2025 </span></span></div>\n</header><!-- .entry-header -->\n<div class=\"entry-content clear\" itemprop=\"text\">\n<p>Lauren is the President of the Upstate Education + Opportunity Foundation and the Director of Community Engagement for the School District of Pickens County. She collaborates with leaders throughout the Upstate to drive transformational educational growth, research, and community engagement.</p>\n<p>Before transitioning into to K-12 education, Lauren worked for Clemson University to support the implementation of its strategic plan, Clemson Elevate. Prior to relocating to the Upstate, she spent 13 years at the University of Notre Dame in a variety of roles that helped further its mission to “Be a Force for Good in the World.”</p>\n<p>Lauren’s educational journey has been enriched by diverse experiences across multiple institutions. She studied at Franciscan University of Steubenville, the University of Hawaii at Manoa, and internationally in Gaming, Austria before earning her degree from Indiana University.</p>\n<p>She serves on the boards of the Easley Chamber of Commerce and is a graduate of Leadership Pickens Cohort XXXIII.</p>\n<p>Lauren and her husband, Joel, are high school sweethearts and have four young children – Charlotte, Finn, Stella, and Henry. Their family enjoys spending time outdoors and embracing the incredible natural beauty of South Carolina</p>\n</div><!-- .entry-content .clear -->\n</div>\n</article><!-- #post-## -->\n </main>",
+  "schema_org": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://scupstatefoundation.org",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/#listItem",
+              "position": 2,
+              "name": "Board Members",
+              "item": "https://scupstatefoundation.org/board-members/",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/#listItem",
+                "name": "Lauren  Fox"
+              },
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org#listItem",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/#listItem",
+              "position": 3,
+              "name": "Lauren  Fox",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://scupstatefoundation.org/board-members/#listItem",
+                "name": "Board Members"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://scupstatefoundation.org/#organization",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "url": "https://scupstatefoundation.org/"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/#webpage",
+          "url": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/",
+          "name": "Lauren Fox - Upstate Foundation",
+          "description": "connect@scupstatefoundation.org",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://scupstatefoundation.org/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/#breadcrumblist"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://scupstatefoundation.org/wp-content/uploads/2025/07/Layer-62.png",
+            "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/#mainImage",
+            "width": 337,
+            "height": 349
+          },
+          "primaryImageOfPage": {
+            "@id": "https://scupstatefoundation.org/board-members/lauren-fox-copy-2/#mainImage"
+          },
+          "datePublished": "2025-07-28T19:13:16+00:00",
+          "dateModified": "2025-11-12T21:14:23+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scupstatefoundation.org/#website",
+          "url": "https://scupstatefoundation.org/",
+          "name": "Upstate Foundation",
+          "description": "Education & Opportunity",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://scupstatefoundation.org/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}
